@@ -8,7 +8,7 @@ order: 1
 ---
 
 
-## :fr: :maple_leaf:
+## :fr: :canada:
 
 I am a postdoctoral researcher in the 
 [Big Data Infrastructures for Neuroinformatics lab](https://big-data-lab-team.github.io/) 
