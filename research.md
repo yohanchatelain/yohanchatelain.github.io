@@ -4,6 +4,10 @@ title: Research
 
 # Publications
 
+> **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf)** \\
+    <sub> Y. Chatelain, N. Yong, G. Kiar, T. Glatard </sub> \\
+    <sup> arXiv preprint arXiv:2112.11508 </sup>
+    
 > **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf)** \\
     <sub> A. Salari, Y. Chatelain, G. Kiar, T. Glatard </sub> \\
     <sup> 2021 MICCAI workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE 2021) </sup>
