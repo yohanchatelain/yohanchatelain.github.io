@@ -2,42 +2,72 @@
 title: Research
 ---
 
-# Publications
+## Peer-reviewed publications in journals
 
-> **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf)** \\
-    <sub> Y. Chatelain, N. Yong, G. Kiar, T. Glatard </sub> \\
-    <sup> arXiv preprint arXiv:2112.11508 </sup>
-    
-> **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf)** \\
-    <sub> A. Salari, Y. Chatelain, G. Kiar, T. Glatard </sub> \\
-    <sup> 2021 MICCAI workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE 2021) </sup>
+1. **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf).** \\
+ **Yohan chatelain**, Nigel Yong, Gregory Kiar, Tristan Glatard.
+*IEEE Transactions on Computers (IEEE TC) (2022)*
+2. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://arxiv.org/pdf/2109.09649.pdf)**. \\
+Gregory Kiar, **Yohan chatelain**, Ali Salari, Alan C. Evans, Tristan Glatard.
+*In Neurons, Behavior, Data Analysis and Theory, 2021.*
+3. **[Numerical Uncertainty in Analytical Pipelines Lead to Impactful Variability in Brain Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250755)**. \\
+Gregory Kiar, **Yohan chatelain**, Pablo de Oliveira Castro, Eric Petit, Ariel Rokem, Gaël Varoquaux, Bratislav Misic, Alan C. Evans, Tristan Glatard.
+*In PLOS ONE (2021).*
+4. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
+Mihail Popov, Chadi Akel, **Yohan chatelain**, William Jalby, and Pablo de Oliveira Castro.
+*Concurrency and Computation: Practice and Experience, vol. 29, Aug 2017.*
 
-> **[Data augmentation through Monte Carlo arithmetic leads to more generalizable classification in connectomics](https://arxiv.org/pdf/2109.09649)** \\
-    <sub> G. Kiar, Y. Chatelain, A. Salari, AC. Evans, T. Glatard </sub> \\
-    <sup> Neurons, Behavior, Data Analysis and Theory, 2021 </sup>
+## Peer-reviewed publications in conferences
+1. **[Reproducibility of tumor segmentation outcomes with a deep learning model](https://hal.science/hal-04006057/document).** \\
+Morgane Des Ligneris, Axel Bonnet, **Yohan chatelain**, Tristan Glatard, Michaël Sdika, Gaël Vila, Valentine Wargnier-Dauchelle, Sorina Pop, Carole Frindel.
+*International Symposium on Biomedical Imaging (ISBI), 2023.*
+2. **[Reducing numerical precision preserves classification accuracy in Mondrian Forests](https://arxiv.org/pdf/2106.14340.pdf).** \\
+Marc Vicuna, Martin Khannouz, Gregory Kiar, **Yohan chatelain**, Tristan Glatard.
+*6th Workshop on Real-time Stream Analytics, Stream Mining, CER/CEP & Stream Data Management In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2785-2790).*
+3. **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf).** \\
+Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
+*Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2021) pp. 14–23. Springer Publishing.*
+4. **[Automatic exploration of reduced floating-point representations in iterative methods](https://hal.science/hal-02564972/file/dyn_adapt_precision19.pdf).** \\
+**Yohan chatelain**, Eric Petit, Pablo de Oliveira Castro, Ghislain Lartigue, David Defour.
+*(2019, August). In the European Conference on Parallel Processing (Euro-Par) (pp. 481-494). Springer, Cham.*
+1. **[VeriTracer: Context-enriched tracer for floating-point arithmetic analysis](https://sifflez.org/publications/arith2018veritracer.pdf).** \\
+**Yohan chatelain**, Pablo de Oliveira Castro, Eric Petit, David Defour, Jordan Bieder, and Marc Torrent.
+*In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
-> **[Reducing numerical precision preserves classification accuracy in Mondrian Forests](https://arxiv.org/pdf/2106.14340)** \\
-    <sub> M. Vicuna, M. Khannouz, G. Kiar, Y. Chatelain, T. Glatard </sub> \\
-    <sup> 6th Workshop on Real-time Stream Analytics, Stream Mining, CER/CEP & Stream Data Management in Big Data, 2021 </sup>
+## Preprints
+1. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
+**Yohan chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
+*arXiv:2307.01373*
+2. **[Longitudinal brain structure changes in Parkinson's disease: a replication study](https://www.biorxiv.org/content/biorxiv/early/2023/04/29/2023.04.28.538743.full.pdf)** \\
+Andrzej Sokolowski, Nikhil Bhagwat, **Yohan chatelain**, Mathieu Dugre, Alexandru Hanganu, Oury Monchi, Brent McPherson, Michelle Wang, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard.
+*bioRxiv:2023.04.28.538743*
+3. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
+Mohanad Arafe, Nikhil Bhagwat, **Yohan chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
+*bioRxiv:2023.05.05.539590.*
+4. **[Numerical Stability of DeepGOPlus Inference](https://arxiv.org/pdf/2212.06361.pdf)** \\
+Ines Gonzalez Pepe, **Yohan chatelain**, Gregory Kiar, Tristan Glatard.
+*arXiv preprint arXiv:2212.06361.*
 
-> **[Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0250755&type=printable)** \\
-    <sub> G. Kiar, Y. Chatelain, PDO. Castro, E. Petit, A. Rokem, et al.  </sub> \\
-    <sup> PLOS ONE 16(11): e0250755 (2021). </sup>
+## Communications at international conferences (asbtract)
+1. **[A numerical variability approach to results stability tests and its application to neuroimaging]()**. \\
+**Yohan chatelain**, Loïc Tetrel, Christopher J. Markiewicz, Mathias Goncalvez, Gregory Kiar, Oscar Esteban, Pierre Bellec and Tristan Glatard.
+*OHBM 2022, Glasgow, Scotland.*
+2. **[Fuzzy environments for the perturbation, evaluation, and application of numerical uncertainty via MCA in the scientific Python ecosystem]()** \\
+Gregory Kiar, **Yohan chatelain**, Ali Salari, Eric Petit, Pablo de Oliveira Castro, and Tristan Glatard.
+*SciPy Conference, 2021.*
+3. **[Towards Abinit on ExaScale supercomputers: the challenge for electronic structure physicists](https://ui.adsabs.harvard.edu/abs/2018APS..MARC34007B/abstract)** \\
+Jordan Bieder, Marc Torrent, and **Yohan chatelain**.
+*APS Meeting Abstracts. 2018*
 
-> **[Automatic exploration of reduced floating-point representations in iterative methods](https://hal.archives-ouvertes.fr/hal-02564972/file/dyn_adapt_precision19.pdf)** \\
-    <sub> Y. Chatelain, E. Petit, PDO. Castro, G. Lartigue, D. Defour </sub> \\
-    <sup> European Conference on Parallel Processing, 481-494 </sup>
-
-> **[VeriTracer: Context-enriched tracer for floating-point arithmetic analysis](https://sifflez.org/publications/arith2018veritracer.pdf)** \\
-    <sub> Y. Chatelain, PDO. Castro, E. Petit, D. Defour, J. Bieder, M. Torrent </sub> \\
-    <sup> 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH), 61-68 </sup>
-
-> **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)** \\
-    <sub> M. Popov, C. Akel, Y. Chatelain, W. Jalby, PDO. Castro </sub> \\
-    <sup> Concurrency and Computation: Practice and Experience 29 (15), e4190 </sup>
-
+## Communications at international conferences (abstract)
+1. IXPUG 2019: Intel Extreme Performance Users Group, CERN, Geneva, Switzerland
+2. IXPUG 2018: Intel Extreme Performance Users Group, Intel Corporation, Hillsboro, OR, USA
+3. ESTN 2018: 8èmes École Thématique de Simulation Numérique, Cargèse, 2018
+4. RAIM 2017: 9èmes Rencontres «Arithmétique de l’Informatique Mathématique», Lyon, 2017
+5. ABIDEV 2017: The 8th ABINIT developer's workshop, Frejus, 2017
 
 ## PhD Thesis
 
-> **[Outils de débogage et d'optimisation des calculs flottants dans le contexte HPC](https://tel.archives-ouvertes.fr/tel-02614237/file/85561_CHATELAIN_2019_archivage.pdf)** \\
-    <sup> Y. Chatelain | Université Paris-Saclay </sup>
+1. **[Outils de débogage et d'optimisation des calculs flottants dans le contexte HPC](https://tel.archives-ouvertes.fr/tel-02614237/file/85561_CHATELAIN_2019_archivage.pdf)** \\
+Yohan Chatelain. *Université Paris-Saclay*
+
