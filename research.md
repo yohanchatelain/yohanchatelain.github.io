@@ -59,7 +59,7 @@ Gregory Kiar, **Yohan chatelain**, Ali Salari, Eric Petit, Pablo de Oliveira Cas
 Jordan Bieder, Marc Torrent, and **Yohan chatelain**.
 *APS Meeting Abstracts. 2018*
 
-## Communications at international conferences (abstract)
+## Communications
 1. IXPUG 2019: Intel Extreme Performance Users Group, CERN, Geneva, Switzerland
 2. IXPUG 2018: Intel Extreme Performance Users Group, Intel Corporation, Hillsboro, OR, USA
 3. ESTN 2018: 8èmes École Thématique de Simulation Numérique, Cargèse, 2018

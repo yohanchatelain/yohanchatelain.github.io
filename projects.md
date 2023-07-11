@@ -4,13 +4,13 @@ title: Projects
 
 A list of projects to which I contribue:
 
-- [ReproVIP aims to evaluate and improve the reproducibility of scientific results in the field of medical imaging](https://www.creatis.insa-lyon.fr/reprovip/)
-- [LivingPark, to improve the generalizability and robustness of MRI-derived biomarkers of Parkinson's Disease](https://github.com/LivingPark-MRI)
-- [Interflop: modular and scalable platform to analyze floating-point arithmetic](https://github.com/interflop)
-- [PyTracer: A tool for evaluating numerical stability of Python codes](https://github.com/yohanchatelain/pytracer)
-- [Significantdigits: A robust framework for statistical analysis of stochastic arithmetic](https://github.com/verificarlo/significantdigits)
-- [Fuzzy: A Python ecosystem for evaluating the numerical stability](https://github.com/verificarlo/fuzzy)
-- [VeriTracer: A context-enriched tracer for floating-point arithmetic analysis](https://github.com/verificarlo/verificarlo/tree/veritracer)
-- [Verificarlo: A tool for automatic Montecarlo Arithmetic analysis](https://github.com/verificarlo/verificarlo)
-- [CERE: Codelet Extractor and REplayer](https://benchmark-subsetting.github.io/cere/)
+- [ReproVIP](https://www.creatis.insa-lyon.fr/reprovip/): aims to evaluate and improve the reproducibility of scientific results in the field of medical imaging
+- [LivingPark](https://github.com/LivingPark-MRI): to improve the generalizability and robustness of MRI-derived biomarkers of Parkinson's Disease
+- [Interflop](https://github.com/interflop): modular and scalable platform to analyze floating-point arithmetic
+- [PyTracer](https://github.com/yohanchatelain/pytracer): A tool for evaluating numerical stability of Python codes
+- [Significantdigits](https://github.com/verificarlo/significantdigits): A robust framework for statistical analysis of stochastic arithmetic
+- [Fuzzy](https://github.com/verificarlo/fuzzy): A Python ecosystem for evaluating the numerical stability
+- [VeriTracer](https://github.com/verificarlo/verificarlo/tree/veritracer): A context-enriched tracer for floating-point arithmetic analysis
+- [Verificarlo](https://github.com/verificarlo/verificarlo): A tool for automatic Montecarlo Arithmetic analysis
+- [CERE](https://benchmark-subsetting.github.io/cere/): Codelet Extractor and REplayer
 
