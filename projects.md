@@ -4,7 +4,7 @@ title: Projects
 
 A list of projects to which I contribue:
 
-- [ReproVIP](https://www.creatis.insa-lyon.fr/reprovip/): aims to evaluate and improve the reproducibility of scientific results in the field of medical imaging
+- [ReproVIP](https://www.creatis.insa-lyon.fr/reprovip/): to evaluate and improve the reproducibility of scientific results in the field of medical imaging
 - [LivingPark](https://github.com/LivingPark-MRI): to improve the generalizability and robustness of MRI-derived biomarkers of Parkinson's Disease
 - [Interflop](https://github.com/interflop): modular and scalable platform to analyze floating-point arithmetic
 - [PyTracer](https://github.com/yohanchatelain/pytracer): A tool for evaluating numerical stability of Python codes
