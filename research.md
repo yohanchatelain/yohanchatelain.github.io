@@ -18,19 +18,22 @@ Mihail Popov, Chadi Akel, **Yohan chatelain**, William Jalby, and Pablo de Olive
 *Concurrency and Computation: Practice and Experience, vol. 29, Aug 2017.*
 
 ## Peer-reviewed publications in conferences
-1. **[Reproducibility of tumor segmentation outcomes with a deep learning model](https://hal.science/hal-04006057/document).** \\
+1. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://link.springer.com/chapter/10.1007/978-3-031-44336-7_7).** \\
+Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, Tristan Glatard
+*Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2023)*
+3. **[Reproducibility of tumor segmentation outcomes with a deep learning model](https://hal.science/hal-04006057/document).** \\
 Morgane Des Ligneris, Axel Bonnet, **Yohan chatelain**, Tristan Glatard, Michaël Sdika, Gaël Vila, Valentine Wargnier-Dauchelle, Sorina Pop, Carole Frindel.
 *International Symposium on Biomedical Imaging (ISBI), 2023.*
-2. **[Reducing numerical precision preserves classification accuracy in Mondrian Forests](https://arxiv.org/pdf/2106.14340.pdf).** \\
+4. **[Reducing numerical precision preserves classification accuracy in Mondrian Forests](https://arxiv.org/pdf/2106.14340.pdf).** \\
 Marc Vicuna, Martin Khannouz, Gregory Kiar, **Yohan chatelain**, Tristan Glatard.
 *6th Workshop on Real-time Stream Analytics, Stream Mining, CER/CEP & Stream Data Management In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2785-2790).*
-3. **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf).** \\
+5. **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf).** \\
 Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2021) pp. 14–23. Springer Publishing.*
-4. **[Automatic exploration of reduced floating-point representations in iterative methods](https://hal.science/hal-02564972/file/dyn_adapt_precision19.pdf).** \\
+6. **[Automatic exploration of reduced floating-point representations in iterative methods](https://hal.science/hal-02564972/file/dyn_adapt_precision19.pdf).** \\
 **Yohan chatelain**, Eric Petit, Pablo de Oliveira Castro, Ghislain Lartigue, David Defour.
 *(2019, August). In the European Conference on Parallel Processing (Euro-Par) (pp. 481-494). Springer, Cham.*
-1. **[VeriTracer: Context-enriched tracer for floating-point arithmetic analysis](https://sifflez.org/publications/arith2018veritracer.pdf).** \\
+7. **[VeriTracer: Context-enriched tracer for floating-point arithmetic analysis](https://sifflez.org/publications/arith2018veritracer.pdf).** \\
 **Yohan chatelain**, Pablo de Oliveira Castro, Eric Petit, David Defour, Jordan Bieder, and Marc Torrent.
 *In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
