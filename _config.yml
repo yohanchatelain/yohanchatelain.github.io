@@ -50,7 +50,7 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/yohan-chatelain/" }
     - { platform: google_scholar, user_url: "https://scholar.google.ca/citations?user=fYcLg4IAAAAJ&hl=en" }
 
-google_analytics: UA-NNNNNNNN-N
+google_analytics: G-PP69GHJBB5
 show_excerpts: true
 
 # Exclude from processing.

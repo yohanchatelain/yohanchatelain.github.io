@@ -4,7 +4,6 @@ permalink: /research
 layout: page
 ---
 
-# Publications
 
 ## Peer-reviewed publications in journals
 
