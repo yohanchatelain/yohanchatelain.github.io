@@ -6,6 +6,7 @@ var object = document.querySelector('object[name="resume"]');
 // Check for saved theme choice and apply it
 const savedTheme = localStorage.getItem('theme');
 if (savedTheme) {
+    console.log(`Saved theme: ${savedTheme}`);
     html.classList.add(savedTheme);
     if (savedTheme === 'dark-theme' && object) {
         object.setAttribute('data', 'Research_Resume_Dark.pdf');
@@ -22,9 +23,13 @@ switcher.addEventListener('click', () => {
     // Save theme choice
     if (html.classList.contains('dark-theme')) {
         localStorage.setItem('theme', 'dark-theme');
-        object.setAttribute('data', 'Research_Resume_Dark.pdf');
+        if (object) {
+            object.setAttribute('data', 'Research_Resume_Dark.pdf');
+        }
     } else {
-        object.setAttribute('data', 'Research_Resume.pdf');
+        if (object) {
+            object.setAttribute('data', 'Research_Resume.pdf');
+        }
         localStorage.removeItem('theme');
     }
 
