@@ -44,10 +44,13 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
 ## Preprints
-1. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
+1. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://hal.science/hal-04480308/file/ACMREP24_preprint_hal.pdf).** \\
+Vila, Gaël, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michaël Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
+*2024 - hal.science*
+2. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
 **Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
 *arXiv:2307.01373*
-2. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
+3. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
 *bioRxiv:2023.05.05.539590.*
 
