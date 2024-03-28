@@ -1,0 +1,85 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #fff;
+    color: #000;
+}
+
+body.dark-theme {
+    background-color: #161617;
+    color: #fff;
+}
+
+body.dark-theme a {
+    color: #2074a5;
+}
+
+body.dark-theme a:hover {
+    color: #f66a0a;
+}
+
+body.dark-theme a:not(.page-link)::not(.site-title):visited {
+    color: #2074a5;
+}
+
+body.dark-theme a.page-link:visited {
+    color: #fff;
+}
+
+body.dark-theme a.site-title:visited {
+    color: #fff;
+}
+
+body.dark-theme a:active {
+    color: #f66a0a;
+}
+
+body.dark-theme a:focus {
+    color: #f66a0a;
+}
+
+body.dark-theme hr {
+    border-color: #fff;
+}
+
+body.dark-theme main {
+    background-color: #161617;
+}
+
+body.dark-theme main h1, 
+body.dark-theme main h2, 
+body.dark-theme main h3, 
+body.dark-theme main h4, 
+body.dark-theme main h5, 
+body.dark-theme main h6 {
+    color: #fff;
+}
+
+body.transition {
+    transition: background-color 0.5s ease;
+}
+
+#theme-switcher {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 1.5em;
+}
+
+#theme-switcher .moon {
+    display: none;
+}
+
+body.dark-theme #theme-switcher .sun {
+    display: none;
+}
+
+body.dark-theme #theme-switcher .moon {
+    display: inline;
+}

@@ -8,7 +8,6 @@ permalink: /
 tags: yohanchatelain yohan chatelain postdoc concordia uvsq verificarlo pytracer software engineering
 ---
 
-
 ## :fr: :canada:
 
 I am a postdoctoral researcher in the 
