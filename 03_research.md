@@ -1,6 +1,10 @@
 ---
 title: Research
+permalink: /research
+layout: default
 ---
+
+# Publications
 
 ## Peer-reviewed publications in journals
 
@@ -45,7 +49,7 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 
 ## Preprints
 1. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://hal.science/hal-04480308/file/ACMREP24_preprint_hal.pdf).** \\
-Vila, Gaël, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michaël Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
+Vila, Gael, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michael Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
 *2024 - hal.science*
 2. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
 **Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.

@@ -1,6 +1,10 @@
 ---
 title: Projects
+permalink: /projects
+layout: default
 ---
+
+
 
 A list of projects to which I contribue:
 

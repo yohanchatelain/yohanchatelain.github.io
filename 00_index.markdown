@@ -4,6 +4,7 @@
 
 layout: home
 title: Home 
+permalink: /
 tags: yohanchatelain yohan chatelain postdoc concordia uvsq verificarlo pytracer software engineering
 ---
 
