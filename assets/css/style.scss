@@ -45,6 +45,7 @@ body.dark-theme hr {
     border-color: #fff;
 }
 
+
 body.dark-theme main {
     background-color: #161617;
 }
@@ -82,4 +83,49 @@ body.dark-theme #theme-switcher .sun {
 
 body.dark-theme #theme-switcher .moon {
     display: inline;
+}
+
+@media screen and (max-width: 600px) {
+
+    .site-nav {
+        margin-right: 30px; // Add some margin to the right of the menu icon
+        background-color: #fdfdfd; // This is the light theme background color
+        color: #424242; // This is the light theme text color
+    }
+
+    #theme-switcher {
+        margin-top: 8px;
+    }
+
+    body.dark-theme .site-nav {
+        background-color: #161617; // This is the dark theme background color
+        color: #fff; // This is the dark theme text color
+    }
+    
+    .header-right {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+
+@media screen and (max-width: 1081px) {
+
+    .site-nav {
+        margin-right: 15px; // Add some margin to the right of the menu icon
+        background-color: #fdfdfd; // This is the light theme background color
+        color: #424242; // This is the light theme text color
+    }
+
+    #theme-switcher {
+        margin-top: 8px;
+        margin-left: 5px;
+    }
+
+    body.dark-theme .site-nav {
+        background-color: #161617; // This is the dark theme background color
+        color: #fff; // This is the dark theme text color
+    }
+    
 }
