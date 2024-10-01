@@ -88,13 +88,15 @@ body.dark-theme #theme-switcher .moon {
 @media screen and (max-width: 600px) {
 
     .site-nav {
-        margin-right: 30px; // Add some margin to the right of the menu icon
+        position: inherit;
+        margin-right: 0px; // Add some margin to the right of the menu icon
         background-color: #fdfdfd; // This is the light theme background color
         color: #424242; // This is the light theme text color
     }
 
     #theme-switcher {
-        margin-top: 8px;
+        justify-content: center;
+        align-items: center;
     }
 
     body.dark-theme .site-nav {
@@ -102,10 +104,20 @@ body.dark-theme #theme-switcher .moon {
         color: #fff; // This is the dark theme text color
     }
     
-    .header-right {
+    div.wrapper {
         display: flex;
         justify-content: space-between;
+    }
+
+    div.wrapper .site-title {
+        flex: 1;
+    }
+
+    div.wrapper .header-right {
+        display: flex;
+        // justify-content: space-between;
         align-items: center;
+        flex: 1;
     }
 }
 

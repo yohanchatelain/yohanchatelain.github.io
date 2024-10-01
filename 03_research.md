@@ -7,22 +7,25 @@ layout: page
 
 ## Peer-reviewed publications in journals
 
-1. **[Longitudinal brain structure changes in Parkinson's disease: a replication study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295069)** \\
+1. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
+**Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
+*IEEE Transactions on Computers (IEEE TC) (2024)*
+2. **[Longitudinal brain structure changes in Parkinson's disease: a replication study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295069)** \\
 Andrzej Sokolowski, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Alexandru Hanganu, Oury Monchi, Brent McPherson, Michelle Wang, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard.
 *In PLOS ONE (2024)*
-1. **[Numerical Stability of DeepGOPlus Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10824456/)** \\
+3. **[Numerical Stability of DeepGOPlus Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10824456/)** \\
 Ines Gonzalez Pepe, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In PLOS ONE (2024)*
-1. **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf).** \\
+4. **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf).** \\
  **Yohan Chatelain**, Nigel Yong, Gregory Kiar, Tristan Glatard.
 *IEEE Transactions on Computers (IEEE TC) (2022)*
-1. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://arxiv.org/pdf/2109.09649.pdf)**. \\
+5. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://arxiv.org/pdf/2109.09649.pdf)**. \\
 Gregory Kiar, **Yohan Chatelain**, Ali Salari, Alan C. Evans, Tristan Glatard.
 *In Neurons, Behavior, Data Analysis and Theory, 2021.*
-1. **[Numerical Uncertainty in Analytical Pipelines Lead to Impactful Variability in Brain Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250755)**. \\
+6. **[Numerical Uncertainty in Analytical Pipelines Lead to Impactful Variability in Brain Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250755)**. \\
 Gregory Kiar, **Yohan Chatelain**, Pablo de Oliveira Castro, Eric Petit, Ariel Rokem, Gaël Varoquaux, Bratislav Misic, Alan C. Evans, Tristan Glatard.
 *In PLOS ONE (2021).*
-1. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
+7. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
 Mihail Popov, Chadi Akel, **Yohan Chatelain**, William Jalby, and Pablo de Oliveira Castro.
 *Concurrency and Computation: Practice and Experience, vol. 29, Aug 2017.*
 
@@ -51,10 +54,10 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
 ## Preprints
-1. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
-**Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
-*arXiv:2307.01373*
-1. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
+1. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://hal.science/hal-04480308/file/ACMREP24_preprint_hal.pdf).** \\
+Vila, Gael, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michael Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
+*2024 - hal.science*
+2. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
 *bioRxiv:2023.05.05.539590.*
 
