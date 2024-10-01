@@ -31,7 +31,7 @@ Mihail Popov, Chadi Akel, **Yohan Chatelain**, William Jalby, and Pablo de Olive
 
 ## Peer-reviewed publications in conferences
 
-1. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://hal.science/hal-04480308/file/ACMREP24_preprint_hal.pdf).** \\
+1. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://dl.acm.org/doi/pdf/10.1145/3641525.3663626).** \\
 Vila, Gael, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michael Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
 *Proceedings of the 2024 ACM Conference on Reproducibility and Replicability* :sparkles: <span style="color:Chocolate"><strong>Best Paper Award</strong></span> :sparkles:
 1. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://link.springer.com/chapter/10.1007/978-3-031-44336-7_7).** \\

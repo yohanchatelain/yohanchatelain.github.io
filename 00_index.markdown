@@ -17,3 +17,11 @@ My research topics include computer arithmetic, high-performance computing, and
 reproducibility. My work aims at democratizing the use of stability
 analysis of scientific computing codes through automatic tools to improve
 numerical quality.
+
+<br>
+
+---
+
+<br>
+
+## Posts
