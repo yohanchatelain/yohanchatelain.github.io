@@ -54,9 +54,11 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
 ## Preprints
-1. **[An Analysis of Performance Bottlenecks in MRI Pre-Processing](https://arxiv.org/pdf/2405.17650)**
+1. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)**
+Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, Yohan Chatelain, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071*
+2. **[An Analysis of Performance Bottlenecks in MRI Pre-Processing](https://arxiv.org/pdf/2405.17650)**
 Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *arXiv:2405.17650*. (accepted to GigaScience)
-2. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
+3. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
 *bioRxiv:2023.05.05.539590.*
 
