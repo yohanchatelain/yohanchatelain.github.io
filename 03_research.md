@@ -31,34 +31,34 @@ Mihail Popov, Chadi Akel, **Yohan Chatelain**, William Jalby, and Pablo de Olive
 
 ## Peer-reviewed publications in conferences
 
-1. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://dl.acm.org/doi/pdf/10.1145/3641525.3663626).** \\
+1. **[An Analysis of Performance Bottlenecks in MRI Pre-Processing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371)**
+Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *GigaScience 14 (2025): giae098.*.
+2. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://dl.acm.org/doi/pdf/10.1145/3641525.3663626).** \\
 Vila, Gael, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michael Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
 *Proceedings of the 2nd ACM Conference on Reproducibility and Replicability* :sparkles: <span style="color:Chocolate"><strong>Best Paper Award</strong></span> :sparkles:
-2. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://link.springer.com/chapter/10.1007/978-3-031-44336-7_7).** \\
+3. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://link.springer.com/chapter/10.1007/978-3-031-44336-7_7).** \\
 Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, Tristan Glatard
 *Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2023)*
-3. **[Reproducibility of tumor segmentation outcomes with a deep learning model](https://hal.science/hal-04006057/document).** \\
+4. **[Reproducibility of tumor segmentation outcomes with a deep learning model](https://hal.science/hal-04006057/document).** \\
 Morgane Des Ligneris, Axel Bonnet, **Yohan Chatelain**, Tristan Glatard, Michaël Sdika, Gaël Vila, Valentine Wargnier-Dauchelle, Sorina Pop, Carole Frindel.
 *International Symposium on Biomedical Imaging (ISBI), 2023.*
-4. **[Reducing numerical precision preserves classification accuracy in Mondrian Forests](https://arxiv.org/pdf/2106.14340.pdf).** \\
+5. **[Reducing numerical precision preserves classification accuracy in Mondrian Forests](https://arxiv.org/pdf/2106.14340.pdf).** \\
 Marc Vicuna, Martin Khannouz, Gregory Kiar, **Yohan Chatelain**, Tristan Glatard.
 *6th Workshop on Real-time Stream Analytics, Stream Mining, CER/CEP & Stream Data Management In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2785-2790).*
-5. **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf).** \\
+6. **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf).** \\
 Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2021) pp. 14–23. Springer Publishing.*
-6. **[Automatic exploration of reduced floating-point representations in iterative methods](https://hal.science/hal-02564972/file/dyn_adapt_precision19.pdf).** \\
+7. **[Automatic exploration of reduced floating-point representations in iterative methods](https://hal.science/hal-02564972/file/dyn_adapt_precision19.pdf).** \\
 **Yohan Chatelain**, Eric Petit, Pablo de Oliveira Castro, Ghislain Lartigue, David Defour.
 *(2019, August). In the European Conference on Parallel Processing (Euro-Par) (pp. 481-494). Springer, Cham.*
-7. **[VeriTracer: Context-enriched tracer for floating-point arithmetic analysis](https://sifflez.org/publications/arith2018veritracer.pdf).** \\
+8. **[VeriTracer: Context-enriched tracer for floating-point arithmetic analysis](https://sifflez.org/publications/arith2018veritracer.pdf).** \\
 **Yohan Chatelain**, Pablo de Oliveira Castro, Eric Petit, David Defour, Jordan Bieder, and Marc Torrent.
 *In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
 ## Preprints
 1. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)**
 Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, Yohan Chatelain, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071*
-2. **[An Analysis of Performance Bottlenecks in MRI Pre-Processing](https://arxiv.org/pdf/2405.17650)**
-Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *arXiv:2405.17650*. (accepted to GigaScience)
-3. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
+2. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
 *bioRxiv:2023.05.05.539590.*
 
