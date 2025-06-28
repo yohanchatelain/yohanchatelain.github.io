@@ -6,7 +6,7 @@ layout: page
 
 
 
-A list of projects to which I contribue:
+A list of projects to which I contribute:
 
 - [PRISM](https://github.com/yohanchatelain/prism): Probabilistic Rounding with Instruction Set Management. A vectorized implementation of Stochastic Rounding compatible with Verificarlo
 - [ReproVIP](https://www.creatis.insa-lyon.fr/reprovip/): To evaluate and improve the reproducibility of scientific results in the field of medical imaging

@@ -1,5 +1,5 @@
 const switcher = document.getElementById('theme-switcher');
-const html = document.body;
+const html = document.documentElement;
 
 var object = document.querySelector('object[name="resume"]');
 

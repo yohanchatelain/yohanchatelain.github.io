@@ -21,7 +21,7 @@ body.dark-theme a:hover {
     color: #f66a0a;
 }
 
-body.dark-theme a:not(.page-link)::not(.site-title):visited {
+body.dark-theme a:not(.page-link):not(.site-title):visited {
     color: #2074a5;
 }
 
@@ -71,6 +71,18 @@ body.transition {
     background: none;
     cursor: pointer;
     font-size: 1.5em;
+    z-index: 1000;
+    padding: 8px;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+}
+
+#theme-switcher:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+body.dark-theme #theme-switcher:hover {
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 #theme-switcher .moon {
@@ -85,59 +97,123 @@ body.dark-theme #theme-switcher .moon {
     display: inline;
 }
 
-@media screen and (max-width: 600px) {
+/* Desktop layout improvements */
+@media screen and (min-width: 1082px) {
+    .site-header {
+        padding: 20px 0;
+    }
 
-    .site-nav {
-        position: inherit;
-        margin-right: 0px; // Add some margin to the right of the menu icon
-        background-color: #fdfdfd; // This is the light theme background color
-        color: #424242; // This is the light theme text color
+    div.wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+
+    div.wrapper .header-right {
+        display: flex;
+        align-items: center;
+        gap: 20px;
     }
 
     #theme-switcher {
-        justify-content: center;
-        align-items: center;
+        position: relative;
+        right: auto;
+        top: auto;
+        margin: 0;
+        font-size: 1.4em;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .site-header {
+        padding: 10px 0;
+    }
+
+    .site-nav {
+        position: inherit;
+        margin-right: 0px; /* Add some margin to the right of the menu icon */
+        background-color: #fdfdfd; /* This is the light theme background color */
+        color: #424242; /* This is the light theme text color */
+        border-radius: 8px;
+    }
+
+    #theme-switcher {
+        position: relative;
+        right: auto;
+        top: auto;
+        margin-left: 10px;
+        font-size: 1.2em;
     }
 
     body.dark-theme .site-nav {
-        background-color: #161617; // This is the dark theme background color
-        color: #fff; // This is the dark theme text color
+        background-color: #161617; /* This is the dark theme background color */
+        color: #fff; /* This is the dark theme text color */
     }
     
     div.wrapper {
         display: flex;
         justify-content: space-between;
+        align-items: center;
+        padding: 0 15px;
     }
 
     div.wrapper .site-title {
         flex: 1;
+        padding-right: 10px;
     }
 
     div.wrapper .header-right {
         display: flex;
-        // justify-content: space-between;
         align-items: center;
-        flex: 1;
+        gap: 10px;
+    }
+
+    .page-content {
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
 
 
-@media screen and (max-width: 1081px) {
+@media screen and (min-width: 601px) and (max-width: 1081px) {
+    .site-header {
+        padding: 15px 0;
+    }
 
     .site-nav {
-        margin-right: 15px; // Add some margin to the right of the menu icon
-        background-color: #fdfdfd; // This is the light theme background color
-        color: #424242; // This is the light theme text color
+        margin-right: 15px; /* Add some margin to the right of the menu icon */
+        background-color: #fdfdfd; /* This is the light theme background color */
+        color: #424242; /* This is the light theme text color */
+        border-radius: 8px;
     }
 
     #theme-switcher {
-        margin-top: 8px;
-        margin-left: 5px;
+        position: relative;
+        right: auto;
+        top: auto;
+        margin-top: 0;
+        margin-left: 10px;
+        font-size: 1.3em;
     }
 
     body.dark-theme .site-nav {
-        background-color: #161617; // This is the dark theme background color
-        color: #fff; // This is the dark theme text color
+        background-color: #161617; /* This is the dark theme background color */
+        color: #fff; /* This is the dark theme text color */
     }
-    
+
+    div.wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 20px;
+    }
+
+    div.wrapper .header-right {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
 }

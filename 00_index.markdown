@@ -12,9 +12,9 @@ tags: yohanchatelain yohan chatelain postdoc concordia uvsq verificarlo pytracer
 
 I am a postdoctoral researcher in the 
 [Big Data Infrastructures for Neuroinformatics lab](https://big-data-lab-team.github.io/) 
-at the [University of Concordia, Montreal, Canada](https://www.concordia.ca/). 
+at [Concordia University, Montreal, Canada](https://www.concordia.ca/). 
 My research topics include computer arithmetic, high-performance computing, and
-reproducibility. My work aims at democratizing the use of stability
+reproducibility. My work aims to democratize the use of stability
 analysis of scientific computing codes through automatic tools to improve
 numerical quality.
 

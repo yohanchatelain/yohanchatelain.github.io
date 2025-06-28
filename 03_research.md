@@ -62,7 +62,7 @@ Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, Yohan Chatelain, Mathi
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
 *bioRxiv:2023.05.05.539590.*
 
-## Communications at international conferences (asbtract)
+## Communications at international conferences (abstract)
 1. **[A numerical variability approach to results stability tests and its application to neuroimaging]()**. \\
 **Yohan Chatelain**, Loïc Tetrel, Christopher J. Markiewicz, Mathias Goncalvez, Gregory Kiar, Oscar Esteban, Pierre Bellec and Tristan Glatard.
 *OHBM 2022, Glasgow, Scotland.*

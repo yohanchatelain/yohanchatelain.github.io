@@ -1,5 +1,5 @@
 ---
-title: 
+title: New paper accepted (GigaScience 2025)
 date: 2024-11-08
 ---
 

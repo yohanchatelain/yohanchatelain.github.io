@@ -8,7 +8,7 @@ tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)
 
 ## Description
 
-Ensuring the long-term reproducibility of data anal- yses requires results
+Ensuring the long-term reproducibility of data analyses requires results
 stability tests to verify that analysis results remain within acceptable
 variation bounds despite inevitable software updates and hardware evolutions.
 This paper introduces a numerical variability approach for results stability
