@@ -19,4 +19,4 @@ Floacon is a web-based floating-point converter and explorer. It allows you to:
 
 This application is built with Next.js and deployed on GitHub Pages.
 
-You can check out the project on GitHub: [https://github.com/yohanchatelain/floacon-firebase](https://github.com/yohanchatelain/floacon-firebase)
+You can check out the project on GitHub: [https://github.com/yohanchatelain/floacon-firebase](https://yohanchatelain.github.io/floacon-firebase/)
