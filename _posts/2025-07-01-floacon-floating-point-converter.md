@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Floacon: A Web-Based Floating-Point Converter and Explorer"
-date: 2025-07-01 09:00:00 +0200
+date: 2025-07-01
 categories: [projects, web, tools]
 tags: [floating-point, converter, web-app, nextjs, firebase]
 ---
