@@ -8,6 +8,7 @@ layout: page
 
 A list of projects to which I contribute:
 
+- [Floacon](https://github.com/yohanchatelain/floacon-firebase): A web-based floating-point converter and explorer.
 - [PRISM](https://github.com/yohanchatelain/prism): Probabilistic Rounding with Instruction Set Management. A vectorized implementation of Stochastic Rounding compatible with Verificarlo
 - [ReproVIP](https://www.creatis.insa-lyon.fr/reprovip/): To evaluate and improve the reproducibility of scientific results in the field of medical imaging
 - [LivingPark](https://github.com/LivingPark-MRI): To improve the generalizability and robustness of MRI-derived biomarkers of Parkinson's Disease
@@ -18,4 +19,3 @@ A list of projects to which I contribute:
 - [VeriTracer](https://github.com/verificarlo/verificarlo/tree/veritracer): A context-enriched tracer for floating-point arithmetic analysis
 - [Verificarlo](https://github.com/verificarlo/verificarlo): A tool for automatic Montecarlo Arithmetic analysis
 - [CERE](https://benchmark-subsetting.github.io/cere/): Codelet Extractor and REplayer
-
