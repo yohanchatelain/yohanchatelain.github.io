@@ -103,7 +103,7 @@ body.dark-theme #theme-switcher .moon {
         padding: 20px 0;
     }
 
-    div.wrapper {
+    .site-header div.wrapper {
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -112,7 +112,7 @@ body.dark-theme #theme-switcher .moon {
         padding: 0 30px;
     }
 
-    div.wrapper .header-right {
+    .site-header div.wrapper .header-right {
         display: flex;
         align-items: center;
         gap: 20px;
@@ -153,19 +153,19 @@ body.dark-theme #theme-switcher .moon {
         color: #fff; /* This is the dark theme text color */
     }
     
-    div.wrapper {
+    .site-header div.wrapper {
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 0 15px;
     }
 
-    div.wrapper .site-title {
+    .site-header div.wrapper .site-title {
         flex: 1;
         padding-right: 10px;
     }
 
-    div.wrapper .header-right {
+    .site-header div.wrapper .header-right {
         display: flex;
         align-items: center;
         gap: 10px;
@@ -204,14 +204,14 @@ body.dark-theme #theme-switcher .moon {
         color: #fff; /* This is the dark theme text color */
     }
 
-    div.wrapper {
+    .site-header div.wrapper {
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 0 20px;
     }
 
-    div.wrapper .header-right {
+    .site-header div.wrapper .header-right {
         display: flex;
         align-items: center;
         gap: 15px;
