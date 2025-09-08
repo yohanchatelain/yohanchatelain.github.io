@@ -8,7 +8,7 @@ categories: significant digits
 
 This post demonstrates how to visualize numerical instability in floating-point computations by simulating instability in Chebyshev polynomials using [Monte Carlo Arithmetic](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3b55cfb2325bc081f113612204733c2a3bd650fe) with [Verificarlo](https://github.com/verificarlo/verificarlo) and displaying the results as an animated GIF.
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # Visualizing Numerical Instability in Chebyshev Polynomials
 
@@ -23,7 +23,7 @@ This example highlights how catastrophic cancellation, a common issue in floatin
 
 ### Simulating Instability with Verificarlo
 
-[Verificarlo](https://github.com/verificarlo/verificarlo) can be used to simulate this kind of numerical instability by introducing random perturbations to the floating-point operations. By enabling [Monte Carlo Arithmetic]([Parker, 1999](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3b55cfb2325bc081f113612204733c2a3bd650fe)) (MCA), Verificarlo randomly perturbs floating-point calculations to mimic the real-world inaccuracies that can arise due to hardware precision limits.
+[Verificarlo](https://github.com/verificarlo/verificarlo) can be used to simulate this kind of numerical instability by introducing random perturbations to the floating-point operations. By enabling [Monte Carlo Arithmetic](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3b55cfb2325bc081f113612204733c2a3bd650fe) (MCA) ([Parker, 1999]), Verificarlo randomly perturbs floating-point calculations to mimic the real-world inaccuracies that can arise due to hardware precision limits.
 
 ### Visualizing the Instability with Significantdigit-Viewer
 
@@ -36,4 +36,3 @@ In the visualization, we use color to distinguish between accurate and inaccurat
 As the computation progresses, you’ll observe that the **blue section** of the mantissa (the correct bits) shrinks, while the **red section** (the noisy bits) grows. This visual representation provides a clear view of how the floating-point instability corrupts the computation by gradually introducing more noise into the significant digits, reducing the overall precision and reliability of the result.
 
 By visualizing the numerical output as an animated GIF, you can clearly see where the loss of precision begins and how it spreads throughout the computation. The animation highlights how the number of significant digits ([Sohier et al. 2021](https://dl.acm.org/doi/10.1145/3432184)) computed with the Python package [significantdigits](https://pypi.org/project/significantdigits/), decreases as we approach 1.
-

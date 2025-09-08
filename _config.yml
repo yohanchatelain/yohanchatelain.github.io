@@ -28,9 +28,10 @@ header: https://avatars.githubusercontent.com/yohanchatelain
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yohanchatelain.github.io" # the base hostname & protocol for your site
 github_username:  yohanchatelain
 linkedin_username: yohan-chatelain
+
 # Build settings
 theme: minima
 plugins:
@@ -42,9 +43,6 @@ plugins:
 
 minima:
   skin: classic
-
-
-minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/yohanchatelain" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/yohan-chatelain/" }
