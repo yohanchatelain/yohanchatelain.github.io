@@ -1,18 +1,36 @@
 const switcher = document.getElementById('theme-switcher');
 const body = document.body;
 
-var object = document.querySelector('object[name="resume"]');
+function getResumeEl() {
+  return document.querySelector('object[name="resume"], iframe[name="resume"]');
+}
+
+function setResumeToLightPDF() {
+  const el = getResumeEl();
+  if (!el) return;
+  const lightSrc = '/Research_Resume.pdf';
+  const tag = el.tagName.toLowerCase();
+  if (tag === 'iframe') {
+    el.setAttribute('src', lightSrc);
+  } else {
+    el.setAttribute('data', lightSrc);
+  }
+
+  const link = document.getElementById('resume-download');
+  if (link) {
+    link.setAttribute('href', lightSrc);
+  }
+}
 
 // Check for saved theme choice and apply it
 const savedTheme = localStorage.getItem('theme');
 if (savedTheme) {
     body.classList.add(savedTheme);
-    if (savedTheme === 'dark-theme' && object) {
-        object.setAttribute('data', '/Research_Resume_Dark.pdf');
-    }
 }
+// Ensure resume always points to the light PDF
+setResumeToLightPDF();
 
-switcher.addEventListener('click', () => {
+if (switcher) switcher.addEventListener('click', () => {
     // Add transition class before switching theme
     body.classList.add('transition');
 
@@ -20,15 +38,12 @@ switcher.addEventListener('click', () => {
     body.classList.toggle('dark-theme');
 
     // Save theme choice
-    if (body.classList.contains('dark-theme')) {
+    const isDark = body.classList.contains('dark-theme');
+    if (isDark) {
         localStorage.setItem('theme', 'dark-theme');
-        if (object) {
-            object.setAttribute('data', '/Research_Resume_Dark.pdf');
-        }
+        setResumeToLightPDF();
     } else {
-        if (object) {
-            object.setAttribute('data', '/Research_Resume.pdf');
-        }
+        setResumeToLightPDF();
         localStorage.removeItem('theme');
     }
 
