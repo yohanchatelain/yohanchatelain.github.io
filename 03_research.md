@@ -7,9 +7,9 @@ layout: page
 
 ## Peer-reviewed publications in journals
 
-1. **[Open-source platforms to investigate analytical flexibility in neuroimaging.](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.79/131499)**
+1. **[Open-source platforms to investigate analytical flexibility in neuroimaging.](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.79/131499)** \\
 Sanz-Robinson, Jacob, Michelle Wang, Brent McPherson, **Yohan Chatelain**, David Kennedy, Tristan Glatard, and Jean-Baptiste Poline. *Imaging Neuroscience (2025)*.
-2. **[An analysis of performance bottlenecks in MRI preprocessing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371)**
+2. **[An analysis of performance bottlenecks in MRI preprocessing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371)** \\
 Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *GigaScience 14 (2025): giae098.*.
 3. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
 **Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
@@ -58,14 +58,14 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
 ## Preprints
-1. **[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://www.biorxiv.org/content/early/2026/01/09/2026.01.09.698203.full.pdf)**
-Yohan Michel Benoit Chatelain, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard. *bioRxiv (2026).*
-2. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)**
+1. **[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://www.biorxiv.org/content/early/2026/01/09/2026.01.09.698203.full.pdf)** \\
+**Yohan Chatelain**, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard. *bioRxiv (2026).*
+2. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
 Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025).*
-3. **[Uncertain but useful: Leveraging cnn variability into data augmentation](https://arxiv.org/abs/2509.05238)**
+3. **[Uncertain but useful: Leveraging cnn variability into data augmentation](https://arxiv.org/abs/2509.05238)** \\
 Inés Gonzalez-Pepe, Vinuyan Sivakolunthu, **Yohan Chatelain**, Tristan Glatard. *arXiv preprint arXiv:2509.05238 (2025).*
-4. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)**
-Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, Yohan Chatelain, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071*
+4. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)** \\
+Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, **Yohan Chatelain**, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071*
 5. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://arxiv.org/abs/2308.01939)** \\
 Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, Tristan Glatard. *arXiv e-prints arXiv:2308.01939 (2023).*
 6. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
