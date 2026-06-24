@@ -8,7 +8,7 @@ layout: page
 
 A list of projects to which I contribute:
 
-- [PRISM](https://github.com/yohanchatelain/prism): Probabilistic Rounding with Instruction Set Management. A vectorized implementation of Stochastic Rounding compatible with Verificarlo
+- [PRISM](https://github.com/verificarlo/prism): Probabilistic Rounding with Instruction Set Management. A vectorized implementation of Stochastic Rounding compatible with Verificarlo
 - [ReproVIP](https://www.creatis.insa-lyon.fr/reprovip/): To evaluate and improve the reproducibility of scientific results in the field of medical imaging
 - [LivingPark](https://github.com/LivingPark-MRI): To improve the generalizability and robustness of MRI-derived biomarkers of Parkinson's Disease
 - [Interflop](https://github.com/interflop): Modular and scalable platform to analyze floating-point arithmetic
