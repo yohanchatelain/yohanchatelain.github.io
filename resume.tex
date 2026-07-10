@@ -1,0 +1,281 @@
+% !TEX program = xelatex
+% Curriculum vitæ universitaire ciblé — Polytechnique Montréal, concours 26-PR-7
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[margin=0.62in,top=0.52in,bottom=0.55in]{geometry}
+\usepackage{fontspec}
+\usepackage[french]{babel}
+\frenchsetup{StandardItemLabels=true}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{fontawesome5}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{needspace}
+\usepackage[hidelinks]{hyperref}
+
+\setmainfont{TeX Gyre Heros}
+\setsansfont{TeX Gyre Heros}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[L]{\footnotesize\sffamily\color{muted}Yohan Chatelain — Curriculum vitæ}
+\fancyfoot[R]{\footnotesize\sffamily\color{muted}\thepage}
+\setlength{\footskip}{18pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setstretch{1.01}
+\emergencystretch=1.5em
+
+\definecolor{navy}{HTML}{123B57}
+\definecolor{ink}{HTML}{202B33}
+\definecolor{muted}{HTML}{66737D}
+\definecolor{rule}{HTML}{CBD7DE}
+\definecolor{wash}{HTML}{EEF4F7}
+\color{ink}
+\hypersetup{colorlinks=true,urlcolor=navy,linkcolor=navy}
+
+\titleformat{\section}
+  {\large\sffamily\bfseries\color{navy}}
+  {}{0pt}{}
+  [\vspace{2pt}{\color{rule}\titlerule[0.65pt]}]
+\titlespacing*{\section}{0pt}{9pt}{4pt}
+
+\setlist[itemize]{leftmargin=1.15em,itemsep=1.2pt,topsep=1.5pt,parsep=0pt,partopsep=0pt}
+\AtBeginDocument{\renewcommand\labelitemi{\textcolor{navy}{\raisebox{0.15ex}{\scriptsize\textbullet}}}}
+
+\newcommand{\entry}[4]{%
+  \Needspace{7\baselineskip}%
+  \par\vspace{3.5pt}%
+  \begin{tabularx}{\textwidth}{@{}X>{\raggedleft\arraybackslash}p{0.36\textwidth}@{}}
+    {\sffamily\bfseries #1} & {\small\sffamily\color{muted}#4\enspace\textbullet\enspace#2}\\[-1pt]
+    \multicolumn{2}{@{}l@{}}{{\small\sffamily\color{navy}#3}}
+  \end{tabularx}\vspace{1pt}
+}
+\newcommand{\contribsep}{\\[-1pt]\noalign{\vskip 2pt}\hline\noalign{\vskip 2pt}}
+\newcommand{\pub}[1]{\item #1}
+\newcommand{\me}{\textbf{Y. Chatelain}}
+\newcommand{\doi}[2]{\href{#1}{#2}}
+\newcommand{\tagline}[1]{\colorbox{wash}{\strut\hspace{1pt}{\footnotesize\sffamily\bfseries\color{navy}#1}\hspace{1pt}}}
+
+\begin{document}
+\fontsize{9.3}{10.6}\selectfont
+
+\begin{center}
+  {\fontsize{25}{28}\selectfont\sffamily\bfseries\color{navy} Yohan Chatelain}\\[2pt]
+  {\large\sffamily Calcul de haute performance \enspace\textbullet\enspace Systèmes logiciels scientifiques \enspace\textbullet\enspace Fiabilité numérique}\\[5pt]
+  {\small\sffamily\color{muted}
+    Montréal (Québec), Canada \quad\textbar\quad
+    \href{mailto:yohan.chatelain@gmail.com}{yohan.chatelain@gmail.com} \quad\textbar\quad
+    +1 514 206 2468}\\[3pt]
+  {\footnotesize\sffamily
+    \faIcon{globe}\,\href{https://yohanchatelain.github.io/}{Site Web}
+    \quad \faIcon{graduation-cap}\,\href{https://scholar.google.com/citations?user=fYcLg4IAAAAJ}{Google Scholar}
+    \quad \faIcon{github}\,\href{https://github.com/yohanchatelain}{GitHub}
+    \quad \faIcon{orcid}\,\href{https://orcid.org/0000-0001-7023-250X}{0000-0001-7023-250X}
+    \quad \faIcon{linkedin}\,\href{https://ca.linkedin.com/in/yohan-chatelain}{LinkedIn}}
+\end{center}
+
+\vspace{2pt}
+\section{Profil de recherche}
+
+Chercheur développant des méthodes de compilation, d'exécution et d'analyse statistique afin de rendre le calcul scientifique à grande échelle plus rapide, reproductible et fiable numériquement. Mes recherches relient le \textbf{calcul de haute performance (HPC)}, les \textbf{systèmes logiciels} et l'\textbf{analyse des calculs en virgule flottante} : instrumentation LLVM, exécution hétérogène CPU/GPU, arithmétique stochastique vectorisée, précision mixte et adaptative, flux scientifiques parallèles et tests de fiabilité pour l'IA et les pipelines biomédicaux. Mon programme quinquennal vise une pile logicielle ouverte de bout en bout capable d'\textbf{observer, quantifier et contrôler l'incertitude numérique} sur des systèmes HPC hétérogènes, tout en améliorant la performance, l'empreinte mémoire et l'efficacité énergétique.
+
+\vspace{4pt}
+\tagline{18 publications évaluées par les pairs}\hspace{2pt}
+\tagline{2 financements comme chercheur principal}\hspace{2pt}
+\tagline{9 personnes mentorées}\hspace{2pt}
+\tagline{Logiciels HPC libres}
+
+\section{Expérience universitaire et de recherche}
+
+\entry{Associé scientifique}{mars 2026--présent}{Centre Krembil de neuro-informatique, Centre de toxicomanie et de santé mentale (CAMH)}{Toronto, Canada}
+\begin{itemize}
+  \item Ingénieur de données pour la plateforme \textit{Brain Health Data Challenge}, qui soutient une recherche en IA sécuritaire, responsable et reproductible sur des données de santé sensibles.
+  \item Développement de l'infrastructure de calcul et des méthodes d'évaluation pour des défis collaboratifs de modélisation prédictive.
+\end{itemize}
+
+\entry{Chercheur postdoctoral}{janv. 2025--févr. 2026}{Centre Krembil de neuro-informatique, CAMH}{Toronto, Canada}
+\begin{itemize}
+  \item Quantification de la variabilité numérique de biomarqueurs dérivés de l'IRM et propagation de l'incertitude jusqu'aux conclusions scientifiques d'études sur la maladie de Parkinson.
+  \item Co-développement de PRISM et Fuzzy PyTorch : réduction jusqu'à \textbf{60$\times$} du temps d'instrumentation en arithmétique stochastique par rapport aux approches binaires et évaluation de modèles comptant jusqu'à 341 millions de paramètres.
+\end{itemize}
+
+\entry{Chercheur postdoctoral}{sept. 2020--déc. 2024}{Département d'informatique et de génie logiciel, Université Concordia}{Montréal, Canada}
+\begin{itemize}
+  \item Direction de travaux à l'interface du HPC, de l'analyse numérique, de la neuroimagerie, de la bio-informatique et de l'IA; développement de PyTracer, de Fuzzy et de tests statistiques de stabilité pour les pipelines scientifiques.
+  \item Coordination de collaborations avec McGill, l'Université de Montréal, l'Université de Washington, Stanford et des partenaires européens; mentorat aux trois cycles universitaires.
+\end{itemize}
+
+\entry{Doctorant-chercheur}{oct. 2016--déc. 2019}{Université Paris-Saclay / UVSQ, LI-PaRAD}{Versailles, France}
+\begin{itemize}
+  \item Développement d'outils fondés sur LLVM pour le débogage numérique et l'optimisation en précision réduite en HPC : Verificarlo, VeriTracer et VPREC.
+  \item Instrumentation d'applications scientifiques C/C++/Fortran de taille industrielle et de solveurs parallèles; étude de la vectorisation, des coûts de communication et des compromis précision--performance.
+\end{itemize}
+
+\section{Expérience industrielle et en génie logiciel}
+
+\entry{Ingénieur logiciel, équipe de calcul numérique}{janv.--juin 2019}{Intel Corporation}{Hillsboro, Oregon, États-Unis}
+\begin{itemize}
+  \item Modernisation de fonctions de l'Intel Mathematical Library et optimisation d'environ la moitié des routines ciblées; mise en place d'une validation par intégration continue pour assurer la qualité de la bibliothèque numérique.
+\end{itemize}
+
+\entry{Développeur logiciel}{avr.--sept. 2016}{Université de Versailles Saint-Quentin-en-Yvelines}{Versailles, France}
+\begin{itemize}
+  \item Développement en C d'un mécanisme multithread de capture et de rejeu pour CERE, doublant le passage à l'échelle des expériences; microétalonnage de noyaux NAS pour la modélisation énergie--performance.
+\end{itemize}
+
+\entry{Développeur logiciel}{mai--sept. 2015}{Exascale Computing Research}{Bruyères-le-Châtel, France}
+\begin{itemize}
+  \item Mise en œuvre du profilage de valeurs avec LLVM/Python et de la spécialisation automatique de fonctions C; évaluation des accélérations obtenues.
+\end{itemize}
+
+\section{Contributions scientifiques et logiciels libres}
+
+\arrayrulecolor{rule}
+\setlength{\arrayrulewidth}{0.35pt}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash\sffamily\bfseries\color{navy}}p{0.23\textwidth} X@{}}
+  Verificarlo / Interflop & Instrumentation LLVM de programmes C/C++/Fortran et moteurs arithmétiques réutilisables pour l'arithmétique de Monte-Carlo, la précision réduite et l'exécution vectorielle multiarchitecture.\contribsep
+  PRISM / Fuzzy PyTorch & Arrondi probabiliste vectorisé pour analyser à faible surcoût la variabilité numérique de modèles PyTorch optimisés; socle CPU pour l'instrumentation future des GPU et accélérateurs.\contribsep
+  PyTracer / VeriTracer & Profilage contextuel et localisation des instabilités numériques dans Python et les applications scientifiques compilées.\contribsep
+  VPREC & Simulation dynamique et exploration de formats flottants réduits; application aux solveurs parallèles de mécanique des fluides et à l'optimisation de la précision du recalage en neuroimagerie.\contribsep
+  Méthodologie de stabilité & Tests d'acceptabilité au niveau des résultats et propagation de la variabilité numérique vers les tailles d'effet, corrélations, modèles longitudinaux et inférences de groupe.
+\end{tabularx}
+
+\section{Financement et distinctions}
+
+\entry{Bourse postdoctorale Horizon de Concordia}{2020--2022}{Chercheur principal \textbullet\ Instabilités numériques en neuroimagerie}{50 000~\$ US/an}
+
+\entry{Subvention de recherche AccelNet IN-BIC}{2021}{Chercheur principal \textbullet\ Stabilité numérique de la tractométrie cérébrale avec PyAFQ}{10 000~\$ US}
+
+\entry{Prix du meilleur article, ACM REP}{2024}{2\textsuperscript{e} ACM Conference on Reproducibility and Replicability}{Coauteur}
+
+\section{Expérience d'enseignement}
+
+\entry{Chargé de cours --- Fondements de la programmation}{automne 2023}{Université Concordia \textbullet\ première année du baccalauréat}{Montréal, Canada}
+\begin{itemize}
+  \item Conception et prestation d'une introduction à la programmation, aux classes et aux objets en C++; progression par exemples, pratique régulière, tests et compréhension conceptuelle.
+\end{itemize}
+
+\entry{Chargé de travaux dirigés / cours magistral --- Compilation}{2018--2019}{Université Paris-Saclay \textbullet\ troisième année de licence}{Versailles, France}
+\begin{itemize}
+  \item Enseignement de la chaîne de compilation, de l'analyse syntaxique à la génération d'assembleur; encadrement de l'implémentation d'un mini-compilateur fonctionnel pour Tiger.
+\end{itemize}
+
+\entry{Chargé de travaux dirigés --- Algorithmique avancée}{2016--2018}{Université Paris-Saclay \textbullet\ troisième année de licence}{Versailles, France}
+\begin{itemize}
+  \item Travaux dirigés sur les complexités temporelle et spatiale, la récursivité, la méthode diviser pour régner et les algorithmes de graphes; prestation d'un premier cours magistral.
+\end{itemize}
+
+\entry{Chargé de travaux dirigés --- Architectures parallèles}{2016--2018}{Université Paris-Saclay \textbullet\ première année de maîtrise}{Versailles, France}
+\begin{itemize}
+  \item Travaux dirigés sur la programmation à mémoire partagée et distribuée, la cohérence des caches et les réseaux d'interconnexion; évaluation de synthèses d'articles et de présentations orales.
+\end{itemize}
+
+\textbf{Enseignements proposés :} systèmes parallèles et HPC (OpenMP, MPI, CUDA); systèmes d'exploitation et systèmes logiciels; compilation; calcul numérique et fiabilité des logiciels scientifiques; algorithmique; initiation à la programmation. Enseignement en français ou en anglais.
+
+\newpage
+\section{Encadrement en recherche}
+
+\renewcommand{\arraystretch}{1.18}
+\begingroup
+\renewcommand{\tabularxcolumn}[1]{m{#1}}
+\begin{tabularx}{\textwidth}{@{}
+  >{\raggedright\arraybackslash\sffamily\bfseries\color{navy}}m{0.14\textwidth}
+  >{\raggedright\arraybackslash}m{0.20\textwidth}
+  >{\raggedright\arraybackslash}X
+  >{\raggedleft\arraybackslash\color{muted}}m{0.13\textwidth}@{}}
+{\footnotesize\sffamily\bfseries\color{muted}NIVEAU} &
+{\footnotesize\sffamily\bfseries\color{muted}PERSONNE} &
+{\footnotesize\sffamily\bfseries\color{muted}SUJET} &
+{\footnotesize\sffamily\bfseries\color{muted}PÉRIODE}\\[-1pt]
+\hline\\[-7pt]
+Doctorat & Mina Alizadeh & Stabilité numérique de la neuroimagerie fonctionnelle & 2023--présent\\
+Doctorat & Inés Gonzalez Pepe & Stabilité numérique de l'apprentissage profond en bio-informatique & 2023--présent\\
+Doctorat & Mathieu Dugré & Précision réduite pour les applications de neuroimagerie & 2022--2026\\
+Doctorat & Ali Salari & Environnements de calcul des pipelines de neuroimagerie & 2020--2022\\[2pt]
+Maîtrise & Inés Gonzalez Pepe & Stabilité numérique de l'inférence DeepGOPlus (mentorat à 50\%) & 2021--2023\\
+Maîtrise & Damien Thénot & Environnement Java pour VeriTracer (encadrement à 50\%) & 2018\\[2pt]
+Baccalauréat & Jacob Fortin & Accélération de U-Net par NaN pooling/unpooling (50\%) & 2024\\
+Baccalauréat & Nigel Yong & Optimisation des performances de PyTracer (50\%) & 2021\\
+Baccalauréat & Marc Vicuna & Précision réduite dans les forêts de Mondrian (coencadrement) & 2021
+\end{tabularx}
+\endgroup
+\renewcommand{\arraystretch}{1}
+
+\section{Formation}
+
+\entry{Doctorat en informatique}{2019}{Université Paris-Saclay / UVSQ}{Versailles, France}
+\textit{Thèse : Outils de débogage et d'optimisation des calculs flottants dans le contexte HPC.}
+
+\entry{Master en informatique --- Calcul de haute performance}{2016}{Université Paris-Saclay / UVSQ}{Versailles, France}
+
+\entry{Licence en informatique}{2014}{Université Paris-Saclay}{Orsay, France}
+
+\section{Expertise technique}
+
+\begin{tabularx}{\textwidth}{@{}>{\sffamily\bfseries\color{navy}}p{0.22\textwidth} X@{}}
+HPC et systèmes parallèles & OpenMP, MPI, multithreading et multiprocessing, Slurm, expériences distribuées, profilage, passage à l'échelle fort et faible, systèmes CPU/GPU et hétérogènes.\\
+Compilation et architecture & LLVM/Clang, passes de compilation, instrumentation binaire, SSE, AVX, AVX-512, ARM SVE, assembleur, vectorisation, noyaux numériques optimisés.\\
+Langages et plateformes & C, C++, Fortran, Python, OCaml; Linux, Docker, Guix, intégration et déploiement continus, environnements et flux reproductibles.\\
+Calcul numérique et IA & Virgule flottante, arithmétique de Monte-Carlo et stochastique, précision mixte/réduite, PyTorch, NumPy/SciPy, FreeSurfer, ANTs, PyAFQ.
+\end{tabularx}
+
+\section{Articles évalués par les pairs --- revues}
+\begin{enumerate}[leftmargin=1.5em,label={\color{navy}\arabic*.},itemsep=2pt,topsep=1pt]
+  \pub{I. Gonzalez Pepe, H. Akhaddar, T. Glatard, \me. ``Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models.'' \textit{Transactions on Machine Learning Research}, 2026.}
+  \pub{J. Sanz-Robinson, M. Wang, B. McPherson, \me, D. Kennedy, T. Glatard, J.-B. Poline. ``Open-source platforms to investigate analytical flexibility in neuroimaging.'' \textit{Imaging Neuroscience}, 2025.}
+  \pub{M. Dugré, \me, T. Glatard. ``An Analysis of Performance Bottlenecks in MRI Pre-Processing.'' \textit{GigaScience} 14, 2025.}
+  \pub{\me, L. Tetrel, C. J. Markiewicz, M. Goncalves, G. Kiar, O. Esteban, P. Bellec, T. Glatard. ``A numerical variability approach to results stability tests and its application to neuroimaging.'' \textit{IEEE Transactions on Computers} 74(1), 2025.}
+  \pub{A. Sokolowski et al. ``Longitudinal brain structure changes in Parkinson's disease: a replication study.'' \textit{PLOS ONE}, 2024.}
+  \pub{I. Gonzalez Pepe, \me, G. Kiar, T. Glatard. ``Numerical Stability of DeepGOPlus Inference.'' \textit{PLOS ONE}, 2024.}
+  \pub{\me, N. Yong, G. Kiar, T. Glatard. ``PyTracer: Automatically profiling numerical instabilities in Python.'' \textit{IEEE Transactions on Computers}, 2022.}
+  \pub{G. Kiar et al. ``Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics.'' \textit{Neurons, Behavior, Data Analysis and Theory}, 2021.}
+  \pub{G. Kiar et al. ``Numerical Uncertainty in Analytical Pipelines Leads to Impactful Variability in Brain Networks.'' \textit{PLOS ONE}, 2021.}
+  \pub{M. Popov, C. Akel, \me, W. Jalby, P. de Oliveira Castro. ``Piecewise holistic autotuning of parallel programs with CERE.'' \textit{Concurrency and Computation: Practice and Experience} 29, 2017.}
+\end{enumerate}
+
+\newpage
+\section{Articles évalués par les pairs --- conférences et ateliers}
+\begin{enumerate}[leftmargin=1.5em,label={\color{navy}\arabic*.},itemsep=2pt,topsep=1pt]
+  \pub{N. Mirhakimi, \me, J.-B. Poline, T. Glatard. ``Numerical Uncertainty in Linear Registration: An Experimental Study.'' \textit{UNSURE, MICCAI}, 2025.}
+  \pub{G. Vila et al. ``The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging.'' \textit{ACM REP}, 2024. \textbf{Prix du meilleur article}.}
+  \pub{I. Gonzalez Pepe et al. ``Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis.'' \textit{UNSURE, MICCAI}, 2023.}
+  \pub{M. Des Ligneris et al. ``Reproducibility of tumor segmentation outcomes with a deep learning model.'' \textit{IEEE ISBI}, 2023.}
+  \pub{M. Vicuna, M. Khannouz, G. Kiar, \me, T. Glatard. ``Reducing numerical precision preserves classification accuracy in Mondrian Forests.'' \textit{IEEE Big Data}, 2021.}
+  \pub{A. Salari, \me, G. Kiar, T. Glatard. ``Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic.'' \textit{UNSURE, MICCAI}, 2021.}
+  \pub{\me, E. Petit, P. de Oliveira Castro, G. Lartigue, D. Defour. ``Automatic exploration of reduced floating-point representations in iterative methods.'' \textit{Euro-Par}, 2019.}
+  \pub{\me, P. de Oliveira Castro, E. Petit, D. Defour, J. Bieder, M. Torrent. ``VeriTracer: Context-enriched tracer for floating-point arithmetic analysis.'' \textit{IEEE ARITH}, 2018.}
+\end{enumerate}
+
+\section{Prépublications et travaux en évaluation sélectionnés}
+\begin{enumerate}[leftmargin=1.5em,label={\color{navy}\arabic*.},itemsep=2pt,topsep=1pt]
+  \pub{A. Encin, I. Gonzalez Pepe, \me, E. Dickie, T. Glatard. ``Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI.'' \textit{bioRxiv}, 2026.}
+  \pub{I. Gonzalez Pepe, V. Sivakolunthu, J. Fortin, \me, T. Glatard. ``Conservative \& Aggressive NaNs Accelerate U-Nets for Neuroimaging.'' \textit{arXiv:2601.17180}, 2026.}
+  \pub{\me, A. Sokolowski, M. Sharp, J.-B. Poline, T. Glatard. ``The practical impact of numerical variability on structural MRI measures of Parkinson's disease.'' \textit{bioRxiv}, 2026.}
+  \pub{M. Alizadeh, \me, G. Kiar, T. Glatard. ``Numerical Variability of Functional MRI Graph Measures.'' \textit{bioRxiv}, 2025.}
+  \pub{I. Gonzalez Pepe, V. Sivakolunthu, \me, T. Glatard. ``Uncertain but useful: Leveraging CNN variability into data augmentation.'' \textit{arXiv:2509.05238}, 2025.}
+\end{enumerate}
+
+\section{Communications scientifiques sélectionnées}
+\begin{itemize}
+  \item OHBM 2022, Glasgow --- tests de stabilité des résultats et reproductibilité à long terme de fMRIPrep.
+  \item SciPy 2021 --- environnements Fuzzy pour perturber, évaluer et exploiter l'incertitude numérique dans l'écosystème Python scientifique.
+  \item IXPUG 2018 (Intel, Hillsboro) et IXPUG 2019 (CERN, Genève) --- calcul numérique HPC et outillage logiciel.
+  \item APS 2018 --- défis du passage à l'exascale des simulations de structure électronique ABINIT.
+\end{itemize}
+
+\section{Profil professionnel}
+\begin{tabularx}{\textwidth}{@{}>{\sffamily\bfseries\color{navy}}p{0.19\textwidth} X@{}}
+Langues & Français (langue maternelle); anglais (compétence professionnelle).\\
+Science ouverte & Logiciels libres, conteneurs reproductibles, rapports automatisés de stabilité, intégration continue et flux de recherche documentés.\\
+Statut professionnel & Disposé à entreprendre les démarches requises pour devenir membre de l'Ordre des ingénieurs du Québec avant l'examen de permanence.
+\end{tabularx}
+
+\end{document}
