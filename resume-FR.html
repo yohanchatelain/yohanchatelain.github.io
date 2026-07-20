@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="fr-CA">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yohan Chatelain - CV</title>
+  <style>
+    @page {
+      size: letter;
+      margin: 0.62in;
+    }
+
+    @media print {
+      body {
+        margin: 0;
+      }
+
+      .page-break {
+        page-break-before: always;
+      }
+    }
+
+    @media screen {
+      body {
+        margin: 20px;
+        background: #f5f5f5;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      }
+
+      .page-container {
+        background: white;
+        padding: 0.62in;
+        max-width: 8.5in;
+        min-height: 11in;
+        margin: 0 auto;
+      }
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      color: #202B33;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    .cv h1,
+    .cv h2,
+    .cv h3 {
+      margin: 0
+    }
+
+    .cv p,
+    .cv li {
+      text-wrap: pretty
+    }
+
+    .cv section {
+      break-inside: avoid-page;
+      margin-bottom: 4px
+    }
+
+    .sec-title {
+      font-size: 17px;
+      font-weight: 700;
+      color: #123B57;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      margin: 18px 0 8px
+    }
+
+    .sec-title .bar {
+      width: 3px;
+      height: 16px;
+      background: #123B57;
+      display: inline-block
+    }
+
+    .sec-rule {
+      border: none;
+      border-top: 0.6pt solid #CBD7DE;
+      margin: 0 0 8px
+    }
+
+    .entry {
+      margin: 7px 0 5px
+    }
+
+    .entry-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 10px
+    }
+
+    .entry-title {
+      font-weight: 700;
+      color: #202B33
+    }
+
+    .entry-meta {
+      font-size: 11px;
+      color: #66737D;
+      white-space: nowrap
+    }
+
+    .entry-org {
+      font-size: 11px;
+      color: #123B57;
+      margin-top: 2px
+    }
+
+    ul.cv-list {
+      margin: 4px 0 6px;
+      padding-left: 1.1em
+    }
+
+    ul.cv-list li {
+      margin: 2px 0;
+      font-size: 12px;
+      line-height: 1.55
+    }
+
+    ul.cv-list li::marker {
+      color: #123B57
+    }
+
+    .contribtable {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px
+    }
+
+    .contribtable td {
+      padding: 6px 0;
+      border-bottom: 0.35pt solid #CBD7DE;
+      vertical-align: top;
+      line-height: 1.55
+    }
+
+    .contribtable td.label {
+      color: #123B57;
+      font-weight: 700;
+      width: 22%;
+      padding-right: 10px
+    }
+
+    .skilltable {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px
+    }
+
+    .skilltable td {
+      padding: 5px 0;
+      vertical-align: top;
+      line-height: 1.55
+    }
+
+    .skilltable td.label {
+      color: #123B57;
+      font-weight: 700;
+      width: 20%;
+      padding-right: 10px
+    }
+
+    .mentortable {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px
+    }
+
+    .mentortable th {
+      font-size: 10px;
+      color: #66737D;
+      text-align: left;
+      font-weight: 700;
+      padding-bottom: 6px;
+      border-bottom: 0.6pt solid #CBD7DE
+    }
+
+    .mentortable td {
+      padding: 5px 8px 5px 0;
+      border-bottom: 0.35pt solid #EEF4F7;
+      line-height: 1.5
+    }
+
+    .mentortable td:nth-child(3) {
+      font-size: 10px
+    }
+
+    .mentortable tr.group-start td {
+      border-top: 0.6pt solid #CBD7DE
+    }
+
+    .mentortable td.deg {
+      color: #123B57;
+      font-weight: 700
+    }
+
+    .mentortable td.period {
+      text-align: right;
+      color: #66737D;
+      white-space: nowrap
+    }
+
+    ol.pubs {
+      margin: 4px 0 6px;
+      padding-left: 1.4em
+    }
+
+    ol.pubs li {
+      margin: 4px 0;
+      font-size: 12px;
+      line-height: 1.55
+    }
+
+    ol.pubs li::marker {
+      color: #123B57;
+      font-weight: 700
+    }
+
+    .tag {
+      background: #EEF4F7;
+      color: #123B57;
+      font-weight: 700;
+      font-size: 10.5px;
+      padding: 4px 9px;
+      border-radius: 2px
+    }
+
+    .cv a {
+      color: #123B57;
+      text-decoration: none
+    }
+
+    .cv a:hover {
+      text-decoration: underline
+    }
+
+    ol.pubs a,
+    ul.cv-list a {
+      color: #123B57;
+      font-size: 10px;
+    }
+
+    .page-break {
+      page-break-before: always;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page-container">
+    <div class="cv">
+
+      <div style="text-align:center">
+        <h1 style="font-size:32px;color:#123B57;font-weight:700;letter-spacing:0.2px">Yohan Chatelain</h1>
+        <div style="font-size:17px;margin-top:4px">Calcul de haute performance &bull; Systèmes logiciels scientifiques
+          &bull; Fiabilité numérique</div>
+        <div style="font-size:12px;color:#66737D;margin-top:8px">
+          Montréal (Québec), Canada &nbsp;|&nbsp;
+          <a href="mailto:yohan.chatelain@gmail.com">yohan.chatelain@gmail.com</a> &nbsp;|&nbsp;
+          +1 514 206 2468
+        </div>
+        <div style="font-size:11px;margin-top:7px;color:#202B33">
+          <a href="https://yohanchatelain.github.io/">Site Web</a> &nbsp;&nbsp;
+          <a href="https://scholar.google.com/citations?user=fYcLg4IAAAAJ">Google Scholar</a> &nbsp;&nbsp;
+          <a href="https://github.com/yohanchatelain">GitHub</a> &nbsp;&nbsp;
+          <a href="https://orcid.org/0000-0001-7023-250X">ORCID 0000-0001-7023-250X</a> &nbsp;&nbsp;
+          <a href="https://ca.linkedin.com/in/yohan-chatelain">LinkedIn</a>
+        </div>
+      </div>
+      <hr style="border:none;border-top:0.6pt solid #123B57;margin:12px 0 4px" />
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Profil de recherche</div>
+        <hr class="sec-rule" />
+        <p style="margin:0 0 3px">Chercheur développant des méthodes de compilation, d'exécution et d'analyse
+          statistique afin de rendre le calcul scientifique à grande échelle plus rapide, reproductible et fiable
+          numériquement. Mes recherches relient le <strong>calcul de haute performance (HPC)</strong>, les
+          <strong>systèmes logiciels</strong> et l'<strong>analyse des calculs en virgule flottante</strong>&nbsp;:
+          instrumentation LLVM, exécution hétérogène CPU/GPU, arithmétique stochastique vectorisée, précision mixte et
+          adaptative, flux scientifiques parallèles et tests de fiabilité pour l'IA et les pipelines biomédicaux. Mon
+          programme de recherche vise une pile logicielle ouverte de bout en bout capable d'<strong>observer, quantifier
+            et contrôler l'incertitude numérique</strong> sur des systèmes HPC hétérogènes, tout en améliorant la
+          performance, l'empreinte mémoire et l'efficacité énergétique.
+        </p>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Expérience universitaire et de recherche</div>
+        <hr class="sec-rule" />
+
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Chercheur associé</span><span class="entry-meta">Toronto,
+              Canada &bull; mars 2026&ndash;présent</span></div>
+          <div class="entry-org">Centre Krembil de neuro-informatique, Centre de toxicomanie et de santé mentale (CAMH)
+          </div>
+          <ul class="cv-list">
+            <li>Chercheur associé pour la plateforme <em>Brain Health Data Challenge</em>, qui soutient une recherche
+              en IA sécuritaire, responsable et reproductible sur des données de santé sensibles&nbsp;; développement
+              de l'infrastructure de calcul et des méthodes d'évaluation pour des défis collaboratifs de modélisation
+              prédictive.</li>
+            <li>Analyse de la stabilité numérique de modèles de neuro-imagerie, notamment l'extraction de
+              caractéristiques par CNN non entraîné (<em>untrained CNN</em>) et l'analyse longitudinale, afin d'en
+              évaluer la robustesse et la reproductibilité.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Chercheur postdoctoral</span><span
+              class="entry-meta">Toronto, Canada &bull; janv. 2025&ndash;févr. 2026</span></div>
+          <div class="entry-org">Centre Krembil de neuro-informatique, CAMH</div>
+          <ul class="cv-list">
+            <li>Quantification de la variabilité numérique de biomarqueurs dérivés de l'IRM et propagation de
+              l'incertitude jusqu'aux conclusions scientifiques d'études sur la maladie de Parkinson.</li>
+            <li>Développement de PRISM et Fuzzy PyTorch&nbsp;: réduction jusqu'à <strong>60&times;</strong> du temps
+              d'instrumentation en arithmétique stochastique par rapport aux approches binaires et évaluation de modèles
+              comptant jusqu'à 341 millions de paramètres.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Chercheur postdoctoral</span><span
+              class="entry-meta">Montréal, Canada &bull; sept. 2020&ndash;déc. 2024</span></div>
+          <div class="entry-org">Département d'informatique et de génie logiciel, Université Concordia</div>
+          <ul class="cv-list">
+            <li>Direction de travaux à l'interface du HPC, de l'analyse numérique, de la neuroimagerie, de la
+              bio-informatique et de l'IA&nbsp;; développement de PyTracer, de Fuzzy et de tests statistiques de stabilité
+              pour les pipelines scientifiques.</li>
+            <li>Coordination de collaborations avec McGill, l'Université de Montréal, l'Université de Washington,
+              Stanford et des partenaires européens&nbsp;; mentorat aux trois cycles universitaires.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Doctorant-chercheur</span><span
+              class="entry-meta">Versailles, France &bull; oct. 2016&ndash;déc. 2019</span></div>
+          <div class="entry-org">Université Paris-Saclay / UVSQ, LI-PaRAD</div>
+          <ul class="cv-list">
+            <li>Développement d'outils fondés sur LLVM pour le débogage numérique et l'optimisation en précision réduite
+              en HPC&nbsp;: Verificarlo, VeriTracer et VPREC.</li>
+            <li>Instrumentation d'applications scientifiques C/C++/Fortran de taille industrielle et de solveurs
+              parallèles&nbsp;; étude de la vectorisation, des coûts de communication et des compromis
+              précision&ndash;performance.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Expérience industrielle et en génie logiciel</div>
+        <hr class="sec-rule" />
+
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Ingénieur logiciel, équipe de calcul numérique</span><span
+              class="entry-meta">Hillsboro, Oregon, États-Unis &bull; janv.&ndash;juin 2019</span></div>
+          <div class="entry-org">Intel Corporation</div>
+          <ul class="cv-list">
+            <li>Modernisation de fonctions de l'Intel Mathematical Library et optimisation d'environ la moitié des
+              routines ciblées&nbsp;; mise en place d'une validation par intégration continue pour assurer la qualité de la
+              bibliothèque numérique.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Développeur logiciel</span><span
+              class="entry-meta">Versailles, France &bull; avr.&ndash;sept. 2016</span></div>
+          <div class="entry-org">Université de Versailles Saint-Quentin-en-Yvelines</div>
+          <ul class="cv-list">
+            <li>Développement en C d'un mécanisme multithread de capture et de rejeu pour CERE, doublant le passage à
+              l'échelle des expériences&nbsp;; microétalonnage de noyaux NAS pour la modélisation énergie&ndash;performance.
+            </li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Développeur logiciel</span><span
+              class="entry-meta">Bruyères-le-Châtel, France &bull; mai&ndash;sept. 2015</span></div>
+          <div class="entry-org">Exascale Computing Research</div>
+          <ul class="cv-list">
+            <li>Mise en œuvre du profilage de valeurs avec LLVM/Python et de la spécialisation automatique de fonctions
+              C&nbsp;; évaluation des accélérations obtenues.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Articles évalués par les pairs &mdash; revues</div>
+        <hr class="sec-rule" />
+        <ol class="pubs">
+          <li>I. Gonzalez Pepe, H. Akhaddar, T. Glatard, <strong>Y. Chatelain</strong>. &laquo;&nbsp;Fuzzy PyTorch:
+            Rapid Numerical Variability Evaluation for Deep Learning Models.&nbsp;&raquo; <em>Transactions on Machine
+              Learning Research</em>, 2026. <a href="https://openreview.net/pdf?id=0ogq232VGP">[pdf]</a></li>
+          <li>J. Sanz-Robinson, M. Wang, B. McPherson, <strong>Y. Chatelain</strong>, D. Kennedy, T. Glatard, J.-B.
+            Poline. &laquo;&nbsp;Open-source platforms to investigate analytical flexibility in
+            neuroimaging.&nbsp;&raquo; <em>Imaging Neuroscience</em>, 2025. <a
+              href="https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.79/2534165/imag.a.79.pdf">[pdf]</a></li>
+          <li>M. Dugré, <strong>Y. Chatelain</strong>, T. Glatard. &laquo;&nbsp;An Analysis of Performance Bottlenecks
+            in MRI Pre-Processing.&nbsp;&raquo; <em>GigaScience</em> 14, 2025. <a
+              href="https://arxiv.org/pdf/2405.17650.pdf">[pdf]</a></li>
+          <li><strong>Y. Chatelain</strong>, L. Tetrel, C. J. Markiewicz, M. Goncalves, G. Kiar, O. Esteban, P. Bellec,
+            T. Glatard. &laquo;&nbsp;A numerical variability approach to results stability tests and its application to
+            neuroimaging.&nbsp;&raquo; <em>IEEE Transactions on Computers</em> 74(1), 2024. <a
+              href="https://arxiv.org/pdf/2307.01373.pdf">[pdf]</a></li>
+          <li>A. Sokolowski, N. Bhagwat, <strong>Y. Chatelain</strong>, M. Dugre, A. Hanganu, O. Monchi, B. McPherson,
+            M. Wang, J.B. Poline, M. Sharp, T. Glatard. &laquo;&nbsp;Longitudinal brain structure changes in Parkinson's
+            disease: a replication study.&nbsp;&raquo; <em>PLOS ONE</em>, 2024. <a
+              href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0295069&amp;type=printable">[pdf]</a>
+          </li>
+          <li>I. Gonzalez Pepe, <strong>Y. Chatelain</strong>, G. Kiar, T. Glatard. &laquo;&nbsp;Numerical Stability of
+            DeepGOPlus Inference.&nbsp;&raquo; <em>PLOS ONE</em>, 2024. <a
+              href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0296725&amp;type=printable">[pdf]</a>
+          </li>
+          <li><strong>Y. Chatelain</strong>, N. Yong, G. Kiar, T. Glatard. &laquo;&nbsp;PyTracer: Automatically
+            profiling numerical instabilities in Python.&nbsp;&raquo; <em>IEEE Transactions on Computers</em>, 2022. <a
+              href="https://arxiv.org/pdf/2112.11508.pdf">[pdf]</a></li>
+          <li>G. Kiar, <strong>Y. Chatelain</strong>, A. Salari, A. C. Evans, T. Glatard. &laquo;&nbsp;Data Augmentation
+            Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics.&nbsp;&raquo;
+            <em>Neurons, Behavior, Data Analysis and Theory</em>, 2021. <a
+              href="https://arxiv.org/pdf/2109.09649.pdf">[pdf]</a>
+          </li>
+          <li>G. Kiar, <strong>Y. Chatelain</strong>, P. de Oliveira Castro, E. Petit, A. Rokem, G. Varoquaux, B. Misic,
+            A. C. Evans, T. Glatard. &laquo;&nbsp;Numerical Uncertainty in Analytical Pipelines Leads to Impactful
+            Variability in Brain Networks.&nbsp;&raquo; <em>PLOS ONE</em>, 2021. <a
+              href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0250755&amp;type=printable">[pdf]</a>
+          </li>
+          <li>M. Popov, C. Akel, <strong>Y. Chatelain</strong>, W. Jalby, P. de Oliveira Castro. &laquo;&nbsp;Piecewise
+            holistic autotuning of parallel programs with CERE.&nbsp;&raquo; <em>Concurrency and Computation: Practice
+              and Experience</em> 29, 2017. <a
+              href="https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf">[pdf]</a>
+          </li>
+        </ol>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Articles évalués par les pairs &mdash; conférences et ateliers
+        </div>
+        <hr class="sec-rule" />
+        <ol class="pubs">
+          <li>N. Mirhakimi, <strong>Y. Chatelain</strong>, J.-B. Poline, T. Glatard. &laquo;&nbsp;Numerical Uncertainty
+            in Linear Registration: An Experimental Study.&nbsp;&raquo; <em>UNSURE, MICCAI</em>, 2025. <a
+              href="https://arxiv.org/pdf/2508.00781.pdf">[pdf]</a></li>
+          <li>G. Vila, E. Medernach, I. Gonzalez Pepe, A. Bonnet, <strong>Y. Chatelain</strong>, M. Sdika, T. Glatard,
+            and S. Camarasu-Pop. &laquo;&nbsp;The Impact of Hardware Variability on Applications Packaged with Docker
+            and Guix: a Case Study in Neuroimaging.&nbsp;&raquo; <em>ACM REP</em>, 2024. <span class="tag">Prix du
+              meilleur article</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3641525.3663626">[pdf]</a></li>
+          <li>I. Gonzalez Pepe, V. Sivakolunthu, H. Lang Park, <strong>Y. Chatelain</strong>, T. Glatard.
+            &laquo;&nbsp;Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI
+            Analysis.&nbsp;&raquo; <em>UNSURE, MICCAI</em>, 2023. <a
+              href="https://arxiv.org/pdf/2308.01939.pdf">[pdf]</a>
+          </li>
+          <li>M. Des Ligneris, A. Bonnet, <strong>Y. Chatelain</strong>, T. Glatard, M. Sdika, G. Vila, V.
+            Wargnier-Dauchelle, S. Pop, C. Frindel. &laquo;&nbsp;Reproducibility of tumor segmentation outcomes with a
+            deep learning model.&nbsp;&raquo; <em>IEEE ISBI</em>, 2023. <a
+              href="https://hal.science/hal-04006057/document">[pdf]</a></li>
+          <li>M. Vicuna, M. Khannouz, G. Kiar, <strong>Y. Chatelain</strong>, T. Glatard. &laquo;&nbsp;Reducing
+            numerical precision preserves classification accuracy in Mondrian Forests.&nbsp;&raquo; <em>IEEE Big
+              Data</em>, 2021. <a href="https://arxiv.org/pdf/2106.14340.pdf">[pdf]</a></li>
+          <li>A. Salari, <strong>Y. Chatelain</strong>, G. Kiar, T. Glatard. &laquo;&nbsp;Accurate simulation of
+            operating system updates in neuroimaging using Monte-Carlo arithmetic.&nbsp;&raquo; <em>UNSURE, MICCAI</em>,
+            2021. <a href="https://arxiv.org/pdf/2108.03129.pdf">[pdf]</a></li>
+          <li><strong>Y. Chatelain</strong>, E. Petit, P. de Oliveira Castro, G. Lartigue, D. Defour.
+            &laquo;&nbsp;Automatic exploration of reduced floating-point representations in iterative
+            methods.&nbsp;&raquo; <em>Euro-Par</em>, 2019. <a
+              href="https://hal.science/hal-02564972/file/dyn_adapt_precision19.pdf">[pdf]</a></li>
+          <li><strong>Y. Chatelain</strong>, P. de Oliveira Castro, E. Petit, D. Defour, J. Bieder, M. Torrent.
+            &laquo;&nbsp;VeriTracer: Context-enriched tracer for floating-point arithmetic analysis.&nbsp;&raquo;
+            <em>IEEE ARITH</em>, 2018. <a href="https://sifflez.org/publications/arith2018veritracer.pdf">[pdf]</a>
+          </li>
+        </ol>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Prépublications et travaux en évaluation sélectionnés</div>
+        <hr class="sec-rule" />
+        <ol class="pubs">
+          <li>A. Encin, I. Gonzalez Pepe, <strong>Y. Chatelain</strong>, E. Dickie, T. Glatard. &laquo;&nbsp;Untrained
+            Convolutional Neural Networks as Feature Extractors for Structural MRI.&nbsp;&raquo; <em>bioRxiv</em>, 2026.
+            <a href="https://www.biorxiv.org/content/biorxiv/early/2026/06/10/2026.06.07.730652.full.pdf">[pdf]</a>
+          </li>
+          <li>I. Gonzalez Pepe, V. Sivakolunthu, J. Fortin, <strong>Y. Chatelain</strong>, T. Glatard.
+            &laquo;&nbsp;Conservative &amp; Aggressive NaNs Accelerate U-Nets for Neuroimaging.&nbsp;&raquo;
+            <em>arXiv:2601.17180</em>, 2026. <a href="https://arxiv.org/pdf/2601.17180.pdf">[pdf]</a>
+          </li>
+          <li><strong>Y. Chatelain</strong>, A. Sokolowski, M. Sharp, J.-B. Poline, T. Glatard. &laquo;&nbsp;The
+            practical impact of numerical variability on structural MRI measures of Parkinson's disease.&nbsp;&raquo;
+            <em>bioRxiv</em>, 2026. <a
+              href="https://www.biorxiv.org/content/early/2026/01/09/2026.01.09.698203.full.pdf">[pdf]</a>
+          </li>
+          <li>M. Alizadeh, <strong>Y. Chatelain</strong>, G. Kiar, T. Glatard. &laquo;&nbsp;Numerical Variability of
+            Functional MRI Graph Measures.&nbsp;&raquo; <em>bioRxiv</em>, 2025. <a
+              href="https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.full.pdf">[pdf]</a></li>
+          <li>I. Gonzalez Pepe, V. Sivakolunthu, <strong>Y. Chatelain</strong>, T. Glatard. &laquo;&nbsp;Uncertain but
+            useful: Leveraging CNN variability into data augmentation.&nbsp;&raquo; <em>arXiv:2509.05238</em>, 2025. <a
+              href="https://arxiv.org/pdf/2509.05238.pdf">[pdf]</a></li>
+        </ol>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Communications scientifiques sélectionnées</div>
+        <hr class="sec-rule" />
+        <ul class="cv-list">
+          <li>OHBM 2022, Glasgow &mdash; tests de stabilité des résultats et reproductibilité à long terme de fMRIPrep.
+          </li>
+          <li>SciPy 2021 &mdash; environnements Fuzzy pour perturber, évaluer et exploiter l'incertitude numérique dans
+            l'écosystème Python scientifique.</li>
+          <li>IXPUG 2018 (Intel, Hillsboro) et IXPUG 2019 (CERN, Genève) &mdash; calcul numérique HPC et outillage
+            logiciel.</li>
+          <li>APS 2018 &mdash; défis du passage à l'exascale des simulations de structure électronique ABINIT.</li>
+        </ul>
+      </section>
+
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Contributions logicielles</div>
+        <hr class="sec-rule" />
+        <table class="contribtable">
+          <tr>
+            <td class="label">Verificarlo / Interflop</td>
+            <td>Instrumentation LLVM de programmes C/C++/Fortran et backends arithmétiques réutilisables pour
+              l'arithmétique de Monte-Carlo, la précision réduite et l'exécution vectorielle multiarchitecture.</td>
+          </tr>
+          <tr>
+            <td class="label">PRISM / Fuzzy PyTorch</td>
+            <td>Arrondi probabiliste vectorisé pour analyser à faible surcoût la variabilité numérique de modèles
+              PyTorch optimisés&nbsp;; socle CPU pour l'instrumentation future des GPU et accélérateurs.</td>
+          </tr>
+          <tr>
+            <td class="label">PyTracer / VeriTracer</td>
+            <td>Profilage contextuel et localisation des instabilités numériques dans Python et les applications
+              scientifiques compilées.</td>
+          </tr>
+          <tr>
+            <td class="label">VPREC</td>
+            <td>Simulation dynamique et exploration de formats flottants réduits&nbsp;; application aux solveurs parallèles de
+              mécanique des fluides et à l'optimisation de la précision du recalage en neuroimagerie.</td>
+          </tr>
+          <tr>
+            <td class="label">Méthodologie de stabilité</td>
+            <td>Tests d'acceptabilité au niveau des résultats et propagation de la variabilité numérique vers les
+              tailles d'effet, corrélations, modèles longitudinaux et inférences de groupe.</td>
+          </tr>
+        </table>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Financement et distinctions</div>
+        <hr class="sec-rule" />
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Bourse postdoctorale Horizon de Concordia</span><span
+              class="entry-meta">50 000&nbsp;$&nbsp;CAD/an &bull; 2020&ndash;2022</span></div>
+          <div class="entry-org">Chercheur principal &bull; Instabilités numériques en neuroimagerie</div>
+        </div>
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Subvention de recherche AccelNet IN-BIC</span><span
+              class="entry-meta">10 000&nbsp;$&nbsp;US &bull; 2021</span></div>
+          <div class="entry-org">Chercheur principal &bull; Stabilité numérique de la tractométrie cérébrale avec PyAFQ
+          </div>
+        </div>
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Prix du meilleur article, ACM REP</span><span
+              class="entry-meta">Coauteur &bull; 2024</span></div>
+          <div class="entry-org">2<sup>e</sup> ACM Conference on Reproducibility and Replicability</div>
+        </div>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Expérience d'enseignement</div>
+        <hr class="sec-rule" />
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Chargé de cours &mdash; Fondements de la
+              programmation</span><span class="entry-meta">Montréal, Canada &bull; automne 2023</span></div>
+          <div class="entry-org">Université Concordia &bull; première année du baccalauréat</div>
+          <ul class="cv-list">
+            <li>Introduction à la programmation, aux classes et aux objets en C++&nbsp;; progression par exemples, pratique
+              régulière, tests et compréhension conceptuelle.</li>
+          </ul>
+        </div>
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Chargé de travaux dirigés / cours magistral &mdash;
+              Compilation</span><span class="entry-meta">Versailles, France &bull; 2018&ndash;2019</span></div>
+          <div class="entry-org">Université Paris-Saclay &bull; troisième année de licence</div>
+          <ul class="cv-list">
+            <li>Enseignement de la chaîne de compilation, de l'analyse syntaxique à la génération d'assembleur;
+              encadrement de l'implémentation d'un mini-compilateur fonctionnel pour Tiger.</li>
+          </ul>
+        </div>
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Chargé de travaux dirigés &mdash; Algorithmique
+              avancée</span><span class="entry-meta">Versailles, France &bull; 2016&ndash;2018</span></div>
+          <div class="entry-org">Université Paris-Saclay &bull; troisième année de licence</div>
+          <ul class="cv-list">
+            <li>Travaux dirigés sur les complexités temporelle et spatiale, la récursivité, la méthode diviser pour
+              régner et les algorithmes de graphes&nbsp;; prestation d'un premier cours magistral.</li>
+          </ul>
+        </div>
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Chargé de travaux dirigés &mdash; Architectures
+              parallèles</span><span class="entry-meta">Versailles, France &bull; 2016&ndash;2018</span></div>
+          <div class="entry-org">Université Paris-Saclay &bull; première année de maîtrise</div>
+          <ul class="cv-list">
+            <li>Travaux dirigés sur la programmation à mémoire partagée et distribuée, la cohérence des caches et les
+              réseaux d'interconnexion&nbsp;; évaluation de synthèses d'articles et de présentations orales.</li>
+          </ul>
+        </div>
+        <p style="margin:10px 0 0;font-size:12px"><strong>Enseignements proposés&nbsp;:</strong> systèmes parallèles et
+          HPC (OpenMP, MPI, CUDA)&nbsp;; systèmes d'exploitation et systèmes logiciels&nbsp;; compilation&nbsp;; calcul numérique et
+          fiabilité des logiciels scientifiques&nbsp;; algorithmique&nbsp;; initiation à la programmation. Enseignement en français
+          ou en anglais.</p>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Encadrement en recherche</div>
+        <hr class="sec-rule" />
+        <p style="margin:0 0 8px;font-size:11px;color:#66737D">Ces encadrements ont été menés sous la responsabilité
+          officielle de mon superviseur, au sein duquel j'ai pris une part active à la supervision quotidienne
+          (définition des sujets, suivi scientifique et accompagnement méthodologique).</p>
+        <table class="mentortable">
+          <tr>
+            <th>Niveau</th>
+            <th>Personne</th>
+            <th>Sujet</th>
+            <th style="text-align:right">Période</th>
+          </tr>
+          <tr>
+            <td class="deg">Doctorat</td>
+            <td>Mina Alizadeh</td>
+            <td>Stabilité numérique de la neuroimagerie fonctionnelle</td>
+            <td class="period">2023&ndash;présent</td>
+          </tr>
+          <tr>
+            <td class="deg">Doctorat</td>
+            <td>Inés Gonzalez Pepe</td>
+            <td>Stabilité numérique de l'apprentissage profond en bio-informatique</td>
+            <td class="period">2023&ndash;présent</td>
+          </tr>
+          <tr>
+            <td class="deg">Doctorat</td>
+            <td>Mathieu Dugré</td>
+            <td>Précision réduite pour les applications de neuroimagerie</td>
+            <td class="period">2022&ndash;2026</td>
+          </tr>
+          <tr>
+            <td class="deg">Doctorat</td>
+            <td>Ali Salari</td>
+            <td>Environnements de calcul des pipelines de neuroimagerie</td>
+            <td class="period">2020&ndash;2022</td>
+          </tr>
+          <tr class="group-start">
+            <td class="deg">Maîtrise</td>
+            <td>Inés Gonzalez Pepe</td>
+            <td>Stabilité numérique de l'inférence DeepGOPlus (mentorat à 50%)</td>
+            <td class="period">2021&ndash;2023</td>
+          </tr>
+          <tr>
+            <td class="deg">Maîtrise</td>
+            <td>Damien Thénot</td>
+            <td>Environnement Java pour VeriTracer (encadrement à 50%)</td>
+            <td class="period">2018</td>
+          </tr>
+          <tr class="group-start">
+            <td class="deg">Baccalauréat</td>
+            <td>Jacob Fortin</td>
+            <td>Accélération de U-Net par NaN pooling/unpooling (50%)</td>
+            <td class="period">2024</td>
+          </tr>
+          <tr>
+            <td class="deg">Baccalauréat</td>
+            <td>Nigel Yong</td>
+            <td>Optimisation des performances de PyTracer (50%)</td>
+            <td class="period">2021</td>
+          </tr>
+          <tr>
+            <td class="deg">Baccalauréat</td>
+            <td>Marc Vicuna</td>
+            <td>Précision réduite dans les forêts de Mondrian (coencadrement)</td>
+            <td class="period">2021</td>
+          </tr>
+        </table>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Formation</div>
+        <hr class="sec-rule" />
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Doctorat en informatique</span><span
+              class="entry-meta">Versailles, France &bull; 2019</span></div>
+          <div class="entry-org">Université Paris-Saclay / UVSQ</div>
+          <div style="font-size:12px;font-style:italic;margin-top:3px">Thèse&nbsp;: Outils de débogage et d'optimisation
+            des calculs flottants dans le contexte HPC.</div>
+        </div>
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Maîtrise en calcul haute performance et simulation
+              numérique</span><span class="entry-meta">Versailles, France &bull; 2016</span></div>
+          <div class="entry-org">Université Paris-Saclay / UVSQ</div>
+        </div>
+        <div class="entry">
+          <div class="entry-top"><span class="entry-title">Licence en informatique</span><span class="entry-meta">Orsay,
+              France &bull; 2014</span></div>
+          <div class="entry-org">Université Paris-Saclay</div>
+        </div>
+      </section>
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Expertise technique</div>
+        <hr class="sec-rule" />
+        <table class="skilltable">
+          <tr>
+            <td class="label">HPC</td>
+            <td>OpenMP, MPI, multithreading et multiprocessing, Slurm, expériences distribuées, profilage, passage à
+              l'échelle fort et faible, systèmes CPU/GPU et hétérogènes.</td>
+          </tr>
+          <tr>
+            <td class="label">Compilation</td>
+            <td>LLVM/Clang, passes de compilation, instrumentation binaire, ISA Intel/ARM, assembleur, vectorisation,
+              noyaux numériques optimisés.</td>
+          </tr>
+          <tr>
+            <td class="label">Langages et plateformes</td>
+            <td>C, C++, Fortran, Python, OCaml&nbsp;; Linux, Docker, Guix, intégration et déploiement continus, environnements
+              et flux reproductibles.</td>
+          </tr>
+          <tr>
+            <td class="label">Calcul numérique et IA</td>
+            <td>Virgule flottante, arithmétique de Monte-Carlo et stochastique, précision mixte/réduite, PyTorch,
+              NumPy/SciPy, FreeSurfer, ANTs, PyAFQ.</td>
+          </tr>
+        </table>
+      </section>
+
+
+      <section>
+        <div class="sec-title"><span class="bar"></span>Profil professionnel</div>
+        <hr class="sec-rule" />
+        <table class="skilltable">
+          <tr>
+            <td class="label">Langues</td>
+            <td>Français (langue maternelle)&nbsp;; anglais (compétence professionnelle).</td>
+          </tr>
+          <tr>
+            <td class="label">Science ouverte</td>
+            <td>Logiciels libres, conteneurs reproductibles, rapports automatisés de stabilité, intégration continue.
+            </td>
+          </tr>
+          <tr>
+            <td class="label">Statut professionnel</td>
+            <td>Disposé à entreprendre les démarches requises pour devenir membre de l'Ordre des ingénieurs du Québec.
+            </td>
+          </tr>
+        </table>
+      </section>
+
+    </div>
+  </div>
+</body>
+
+</html>

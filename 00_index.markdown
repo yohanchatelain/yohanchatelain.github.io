@@ -10,13 +10,13 @@ tags: yohanchatelain yohan chatelain postdoc concordia uvsq verificarlo pytracer
 
 ## :fr: :canada:
 
-I am a postdoctoral researcher in the 
-[Krembil Centre for Neuroinformatics](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) 
-at the [Centre for Addiction and Mental Health (CAMH), Canada](https://www.camh.ca). 
-My research topics include computer arithmetic, high-performance computing,
-reproducibility, and neuroimaging. In addition, my work aims to democratize the use of stability
-analysis of scientific computing codes through automatic tools to improve
-numerical quality.
+I am a scientific associate in the [Krembil Centre for
+Neuroinformatics](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics)
+at the [Centre for Addiction and Mental Health (CAMH),
+Canada](https://www.camh.ca). My research topics include computer arithmetic,
+high-performance computing, reproducibility, and neuroimaging. In addition, my
+work aims to democratize the use of stability analysis of scientific computing
+codes through automatic tools to improve numerical quality.
 
 
 <br>
