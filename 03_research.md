@@ -9,26 +9,28 @@ layout: page
 
 1. **[Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models](https://openreview.net/pdf?id=0ogq232VGP)** \\
 Inés Gonzalez Pepe, Hiba Akhaddar, Tristan Glatard, **Yohan Chatelain**. *Transactions on Machine Learning Research (2026)*.
-2. **[Open-source platforms to investigate analytical flexibility in neuroimaging.](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.79/131499)** \\
+2. **[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://www.biorxiv.org/content/early/2026/01/09/2026.01.09.698203.full.pdf)** \\
+**Yohan Chatelain**, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard. *Scientific Reports (2026)*.
+3. **[Open-source platforms to investigate analytical flexibility in neuroimaging.](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.79/131499)** \\
 Sanz-Robinson, Jacob, Michelle Wang, Brent McPherson, **Yohan Chatelain**, David Kennedy, Tristan Glatard, and Jean-Baptiste Poline. *Imaging Neuroscience (2025)*.
-3. **[An analysis of performance bottlenecks in MRI preprocessing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371)** \\
+4. **[An analysis of performance bottlenecks in MRI preprocessing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371)** \\
 Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *GigaScience 14 (2025): giae098.*.
-4. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
+5. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
 **Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
 *IEEE Transactions on Computers (IEEE TC) (2024)*
-5. **[Longitudinal brain structure changes in Parkinson's disease: a replication study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295069)** \\
+6. **[Longitudinal brain structure changes in Parkinson's disease: a replication study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295069)** \\
 Andrzej Sokolowski, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Alexandru Hanganu, Oury Monchi, Brent McPherson, Michelle Wang, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard.
 *In PLOS ONE (2024)*
-6. **[Numerical Stability of DeepGOPlus Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10824456/)** \\
+7. **[Numerical Stability of DeepGOPlus Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10824456/)** \\
 Ines Gonzalez Pepe, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In PLOS ONE (2024)*
-7. **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf).** \\
+8. **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf).** \\
  **Yohan Chatelain**, Nigel Yong, Gregory Kiar, Tristan Glatard.
 *IEEE Transactions on Computers (IEEE TC) (2022)*
-8. **[Numerical Uncertainty in Analytical Pipelines Lead to Impactful Variability in Brain Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250755)**. \\
+9. **[Numerical Uncertainty in Analytical Pipelines Lead to Impactful Variability in Brain Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250755)**. \\
 Gregory Kiar, **Yohan Chatelain**, Pablo de Oliveira Castro, Eric Petit, Ariel Rokem, Gaël Varoquaux, Bratislav Misic, Alan C. Evans, Tristan Glatard.
 *In PLOS ONE (2021).*
-9. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
+10. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
 Mihail Popov, Chadi Akel, **Yohan Chatelain**, William Jalby, and Pablo de Oliveira Castro.
 *Concurrency and Computation: Practice and Experience, vol. 29, Aug 2017.*
 
@@ -64,9 +66,7 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 Arel Encin, Ines Gonzalez Pepe, **Yohan Chatelain**, Erin Dickie, Tristan Glatard. *bioRxiv (2026).* 
 2. **[Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging](https://arxiv.org/pdf/2601.17180)** \\
 Inés Gonzalez-Pepe, Vinuyan Sivakolunthu, Jacob Fortin, Yohan Chatelain, Tristan Glatard. *arXiv preprint arXiv:2601.17180 (2026)*
-3. **[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://www.biorxiv.org/content/early/2026/01/09/2026.01.09.698203.full.pdf)** \\
-**Yohan Chatelain**, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard. *bioRxiv (2026).*
-4. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
+3. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
 Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025).*
 5. **[Uncertain but useful: Leveraging cnn variability into data augmentation](https://arxiv.org/abs/2509.05238)** \\
 Inés Gonzalez-Pepe, Vinuyan Sivakolunthu, **Yohan Chatelain**, Tristan Glatard. *arXiv preprint arXiv:2509.05238 (2025).*
