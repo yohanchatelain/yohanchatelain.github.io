@@ -93,11 +93,12 @@ Jordan Bieder, Marc Torrent, and **Yohan Chatelain**.
 *APS Meeting Abstracts. 2018*
 
 ## Communications
-1. IXPUG 2019: Intel Extreme Performance Users Group, CERN, Geneva, Switzerland
-2. IXPUG 2018: Intel Extreme Performance Users Group, Intel Corporation, Hillsboro, OR, USA
-3. ESTN 2018: 8èmes École Thématique de Simulation Numérique, Cargèse, 2018
-4. RAIM 2017: 9èmes Rencontres «Arithmétique de l’Informatique Mathématique», Lyon, 2017
-5. ABIDEV 2017: The 8th ABINIT developer's workshop, Frejus, 2017
+1. ATPESC 2026: Argonne Training Program on Extreme-Scale Computing, invited lecture and tutorial *"[Verificarlo: Debugging and optimising floating-point calculations](https://docs.google.com/presentation/d/1CudyPJLy3CAvQ2MOzgMWqPbONmUNGX9gLfYSqt1096M/edit?usp=sharing)"*, Track 4b: Mixed Precision Computing, Q Center, St. Charles, IL, USA
+2. IXPUG 2019: Intel Extreme Performance Users Group, CERN, Geneva, Switzerland
+3. IXPUG 2018: Intel Extreme Performance Users Group, Intel Corporation, Hillsboro, OR, USA
+4. ESTN 2018: 8èmes École Thématique de Simulation Numérique, Cargèse, 2018
+5. RAIM 2017: 9èmes Rencontres «Arithmétique de l’Informatique Mathématique», Lyon, 2017
+6. ABIDEV 2017: The 8th ABINIT developer's workshop, Frejus, 2017
 
 ## PhD Thesis
 
