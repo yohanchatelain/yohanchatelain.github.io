@@ -65,31 +65,33 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
 
 ## Preprints
-1. **[Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI](https://www.biorxiv.org/content/biorxiv/early/2026/06/10/2026.06.07.730652.full.pdf)** \\
+1. **[Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2](https://arxiv.org/abs/2610.01889)** \\
+**Yohan Chatelain**, Pablo de Oliveira Castro. *arXiv preprint arXiv:2610.01889 (2026).*
+2. **[Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI](https://www.biorxiv.org/content/biorxiv/early/2026/06/10/2026.06.07.730652.full.pdf)** \\
 Arel Encin, Ines Gonzalez Pepe, **Yohan Chatelain**, Erin Dickie, Tristan Glatard. *bioRxiv (2026).* 
-2. **[Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging](https://arxiv.org/pdf/2601.17180)** \\
+3. **[Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging](https://arxiv.org/pdf/2601.17180)** \\
 Inés Gonzalez-Pepe, Vinuyan Sivakolunthu, Jacob Fortin, Yohan Chatelain, Tristan Glatard. *arXiv preprint arXiv:2601.17180 (2026)*
-3. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
+4. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
 Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025).*
-4. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)** \\
+5. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)** \\
 Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, **Yohan Chatelain**, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071*
-5. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://arxiv.org/abs/2308.01939)** \\
+6. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://arxiv.org/abs/2308.01939)** \\
 Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, Tristan Glatard. *arXiv e-prints arXiv:2308.01939 (2023).*
-6. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
+7. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
 *bioRxiv:2023.05.05.539590.*
-7. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://arxiv.org/abs/2109.09649)**. \\
+8. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://arxiv.org/abs/2109.09649)**. \\
 Gregory Kiar, **Yohan Chatelain**, Ali Salari, Alan C. Evans, Tristan Glatard.
 *arXiv preprint arXiv:2109.09649 (2021).*
 
 ## Communications at international conferences (abstract)
-1. **[A numerical variability approach to results stability tests and its application to neuroimaging]()**. \\
+2. **[A numerical variability approach to results stability tests and its application to neuroimaging]()**. \\
 **Yohan Chatelain**, Loïc Tetrel, Christopher J. Markiewicz, Mathias Goncalvez, Gregory Kiar, Oscar Esteban, Pierre Bellec and Tristan Glatard.
 *OHBM 2022, Glasgow, Scotland.*
-2. **[Fuzzy environments for the perturbation, evaluation, and application of numerical uncertainty via MCA in the scientific Python ecosystem]()** \\
+3. **[Fuzzy environments for the perturbation, evaluation, and application of numerical uncertainty via MCA in the scientific Python ecosystem]()** \\
 Gregory Kiar, **Yohan Chatelain**, Ali Salari, Eric Petit, Pablo de Oliveira Castro, and Tristan Glatard.
 *SciPy Conference, 2021.*
-3. **[Towards Abinit on ExaScale supercomputers: the challenge for electronic structure physicists](https://ui.adsabs.harvard.edu/abs/2018APS..MARC34007B/abstract)** \\
+4. **[Towards Abinit on ExaScale supercomputers: the challenge for electronic structure physicists](https://ui.adsabs.harvard.edu/abs/2018APS..MARC34007B/abstract)** \\
 Jordan Bieder, Marc Torrent, and **Yohan Chatelain**.
 *APS Meeting Abstracts. 2018*
 
@@ -103,5 +105,5 @@ Jordan Bieder, Marc Torrent, and **Yohan Chatelain**.
 
 ## PhD Thesis
 
-1. **[Outils de débogage et d'optimisation des calculs flottants dans le contexte HPC (Tools for debugging and optimizing floating-point computations in HPC)](https://tel.archives-ouvertes.fr/tel-02614237/file/85561_CHATELAIN_2019_archivage.pdf)** \\
+2. **[Outils de débogage et d'optimisation des calculs flottants dans le contexte HPC (Tools for debugging and optimizing floating-point computations in HPC)](https://tel.archives-ouvertes.fr/tel-02614237/file/85561_CHATELAIN_2019_archivage.pdf)** \\
 Yohan Chatelain. *Université Paris-Saclay (2019).*
