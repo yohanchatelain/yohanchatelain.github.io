@@ -1,0 +1,26 @@
+# Yohan Chatelain
+
+> Researcher in high-performance computing (HPC), scientific software systems, and numerical reliability. Scientific Associate at the Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health (CAMH), based in Montréal, Canada. PhD in Computer Science (Université Paris-Saclay / UVSQ, 2019).
+
+Research topics: LLVM instrumentation, Monte Carlo and stochastic arithmetic, mixed and reduced floating-point precision, heterogeneous CPU/GPU execution, and the reproducibility and numerical stability of AI and neuroimaging pipelines. Main software: Verificarlo, Interflop, PRISM, Fuzzy PyTorch, PyTracer, VeriTracer, VPREC.
+
+## Résumé
+
+- [Résumé (English)](https://yohanchatelain.github.io/resume-EN.html): full CV as static HTML — experience, publications, teaching, mentorship, education, skills
+- [CV (français)](https://yohanchatelain.github.io/resume-FR.html): same content in French
+- [CV page](https://yohanchatelain.github.io/cv): both versions, with schema.org Person data
+
+## Profiles
+
+- [ORCID 0000-0001-7023-250X](https://orcid.org/0000-0001-7023-250X)
+- [Google Scholar](https://scholar.google.com/citations?user=fYcLg4IAAAAJ)
+- [GitHub](https://github.com/yohanchatelain)
+- [LinkedIn](https://www.linkedin.com/in/yohan-chatelain/)
+
+## Site
+
+- [Home](https://yohanchatelain.github.io/): short bio and news
+- [About](https://yohanchatelain.github.io/about/)
+- [Research](https://yohanchatelain.github.io/research): research overview
+- [Projects](https://yohanchatelain.github.io/projects): software projects
+- [Contact](https://yohanchatelain.github.io/contact/)

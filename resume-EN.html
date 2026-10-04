@@ -61,7 +61,7 @@
       margin-bottom: 4px
     }
 
-    .sec-title {
+    .cv .sec-title {
       font-size: 17px;
       font-weight: 700;
       color: #123B57;
@@ -96,6 +96,8 @@
     }
 
     .entry-title {
+      font-size: inherit;
+      line-height: inherit;
       font-weight: 700;
       color: #202B33
     }
@@ -260,6 +262,7 @@
         <h1 style="font-size:32px;color:#123B57;font-weight:700;letter-spacing:0.2px">Yohan Chatelain</h1>
         <div style="font-size:17px;margin-top:4px">High-performance computing &bull; Scientific software systems
           &bull; Numerical reliability</div>
+        <address style="font-style:normal">
         <div style="font-size:12px;color:#66737D;margin-top:8px">
           Montréal, Quebec, Canada &nbsp;|&nbsp;
           <a href="mailto:yohan.chatelain@gmail.com">yohan.chatelain@gmail.com</a> &nbsp;|&nbsp;
@@ -272,11 +275,12 @@
           <a href="https://orcid.org/0000-0001-7023-250X">ORCID 0000-0001-7023-250X</a> &nbsp;&nbsp;
           <a href="https://ca.linkedin.com/in/yohan-chatelain">LinkedIn</a>
         </div>
+        </address>
       </div>
       <hr style="border:none;border-top:0.6pt solid #123B57;margin:12px 0 4px" />
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Research Profile</div>
+        <h2 class="sec-title"><span class="bar"></span>Research Profile</h2>
         <hr class="sec-rule" />
         <p style="margin:0 0 3px">Researcher developing compilation, execution, and statistical analysis methods to
           make large-scale scientific computing faster, more reproducible, and numerically reliable. My research
@@ -291,12 +295,11 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Academic and Research Experience</div>
+        <h2 class="sec-title"><span class="bar"></span>Academic and Research Experience</h2>
         <hr class="sec-rule" />
 
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Scientific Associate</span><span class="entry-meta">Toronto,
-              Canada &bull; Mar. 2026&ndash;present</span></div>
+          <div class="entry-top"><h3 class="entry-title">Scientific Associate</h3><span class="entry-meta"><span class="entry-location">Toronto, Canada</span> &bull; <time datetime="2026-03">Mar. 2026</time>&ndash;present</span></div>
           <div class="entry-org">Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health (CAMH)
           </div>
           <ul class="cv-list">
@@ -309,8 +312,7 @@
         </div>
 
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Postdoctoral Researcher</span><span
-              class="entry-meta">Toronto, Canada &bull; Jan. 2025&ndash;Feb. 2026</span></div>
+          <div class="entry-top"><h3 class="entry-title">Postdoctoral Researcher</h3><span class="entry-meta"><span class="entry-location">Toronto, Canada</span> &bull; <time datetime="2025-01">Jan. 2025</time>&ndash;<time datetime="2026-02">Feb. 2026</time></span></div>
           <div class="entry-org">Krembil Centre for Neuroinformatics, CAMH</div>
           <ul class="cv-list">
             <li>Quantified the numerical variability of MRI-derived biomarkers and propagated uncertainty through to
@@ -323,8 +325,7 @@
         </div>
 
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Postdoctoral Researcher</span><span
-              class="entry-meta">Montréal, Canada &bull; Sept. 2020&ndash;Dec. 2024</span></div>
+          <div class="entry-top"><h3 class="entry-title">Postdoctoral Researcher</h3><span class="entry-meta"><span class="entry-location">Montréal, Canada</span> &bull; <time datetime="2020-09">Sept. 2020</time>&ndash;<time datetime="2024-12">Dec. 2024</time></span></div>
           <div class="entry-org">Department of Computer Science and Software Engineering, Concordia University</div>
           <ul class="cv-list">
             <li>Led research at the intersection of HPC, numerical analysis, neuroimaging, bioinformatics, and AI;
@@ -336,8 +337,7 @@
         </div>
 
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Doctoral Researcher</span><span
-              class="entry-meta">Versailles, France &bull; Oct. 2016&ndash;Dec. 2019</span></div>
+          <div class="entry-top"><h3 class="entry-title">Doctoral Researcher</h3><span class="entry-meta"><span class="entry-location">Versailles, France</span> &bull; <time datetime="2016-10">Oct. 2016</time>&ndash;<time datetime="2019-12">Dec. 2019</time></span></div>
           <div class="entry-org">Université Paris-Saclay / UVSQ, LI-PaRAD</div>
           <ul class="cv-list">
             <li>Developed LLVM-based tools for numerical debugging and reduced-precision optimization in HPC:
@@ -349,12 +349,11 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Industry and Software Engineering Experience</div>
+        <h2 class="sec-title"><span class="bar"></span>Industry and Software Engineering Experience</h2>
         <hr class="sec-rule" />
 
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Software Engineer, Numerical Computing Team</span><span
-              class="entry-meta">Hillsboro, Oregon, USA &bull; Jan.&ndash;June 2019</span></div>
+          <div class="entry-top"><h3 class="entry-title">Software Engineer, Numerical Computing Team</h3><span class="entry-meta"><span class="entry-location">Hillsboro, Oregon, USA</span> &bull; <time datetime="2019-01">Jan.</time>&ndash;<time datetime="2019-06">June 2019</time></span></div>
           <div class="entry-org">Intel Corporation</div>
           <ul class="cv-list">
             <li>Modernized functions in the Intel Mathematical Library and optimized approximately half of the targeted
@@ -363,8 +362,7 @@
         </div>
 
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Software Developer</span><span class="entry-meta">Versailles,
-              France &bull; Apr.&ndash;Sept. 2016</span></div>
+          <div class="entry-top"><h3 class="entry-title">Software Developer</h3><span class="entry-meta"><span class="entry-location">Versailles, France</span> &bull; <time datetime="2016-04">Apr.</time>&ndash;<time datetime="2016-09">Sept. 2016</time></span></div>
           <div class="entry-org">Université de Versailles Saint-Quentin-en-Yvelines</div>
           <ul class="cv-list">
             <li>Developed a multithreaded capture-and-replay mechanism in C for CERE, doubling experiment scalability;
@@ -374,8 +372,7 @@
         </div>
 
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Software Developer</span><span
-              class="entry-meta">Bruyères-le-Châtel, France &bull; May&ndash;Sept. 2015</span></div>
+          <div class="entry-top"><h3 class="entry-title">Software Developer</h3><span class="entry-meta"><span class="entry-location">Bruyères-le-Châtel, France</span> &bull; <time datetime="2015-05">May</time>&ndash;<time datetime="2015-09">Sept. 2015</time></span></div>
           <div class="entry-org">Exascale Computing Research</div>
           <ul class="cv-list">
             <li>Implemented value profiling with LLVM/Python and automatic specialization of C functions; evaluated
@@ -385,7 +382,7 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Peer-Reviewed Journal Articles</div>
+        <h2 class="sec-title"><span class="bar"></span>Peer-Reviewed Journal Articles</h2>
         <hr class="sec-rule" />
         <ol class="pubs">
           <li>I. Gonzalez Pepe, H. Akhaddar, T. Glatard, <strong>Y. Chatelain</strong>. &ldquo;Fuzzy PyTorch:
@@ -437,8 +434,7 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Peer-Reviewed Conference and Workshop Papers
-        </div>
+        <h2 class="sec-title"><span class="bar"></span>Peer-Reviewed Conference and Workshop Papers</h2>
         <hr class="sec-rule" />
         <ol class="pubs">
           <li>I. Gonzalez Pepe, V. Sivakolunthu, <strong>Y. Chatelain</strong>, T. Glatard. &ldquo;Uncertain but
@@ -477,7 +473,7 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Selected Preprints and Work Under Review</div>
+        <h2 class="sec-title"><span class="bar"></span>Selected Preprints and Work Under Review</h2>
         <hr class="sec-rule" />
         <ol class="pubs">
           <li><strong>Y. Chatelain</strong>, P. de Oliveira Castro. &ldquo;Stochastic Rounding in
@@ -499,7 +495,7 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Selected Scientific Presentations</div>
+        <h2 class="sec-title"><span class="bar"></span>Selected Scientific Presentations</h2>
         <hr class="sec-rule" />
         <ul class="cv-list">
           <li>ATPESC 2026 (Argonne National Laboratory, St. Charles, IL) &mdash; invited lecture and hands-on tutorial
@@ -517,7 +513,7 @@
 
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Software Contributions</div>
+        <h2 class="sec-title"><span class="bar"></span>Software Contributions</h2>
         <hr class="sec-rule" />
         <table class="contribtable">
           <tr>
@@ -549,32 +545,28 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Funding and Awards</div>
+        <h2 class="sec-title"><span class="bar"></span>Funding and Awards</h2>
         <hr class="sec-rule" />
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Concordia Horizon Postdoctoral Fellowship</span><span
-              class="entry-meta">CAD $50,000/year &bull; 2020&ndash;2022</span></div>
+          <div class="entry-top"><h3 class="entry-title">Concordia Horizon Postdoctoral Fellowship</h3><span class="entry-meta"><span class="entry-detail">CAD $50,000/year</span> &bull; <time datetime="2020">2020</time>&ndash;<time datetime="2022">2022</time></span></div>
           <div class="entry-org">Principal investigator &bull; Numerical instabilities in neuroimaging</div>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">AccelNet IN-BIC Research Grant</span><span
-              class="entry-meta">US $10,000 &bull; 2021</span></div>
+          <div class="entry-top"><h3 class="entry-title">AccelNet IN-BIC Research Grant</h3><span class="entry-meta"><span class="entry-detail">US $10,000</span> &bull; <time datetime="2021">2021</time></span></div>
           <div class="entry-org">Principal investigator &bull; Numerical stability of brain tractometry with PyAFQ
           </div>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Best Paper Award, ACM REP</span><span
-              class="entry-meta">Co-author &bull; 2024</span></div>
+          <div class="entry-top"><h3 class="entry-title">Best Paper Award, ACM REP</h3><span class="entry-meta"><span class="entry-detail">Co-author</span> &bull; <time datetime="2024">2024</time></span></div>
           <div class="entry-org">2nd ACM Conference on Reproducibility and Replicability</div>
         </div>
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Teaching Experience</div>
+        <h2 class="sec-title"><span class="bar"></span>Teaching Experience</h2>
         <hr class="sec-rule" />
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Invited Lecturer &mdash; ATPESC 2026</span><span
-              class="entry-meta">St. Charles, IL, USA &bull; July 2026</span></div>
+          <div class="entry-top"><h3 class="entry-title">Invited Lecturer &mdash; ATPESC 2026</h3><span class="entry-meta"><span class="entry-location">St. Charles, IL, USA</span> &bull; <time datetime="2026-07">July 2026</time></span></div>
           <div class="entry-org">Argonne National Laboratory &bull; Argonne Training Program on Extreme-Scale Computing
           </div>
           <ul class="cv-list">
@@ -584,8 +576,8 @@
           </ul>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Course Instructor &mdash; Programming
-              Foundations</span><span class="entry-meta">Montréal, Canada &bull; Fall 2023</span></div>
+          <div class="entry-top"><h3 class="entry-title">Course Instructor &mdash; Programming
+              Foundations</h3><span class="entry-meta"><span class="entry-location">Montréal, Canada</span> &bull; <time datetime="2023">Fall 2023</time></span></div>
           <div class="entry-org">Concordia University &bull; first-year undergraduate course</div>
           <ul class="cv-list">
             <li>Introduced programming, classes, and objects in C++ through worked examples, regular practice, testing,
@@ -593,8 +585,8 @@
           </ul>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Teaching Assistant / Lecturer &mdash;
-              Compilers</span><span class="entry-meta">Versailles, France &bull; 2018&ndash;2019</span></div>
+          <div class="entry-top"><h3 class="entry-title">Teaching Assistant / Lecturer &mdash;
+              Compilers</h3><span class="entry-meta"><span class="entry-location">Versailles, France</span> &bull; <time datetime="2018">2018</time>&ndash;<time datetime="2019">2019</time></span></div>
           <div class="entry-org">Université Paris-Saclay &bull; third-year undergraduate course</div>
           <ul class="cv-list">
             <li>Taught the compilation pipeline, from parsing to assembly generation; supervised the implementation of
@@ -602,8 +594,8 @@
           </ul>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Teaching Assistant &mdash; Advanced
-              Algorithms</span><span class="entry-meta">Versailles, France &bull; 2016&ndash;2018</span></div>
+          <div class="entry-top"><h3 class="entry-title">Teaching Assistant &mdash; Advanced
+              Algorithms</h3><span class="entry-meta"><span class="entry-location">Versailles, France</span> &bull; <time datetime="2016">2016</time>&ndash;<time datetime="2018">2018</time></span></div>
           <div class="entry-org">Université Paris-Saclay &bull; third-year undergraduate course</div>
           <ul class="cv-list">
             <li>Led tutorials on time and space complexity, recursion, divide-and-conquer methods, and graph algorithms;
@@ -611,8 +603,8 @@
           </ul>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Teaching Assistant &mdash; Parallel
-              Architectures</span><span class="entry-meta">Versailles, France &bull; 2016&ndash;2018</span></div>
+          <div class="entry-top"><h3 class="entry-title">Teaching Assistant &mdash; Parallel
+              Architectures</h3><span class="entry-meta"><span class="entry-location">Versailles, France</span> &bull; <time datetime="2016">2016</time>&ndash;<time datetime="2018">2018</time></span></div>
           <div class="entry-org">Université Paris-Saclay &bull; first-year master's course</div>
           <ul class="cv-list">
             <li>Led tutorials on shared- and distributed-memory programming, cache coherence, and interconnection
@@ -625,7 +617,7 @@
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Research Mentorship</div>
+        <h2 class="sec-title"><span class="bar"></span>Research Mentorship</h2>
         <hr class="sec-rule" />
         <p style="margin:0 0 8px;font-size:11px;color:#66737D">These mentorships were conducted under my supervisor's
           formal responsibility, while I played an active role in day-to-day supervision, including defining research
@@ -641,84 +633,81 @@
             <td class="deg">PhD</td>
             <td>Mina Alizadeh</td>
             <td>Numerical stability of functional neuroimaging</td>
-            <td class="period">2023&ndash;present</td>
+            <td class="period"><time datetime="2023">2023</time>&ndash;present</td>
           </tr>
           <tr>
             <td class="deg">PhD</td>
             <td>Inés Gonzalez Pepe</td>
             <td>Numerical stability of deep learning in bioinformatics</td>
-            <td class="period">2023&ndash;present</td>
+            <td class="period"><time datetime="2023">2023</time>&ndash;present</td>
           </tr>
           <tr>
             <td class="deg">PhD</td>
             <td>Mathieu Dugré</td>
             <td>Reduced precision for neuroimaging applications</td>
-            <td class="period">2022&ndash;2026</td>
+            <td class="period"><time datetime="2022">2022</time>&ndash;<time datetime="2026">2026</time></td>
           </tr>
           <tr>
             <td class="deg">PhD</td>
             <td>Ali Salari</td>
             <td>Computing environments for neuroimaging pipelines</td>
-            <td class="period">2020&ndash;2022</td>
+            <td class="period"><time datetime="2020">2020</time>&ndash;<time datetime="2022">2022</time></td>
           </tr>
           <tr class="group-start">
             <td class="deg">Master's</td>
             <td>Inés Gonzalez Pepe</td>
             <td>Numerical stability of DeepGOPlus inference (50% mentorship)</td>
-            <td class="period">2021&ndash;2023</td>
+            <td class="period"><time datetime="2021">2021</time>&ndash;<time datetime="2023">2023</time></td>
           </tr>
           <tr>
             <td class="deg">Master's</td>
             <td>Damien Thénot</td>
             <td>Java environment for VeriTracer (50% supervision)</td>
-            <td class="period">2018</td>
+            <td class="period"><time datetime="2018">2018</time></td>
           </tr>
           <tr class="group-start">
             <td class="deg">Undergraduate</td>
             <td>Jacob Fortin</td>
             <td>U-Net acceleration through NaN pooling/unpooling (50%)</td>
-            <td class="period">2024</td>
+            <td class="period"><time datetime="2024">2024</time></td>
           </tr>
           <tr>
             <td class="deg">Undergraduate</td>
             <td>Nigel Yong</td>
             <td>PyTracer performance optimization (50%)</td>
-            <td class="period">2021</td>
+            <td class="period"><time datetime="2021">2021</time></td>
           </tr>
           <tr>
             <td class="deg">Undergraduate</td>
             <td>Marc Vicuna</td>
             <td>Reduced precision in Mondrian forests (co-supervision)</td>
-            <td class="period">2021</td>
+            <td class="period"><time datetime="2021">2021</time></td>
           </tr>
         </table>
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Education</div>
+        <h2 class="sec-title"><span class="bar"></span>Education</h2>
         <hr class="sec-rule" />
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">PhD in Computer Science</span><span
-              class="entry-meta">Versailles, France &bull; 2019</span></div>
+          <div class="entry-top"><h3 class="entry-title">PhD in Computer Science</h3><span class="entry-meta"><span class="entry-location">Versailles, France</span> &bull; <time datetime="2019">2019</time></span></div>
           <div class="entry-org">Université Paris-Saclay / UVSQ</div>
           <div style="font-size:12px;font-style:italic;margin-top:3px">Dissertation: Debugging and optimization tools
             for floating-point computations in HPC.</div>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Master's in High-Performance Computing and Numerical
-              Simulation</span><span class="entry-meta">Versailles, France &bull; 2016</span></div>
+          <div class="entry-top"><h3 class="entry-title">Master's in High-Performance Computing and Numerical
+              Simulation</h3><span class="entry-meta"><span class="entry-location">Versailles, France</span> &bull; <time datetime="2016">2016</time></span></div>
           <div class="entry-org">Université Paris-Saclay / UVSQ</div>
         </div>
         <div class="entry">
-          <div class="entry-top"><span class="entry-title">Bachelor's in Computer Science</span><span
-              class="entry-meta">Orsay,
-              France &bull; 2014</span></div>
+          <div class="entry-top"><h3 class="entry-title">Bachelor's in Computer Science</h3><span class="entry-meta"><span class="entry-location">Orsay, France</span> &bull; <time datetime="2014">2014</time></span></div>
           <div class="entry-org">Université Paris-Saclay</div>
         </div>
       </section>
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Technical Expertise</div>
+        <h2 class="sec-title"><span class="bar"></span>Technical Expertise</h2>
         <hr class="sec-rule" />
         <table class="skilltable">
           <tr>
@@ -746,7 +735,7 @@
 
 
       <section>
-        <div class="sec-title"><span class="bar"></span>Professional Profile</div>
+        <h2 class="sec-title"><span class="bar"></span>Professional Profile</h2>
         <hr class="sec-rule" />
         <table class="skilltable">
           <tr>

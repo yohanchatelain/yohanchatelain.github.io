@@ -1,0 +1,108 @@
+{% comment %}
+  schema.org description of the site owner, for search engines and AI agents.
+  Keep in sync with resume-EN.html when the current position changes.
+{% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if include.profile %}ProfilePage{% else %}WebPage{% endif %}",
+  "url": "{{ page.url | absolute_url }}",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ '/' | absolute_url }}#person",
+    "name": "Yohan Chatelain",
+    "givenName": "Yohan",
+    "familyName": "Chatelain",
+    "url": "{{ '/' | absolute_url }}",
+    "image": "{{ site.avatar }}",
+    "email": "mailto:{{ site.author.email }}",
+    "jobTitle": "Scientific Associate",
+    "description": "Researcher in high-performance computing, scientific software systems, and numerical reliability: LLVM instrumentation, stochastic arithmetic, mixed and reduced precision, and reproducibility of AI and neuroimaging pipelines.",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health (CAMH)",
+      "url": "https://www.camh.ca"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Montréal",
+      "addressRegion": "QC",
+      "addressCountry": "CA"
+    },
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Université Paris-Saclay"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Université de Versailles Saint-Quentin-en-Yvelines (UVSQ)"
+      }
+    ],
+    "hasCredential": [
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "degree",
+        "educationalLevel": "Doctoral",
+        "name": "PhD in Computer Science",
+        "recognizedBy": { "@type": "CollegeOrUniversity", "name": "Université Paris-Saclay / UVSQ" },
+        "dateCreated": "2019"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "degree",
+        "educationalLevel": "Master",
+        "name": "Master's in High-Performance Computing and Numerical Simulation",
+        "recognizedBy": { "@type": "CollegeOrUniversity", "name": "Université Paris-Saclay / UVSQ" },
+        "dateCreated": "2016"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "degree",
+        "educationalLevel": "Bachelor",
+        "name": "Bachelor's in Computer Science",
+        "recognizedBy": { "@type": "CollegeOrUniversity", "name": "Université Paris-Saclay" },
+        "dateCreated": "2014"
+      }
+    ],
+    "award": [
+      "Best Paper Award, 2nd ACM Conference on Reproducibility and Replicability (ACM REP), 2024",
+      "Concordia Horizon Postdoctoral Fellowship, 2020–2022",
+      "AccelNet IN-BIC Research Grant, 2021"
+    ],
+    "knowsAbout": [
+      "High-performance computing",
+      "Numerical reliability",
+      "Floating-point arithmetic",
+      "Stochastic arithmetic",
+      "Monte Carlo arithmetic",
+      "Mixed and reduced precision",
+      "LLVM",
+      "Compilers",
+      "Scientific software",
+      "Reproducibility",
+      "Neuroimaging",
+      "Deep learning",
+      "OpenMP",
+      "MPI",
+      "C",
+      "C++",
+      "Fortran",
+      "Python",
+      "PyTorch"
+    ],
+    "knowsLanguage": ["fr", "en"],
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0000-0001-7023-250X"
+    },
+    "sameAs": [
+      "https://orcid.org/0000-0001-7023-250X",
+      "https://scholar.google.com/citations?user=fYcLg4IAAAAJ",
+      "https://github.com/yohanchatelain",
+      "https://www.linkedin.com/in/yohan-chatelain/"
+    ]
+  }
+}
+</script>
