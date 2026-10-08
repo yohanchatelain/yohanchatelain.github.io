@@ -15,6 +15,7 @@ A list of projects to which I contribute:
 - [PyTracer](https://github.com/yohanchatelain/pytracer): A tool for evaluating numerical stability of Python codes
 - [Significantdigits](https://github.com/verificarlo/significantdigits): A robust framework for statistical analysis of stochastic arithmetic
 - [Fuzzy](https://github.com/verificarlo/fuzzy): A Python ecosystem for evaluating the numerical stability
+- [Fuzzy PyTorch](https://github.com/big-data-lab-team/fuzzy-pytorch): A framework for evaluating numerical variability in deep learning models with stochastic arithmetic
 - [VeriTracer](https://github.com/verificarlo/verificarlo/tree/veritracer): A context-enriched tracer for floating-point arithmetic analysis
 - [Verificarlo](https://github.com/verificarlo/verificarlo): A tool for automatic Montecarlo Arithmetic analysis
 - [CERE](https://benchmark-subsetting.github.io/cere/): Codelet Extractor and REplayer
