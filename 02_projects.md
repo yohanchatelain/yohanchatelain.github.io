@@ -9,6 +9,16 @@ last_modified_at: "2026-10-08"
 
 
 
+## Research themes and selected findings
+
+My work connects floating-point analysis and instrumentation with the reproducibility of scientific software, AI, and neuroimaging pipelines.
+
+- [Fuzzy PyTorch: evaluating numerical variability in deep learning](/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html).
+- [Numerical variability in Parkinson’s structural MRI](/2026/07/27/parkinsons-mri-scientific-reports-acceptance.html).
+- [Numerical variability for results stability tests](/2024/10/01/New-paper-accepted.html).
+
+The [software pages](#numerical-analysis-software) describe the associated tools. Technical guides cover [Python stability](/guides/numerical-instability-python/), [randomized arithmetic](/guides/monte-carlo-arithmetic-stochastic-rounding/), and [neuroimaging variance models](/guides/numerical-variability-neuroimaging/).
+
 ## Numerical-analysis software
 
 - [Verificarlo: instrumentation and numerical reliability](/software/verificarlo/).
