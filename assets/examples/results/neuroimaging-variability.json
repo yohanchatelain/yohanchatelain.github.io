@@ -1,0 +1,31 @@
+{
+  "model": "synthetic independent Gaussian errors; known population SD = 1",
+  "seed": 20261008,
+  "subjects_per_group": 40,
+  "repetitions": 500,
+  "constructed_group_difference": -0.44,
+  "baseline_p": 0.04909798160926559,
+  "test": "two-sided normal reference with known variance; threshold 0.05",
+  "scenarios": [
+    {
+      "numerical_to_population_sd_ratio": 0.0,
+      "estimated_numerical_sd": 0.0,
+      "decision_crossing_fraction": 0.0
+    },
+    {
+      "numerical_to_population_sd_ratio": 0.1,
+      "estimated_numerical_sd": 0.10051107299245507,
+      "decision_crossing_fraction": 0.498
+    },
+    {
+      "numerical_to_population_sd_ratio": 0.3,
+      "estimated_numerical_sd": 0.297829396712382,
+      "decision_crossing_fraction": 0.628
+    },
+    {
+      "numerical_to_population_sd_ratio": 0.6,
+      "estimated_numerical_sd": 0.6048996397123605,
+      "decision_crossing_fraction": 0.744
+    }
+  ]
+}

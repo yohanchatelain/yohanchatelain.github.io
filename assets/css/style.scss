@@ -3,6 +3,42 @@
 
 @import "{{ site.theme }}";
 
+/* Scientific content must fit the reading column in both themes. */
+.post-content {
+    overflow-wrap: anywhere;
+
+    table {
+        display: block;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+
+    pre {
+        overflow-x: auto;
+        overflow-wrap: normal;
+    }
+
+    .MathJax_Display {
+        max-width: 100%;
+        overflow-x: auto;
+        overflow-y: hidden;
+        padding-bottom: 3px;
+    }
+}
+
+body.dark-theme .post-content {
+    table, th, td {
+        color: #e8e8e8;
+        border-color: #56565c;
+    }
+
+    th { background-color: #29292f; }
+    tr { background-color: #161617; }
+    tr:nth-child(even) { background-color: #222228; }
+
+    pre, code { color: #202020; }
+}
+
 body {
     background-color: #fff;
     color: #000;

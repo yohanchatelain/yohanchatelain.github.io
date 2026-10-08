@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "@id": {{ page.url | absolute_url | append: '#software' | jsonify }},
+  "name": {{ page.software.name | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "codeRepository": {{ page.software.repository | jsonify }},
+  "programmingLanguage": {{ page.software.languages | jsonify }},
+  "contributor": {"@type": "Person", "@id": {{ '/' | absolute_url | append: '#person' | jsonify }}}
+}
+</script>

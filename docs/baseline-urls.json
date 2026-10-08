@@ -1,0 +1,167 @@
+{
+  "recorded_on": "2026-10-08",
+  "source_commit": "b8b2f4ad53112ffc83ca22c361bdaa36e5fb260b",
+  "site": "https://yohanchatelain.github.io",
+  "pages": [
+    {
+      "url": "https://yohanchatelain.github.io/",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/",
+      "title": "Home | Yohan Chatelain"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2024/06/21/Best-paper-award.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2024/06/21/Best-paper-award.html",
+      "title": "Best Paper Award (ACM REP 24) | Yohan Chatelain",
+      "datePublished": "2024-06-21"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2024/10/01/New-paper-accepted.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2024/10/01/New-paper-accepted.html",
+      "title": "New paper (IEEE TC 2024) | Yohan Chatelain",
+      "datePublished": "2024-10-01"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2024/11/08/new-paper-performance-bottleneck.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2024/11/08/new-paper-performance-bottleneck.html",
+      "title": "New paper accepted (GigaScience 2025) | Yohan Chatelain",
+      "datePublished": "2024-11-08"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2025/07/21/analytical-flexibility-imaging-neuroscience.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2025/07/21/analytical-flexibility-imaging-neuroscience.html",
+      "title": "New paper (Imaging Neuroscience 2025) | Yohan Chatelain",
+      "datePublished": "2025-07-21"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2025/09/05/cnn-variability-data-augmentation.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2025/09/05/cnn-variability-data-augmentation.html",
+      "title": "New preprint (arXiv 2025) | Yohan Chatelain",
+      "datePublished": "2025-09-05"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2025/09/29/linear-registration-uncertainty.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2025/09/29/linear-registration-uncertainty.html",
+      "title": "New paper (UNSURE 2025) | Yohan Chatelain",
+      "datePublished": "2025-09-29"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2025/12/24/fmri-graph-measures-variability.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2025/12/24/fmri-graph-measures-variability.html",
+      "title": "New preprint (bioRxiv 2025) | Yohan Chatelain",
+      "datePublished": "2025-12-24"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2026/01/09/parkinsons-mri-numerical-variability.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2026/01/09/parkinsons-mri-numerical-variability.html",
+      "title": "New preprint (bioRxiv 2026) | Yohan Chatelain",
+      "datePublished": "2026-01-09"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html",
+      "title": "New paper (TMLR 2026) | Yohan Chatelain",
+      "datePublished": "2026-02-18"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2026/06/24/untrained-cnn-feature-extractors-structural-mri.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2026/06/24/untrained-cnn-feature-extractors-structural-mri.html",
+      "title": "New preprint (bioRxiv 2026) | Yohan Chatelain",
+      "datePublished": "2026-06-24"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2026/07/27/parkinsons-mri-scientific-reports-acceptance.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2026/07/27/parkinsons-mri-scientific-reports-acceptance.html",
+      "title": "New paper (Scientific Reports 2026) | Yohan Chatelain",
+      "datePublished": "2026-07-27"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2026/08/05/cnn-training-variability-data-augmentation-acceptance.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2026/08/05/cnn-training-variability-data-augmentation-acceptance.html",
+      "title": "New paper accepted at UNSURE, MICCAI 2026 | Yohan Chatelain",
+      "datePublished": "2026-08-05"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/2026/10/02/stochastic-rounding-low-precision-transformer-inference.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/2026/10/02/stochastic-rounding-low-precision-transformer-inference.html",
+      "title": "New preprint (arXiv 2026) | Yohan Chatelain",
+      "datePublished": "2026-10-02"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/about/",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/about/",
+      "title": "About | Yohan Chatelain"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/contact/",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/contact/",
+      "title": "Contact | Yohan Chatelain"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/cv",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/cv",
+      "title": "CV | Yohan Chatelain"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/projects",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/projects",
+      "title": "Projects | Yohan Chatelain"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/projects/web/tools/2025/07/01/floacon-floating-point-converter.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/projects/web/tools/2025/07/01/floacon-floating-point-converter.html",
+      "title": "Floacon: A Web-Based Floating-Point Converter and Explorer | Yohan Chatelain",
+      "datePublished": "2025-07-01"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/research",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/research",
+      "title": "Research | Yohan Chatelain"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/resume-EN.html",
+      "status": 200,
+      "canonical": null,
+      "title": "Yohan Chatelain - Résumé"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/resume-FR.html",
+      "status": 200,
+      "canonical": null,
+      "title": "Yohan Chatelain - CV"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/significant/digits/2024/03/12/significantdigits-viewwer.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/significant/digits/2024/03/12/significantdigits-viewwer.html",
+      "title": "Significant digits viewer | Yohan Chatelain",
+      "datePublished": "2024-03-12"
+    },
+    {
+      "url": "https://yohanchatelain.github.io/talks/2026/07/30/atpesc-2026-verificarlo-lecture.html",
+      "status": 200,
+      "canonical": "https://yohanchatelain.github.io/talks/2026/07/30/atpesc-2026-verificarlo-lecture.html",
+      "title": "Invited lecture at ATPESC 2026: Verificarlo | Yohan Chatelain",
+      "datePublished": "2026-07-30"
+    }
+  ]
+}

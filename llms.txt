@@ -24,3 +24,20 @@ Research topics: LLVM instrumentation, Monte Carlo and stochastic arithmetic, mi
 - [Research](https://yohanchatelain.github.io/research): research overview
 - [Projects](https://yohanchatelain.github.io/projects): software projects
 - [Contact](https://yohanchatelain.github.io/contact/)
+
+## Software and technical guides
+
+- [Verificarlo](https://yohanchatelain.github.io/software/verificarlo/): instrumentation, arithmetic models, scope, and documentation
+- [Fuzzy PyTorch](https://yohanchatelain.github.io/software/fuzzy-pytorch/): stochastic arithmetic for deep learning
+- [PyTracer](https://yohanchatelain.github.io/software/pytracer/): Python numerical-variability profiling
+- [Python numerical instability](https://yohanchatelain.github.io/guides/numerical-instability-python/): conditioning, cancellation, executed examples
+- [Monte Carlo arithmetic and stochastic rounding](https://yohanchatelain.github.io/guides/monte-carlo-arithmetic-stochastic-rounding/): definitions and probability models
+- [Numerical variability in neuroimaging](https://yohanchatelain.github.io/guides/numerical-variability-neuroimaging/): variance models and synthetic examples
+
+## Selected research summaries
+
+- [Fuzzy PyTorch study](https://yohanchatelain.github.io/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html)
+- [Parkinson's structural MRI study](https://yohanchatelain.github.io/2026/07/27/parkinsons-mri-scientific-reports-acceptance.html)
+- [Results stability tests](https://yohanchatelain.github.io/2024/10/01/New-paper-accepted.html)
+
+The examples are illustrative experiments; their results are distinct from the cited papers' measurements. Paper publication dates, post dates, and modification dates describe different events.

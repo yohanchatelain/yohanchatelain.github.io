@@ -11,3 +11,4 @@ gem "jemoji"
 gem "kramdown-parser-gfm"
 gem "github-pages", group: :jekyll_plugins
 gem "webrick"
+gem "jekyll-sitemap", "~> 1.4"

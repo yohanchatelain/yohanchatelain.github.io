@@ -25,7 +25,9 @@ author:
 
 avatar: https://avatars.githubusercontent.com/yohanchatelain
 header: https://avatars.githubusercontent.com/yohanchatelain
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
+  Research and scientific software by Yohan Chatelain on numerical reliability,
+  floating-point arithmetic, high-performance computing, and reproducible AI and neuroimaging.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yohanchatelain.github.io" # the base hostname & protocol for your site
@@ -40,6 +42,7 @@ plugins:
   - jemoji
   - github-pages
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 minima:
   skin: classic
@@ -70,3 +73,28 @@ show_excerpts: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Keep utility files and content subpages out of the primary navigation.
+header_pages:
+  - 00_index.markdown
+  - 01_about.md
+  - 02_projects.md
+  - 03_research.md
+  - 04_cv.md
+  - 05_contact.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - docs
+  - scripts
+  - README.md
+  - requirements-validation.txt
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author: Yohan Chatelain

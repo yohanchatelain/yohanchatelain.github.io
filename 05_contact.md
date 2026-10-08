@@ -2,6 +2,9 @@
 layout: page
 title: Contact
 permalink: /contact/
+nav_title: "Contact"
+description: "Contact Yohan Chatelain about numerical reliability, scientific software, and research collaboration."
+last_modified_at: "2026-10-08"
 ---
 
 - Reach me at [:mailbox:](mailto:yohan.chatelain@gmail.com) 

@@ -1,6 +1,9 @@
 ---
-title: Best Paper Award (ACM REP 24)
+title: "Hardware variability in containerized neuroimaging: ACM REP 2024 Best Paper Award"
 date: 2024-06-21
+description: "Our study of hardware variability in Docker and Guix neuroimaging applications received the ACM REP 2024 Best Paper Award."
+permalink: "/2024/06/21/Best-paper-award.html"
+last_modified_at: "2026-10-08"
 ---
 
 I am thrilled to announce that the paper titled **"[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://dl.acm.org/doi/pdf/10.1145/3641525.3663626)"** has been awarded the Best Paper Award at [ACM REP 24](https://acm-rep.github.io/2024/).

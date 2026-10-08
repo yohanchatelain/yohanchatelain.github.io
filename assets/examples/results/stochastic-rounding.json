@@ -1,0 +1,26 @@
+{
+  "seed_sequence": "7 through 1006",
+  "runs": 1000,
+  "steps": 400,
+  "spacing": "1/8",
+  "increment": "1/40",
+  "exact_sum": 10,
+  "sr_theoretical_mean": 10,
+  "sr_theoretical_sd": 1,
+  "equal_theoretical_mean": 25,
+  "equal_theoretical_sd": 1.25,
+  "summaries": {
+    "nearest": {
+      "mean": 0.0,
+      "sample_sd": 0.0
+    },
+    "sr": {
+      "mean": 10.008625,
+      "sample_sd": 0.9843482238521085
+    },
+    "equal": {
+      "mean": 25.010625,
+      "sample_sd": 1.2218666836310612
+    }
+  }
+}

@@ -1,9 +1,18 @@
+---
+layout: null
+last_modified_at: 2026-10-08
+---
 <!DOCTYPE html>
 <html lang="en-CA">
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="CV of Yohan Chatelain: scientific computing, numerical reliability, publications, software, and research experience.">
+  <meta name="dcterms.modified" content="{{ page.last_modified_at | date_to_xmlschema }}">
+  <link rel="canonical" href="https://yohanchatelain.github.io/resume-EN.html">
+  <link rel="alternate" hreflang="en-CA" href="https://yohanchatelain.github.io/resume-EN.html">
+  <link rel="alternate" hreflang="fr-CA" href="https://yohanchatelain.github.io/resume-FR.html">
   <title>Yohan Chatelain - Résumé</title>
   <style>
     @page {
@@ -317,7 +326,7 @@
           <ul class="cv-list">
             <li>Quantified the numerical variability of MRI-derived biomarkers and propagated uncertainty through to
               the scientific conclusions of Parkinson's disease studies.</li>
-            <li>Developed PRISM and Fuzzy PyTorch, reducing stochastic-arithmetic instrumentation time by up to
+                  <li>Created PRISM and developed Fuzzy PyTorch, reducing stochastic-arithmetic instrumentation time by up to
               <strong>60&times;</strong> compared with binary-instrumentation approaches and evaluating models with up
               to 341 million parameters.
             </li>
@@ -523,7 +532,7 @@
           </tr>
           <tr>
             <td class="label">PRISM / Fuzzy PyTorch</td>
-            <td>Vectorized probabilistic rounding for low-overhead analysis of numerical variability in optimized
+          <td>Creator of PRISM. Vectorized probabilistic rounding for low-overhead analysis of numerical variability in optimized
               PyTorch models; CPU foundation for future GPU and accelerator instrumentation.</td>
           </tr>
           <tr>

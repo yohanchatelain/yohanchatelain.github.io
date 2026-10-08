@@ -1,6 +1,9 @@
 ---
-title: New paper accepted (GigaScience 2025)
+title: "Performance bottlenecks in MRI preprocessing: GigaScience paper"
 date: 2024-11-08
+description: "A study of performance bottlenecks in MRI preprocessing, accepted in 2024 and published in GigaScience in 2025."
+permalink: "/2024/11/08/new-paper-performance-bottleneck.html"
+last_modified_at: "2026-10-08"
 ---
 
 I am thrilled to announce that the paper titled **"[An analysis of performance bottlenecks in MRI preprocessing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371?login=true)"** has been accepted at [GigaScience 25](https://academic.oup.com/gigascience).

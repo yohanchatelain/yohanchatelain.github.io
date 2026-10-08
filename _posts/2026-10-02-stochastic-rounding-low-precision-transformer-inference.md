@@ -1,6 +1,9 @@
 ---
-title: New preprint (arXiv 2026)
+title: "Stochastic rounding in low-precision transformer inference: preprint"
 date: 2026-10-02
+description: "An arXiv preprint on variable-precision emulation of stochastic rounding during small GPT-2 inference."
+permalink: "/2026/10/02/stochastic-rounding-low-precision-transformer-inference.html"
+last_modified_at: "2026-10-08"
 ---
 
 I am thrilled to announce the preprint **"[Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2](https://arxiv.org/abs/2610.01889)"** is available on arXiv.

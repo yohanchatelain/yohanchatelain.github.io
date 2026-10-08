@@ -4,6 +4,9 @@ title: "Invited lecture at ATPESC 2026: Verificarlo"
 date: 2026-07-30
 categories: [talks]
 tags: [verificarlo, floating-point, mixed-precision, hpc, atpesc]
+description: "Lecture and hands-on tutorial on debugging and optimizing floating-point calculations with Verificarlo at ATPESC 2026."
+permalink: "/talks/2026/07/30/atpesc-2026-verificarlo-lecture.html"
+last_modified_at: "2026-10-08"
 ---
 
 I gave an invited lecture and hands-on tutorial, **"Verificarlo: Debugging and optimising floating-point calculations"**, at the [Argonne Training Program on Extreme-Scale Computing (ATPESC 2026)](https://extremecomputingtraining.anl.gov/2026-agenda), in the *Track 4b: Mixed Precision Computing* session (Thursday, July 30, 2026, Q Center, St. Charles, IL).

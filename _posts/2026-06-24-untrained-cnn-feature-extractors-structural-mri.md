@@ -1,6 +1,9 @@
 ---
-title: New preprint (bioRxiv 2026)
+title: "Untrained CNN feature extractors for structural MRI: preprint"
 date: 2026-06-24
+description: "A bioRxiv preprint studying untrained convolutional neural networks as feature extractors for structural MRI."
+permalink: "/2026/06/24/untrained-cnn-feature-extractors-structural-mri.html"
+last_modified_at: "2026-10-08"
 ---
 
 I am thrilled to announce the preprint **"[Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI](https://www.biorxiv.org/content/biorxiv/early/2026/06/10/2026.06.07.730652.full.pdf)"** is available on bioRxiv.

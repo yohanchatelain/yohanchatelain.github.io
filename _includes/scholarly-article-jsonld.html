@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": {{ page.paper.url | jsonify }},
+  "name": {{ page.paper.title | jsonify }},
+  "url": {{ page.paper.url | jsonify }},
+  "identifier": {{ page.paper.identifier | jsonify }},
+  {% if page.paper.published_on %}"datePublished": {{ page.paper.published_on | jsonify }},{% endif %}
+  "isPartOf": {"@type": "Periodical", "name": {{ page.paper.journal | jsonify }}},
+  "author": [
+    {% for name in page.paper.authors %}
+    {"@type": "Person", "name": {{ name | jsonify }}{% if name == 'Yohan Chatelain' %}, "@id": {{ '/' | absolute_url | append: '#person' | jsonify }}{% endif %}}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>

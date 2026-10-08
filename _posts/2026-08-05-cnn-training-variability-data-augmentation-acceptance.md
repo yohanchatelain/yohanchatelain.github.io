@@ -1,6 +1,9 @@
 ---
-title: New paper accepted at UNSURE, MICCAI 2026
+title: "CNN training variability for data augmentation: accepted at UNSURE 2026"
 date: 2026-08-05
+description: "Our study of CNN training variability as data augmentation was accepted at UNSURE, MICCAI 2026."
+permalink: "/2026/08/05/cnn-training-variability-data-augmentation-acceptance.html"
+last_modified_at: "2026-10-08"
 ---
 
 I am thrilled to announce that our paper **"[Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation](https://openreview.net/forum?id=YbBUBBi9Co)"** has been accepted as a poster at the *International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE), MICCAI 2026*.

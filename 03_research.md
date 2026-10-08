@@ -2,14 +2,27 @@
 title: Research
 permalink: /research
 layout: page
+nav_title: "Research"
+description: "Publications by Yohan Chatelain on numerical variability, floating-point analysis, deep learning, and reproducible neuroimaging."
+last_modified_at: "2026-10-08"
 ---
 
+
+## Research themes and selected findings
+
+My work connects floating-point analysis and instrumentation with the reproducibility of scientific software, AI, and neuroimaging pipelines.
+
+- [Fuzzy PyTorch: evaluating numerical variability in deep learning](/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html).
+- [Numerical variability in Parkinson’s structural MRI](/2026/07/27/parkinsons-mri-scientific-reports-acceptance.html).
+- [Numerical variability for results stability tests](/2024/10/01/New-paper-accepted.html).
+
+The [software pages](/projects) describe the associated tools. Technical guides cover [Python stability](/guides/numerical-instability-python/), [randomized arithmetic](/guides/monte-carlo-arithmetic-stochastic-rounding/), and [neuroimaging variance models](/guides/numerical-variability-neuroimaging/).
 
 ## Peer-reviewed publications in journals
 
 1. **[Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models](https://openreview.net/pdf?id=0ogq232VGP)** \\
 Inés Gonzalez Pepe, Hiba Akhaddar, Tristan Glatard, **Yohan Chatelain**. *Transactions on Machine Learning Research (2026)*.
-2. **[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://www.biorxiv.org/content/early/2026/01/09/2026.01.09.698203.full.pdf)** \\
+2. **[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://doi.org/10.1038/s41598-026-64679-2)** \\
 **Yohan Chatelain**, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard. *Scientific Reports (2026)*.
 3. **[Open-source platforms to investigate analytical flexibility in neuroimaging.](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.79/131499)** \\
 Sanz-Robinson, Jacob, Michelle Wang, Brent McPherson, **Yohan Chatelain**, David Kennedy, Tristan Glatard, and Jean-Baptiste Poline. *Imaging Neuroscience (2025)*.
@@ -17,7 +30,7 @@ Sanz-Robinson, Jacob, Michelle Wang, Brent McPherson, **Yohan Chatelain**, David
 Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *GigaScience 14 (2025): giae098.*.
 5. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
 **Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
-*IEEE Transactions on Computers (IEEE TC) (2024)*
+*IEEE Transactions on Computers 74(1), 200–209 (January 2025; accepted in 2024).*
 6. **[Longitudinal brain structure changes in Parkinson's disease: a replication study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295069)** \\
 Andrzej Sokolowski, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Alexandru Hanganu, Oury Monchi, Brent McPherson, Michelle Wang, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard.
 *In PLOS ONE (2024)*

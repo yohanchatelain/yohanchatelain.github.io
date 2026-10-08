@@ -4,6 +4,9 @@ title: "Floacon: A Web-Based Floating-Point Converter and Explorer"
 date: 2025-07-01
 categories: [projects, web, tools]
 tags: [floating-point, converter, web-app, nextjs, firebase]
+description: "Explore floating-point representations and custom formats with Floacon, an interactive web-based converter."
+permalink: "/projects/web/tools/2025/07/01/floacon-floating-point-converter.html"
+last_modified_at: "2026-10-08"
 ---
 
 **Floacon**, a new web-based tool designed to help understand and explore floating-point numbers. This project aims to provide an interactive way to visualize floating-point formats, and to experiment with custom formats.

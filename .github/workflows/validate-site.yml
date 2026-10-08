@@ -1,0 +1,48 @@
+name: Validate site
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-audit:
+    runs-on: ubuntu-24.04
+    env:
+      JEKYLL_ENV: production
+      MPLBACKEND: Agg
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements-validation.txt
+      - name: Build production site
+        run: bundle exec jekyll build --trace
+      - name: Audit HTML, metadata, sitemap, and preserved URLs
+        run: python scripts/audit_site.py
+      - name: Install figure and browser dependencies
+        run: |
+          python -m pip install -r requirements-validation.txt
+          python -m playwright install --with-deps chromium
+      - name: Execute scientific examples and regenerate figures
+        run: |
+          python scripts/check_examples.py
+      - name: Check desktop, mobile, themes, equations, and CV
+        run: python scripts/check_browser.py --screenshots /tmp/site-screenshots
+      - name: Upload review screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-screenshots
+          path: /tmp/site-screenshots
+          if-no-files-found: ignore
