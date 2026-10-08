@@ -315,7 +315,6 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-avatar
-  jekyll-sitemap (~> 1.4)
   jemoji
   kramdown-parser-gfm
   minima

@@ -73,14 +73,14 @@ python3 neuroimaging_variability.py
 
 The standard-library script constructs two groups of 40 latent values, with sample standard deviation one in each group and a mean difference of −0.44. It adds independent Gaussian errors at standard-deviation ratios 0, 0.1, 0.3, and 0.6, keeping the cohort fixed for 500 realizations. No patient data or MRI pipeline is used.
 
-For illustration, the normal-reference statistic uses the known model variance:
+For illustration, the normal-reference statistic uses the known population variance, and the same reference is applied to the unperturbed cohort and to every realization:
 
 $$
-z_k=\frac{\bar Y_{B,k}-\bar Y_{A,k}}{\sqrt{2(1+r^2)/40}},
+z_k=\frac{\bar Y_{B,k}-\bar Y_{A,k}}{\sqrt{2/40}},
 \qquad p_k=2\{1-\Phi(|z_k|)\}.
 $$
 
-The cohort was deliberately centered near a two-sided 0.05 threshold: its unperturbed normal-reference p-value is approximately 0.04910. The [recorded run](/assets/examples/results/neuroimaging-variability.json), seed 20261008, crossed that decision threshold in 62.8% of realizations at $$r=0.3$$. This fraction is conditional on the constructed contrast and simulation settings. It is not a clinical false-positive rate, a power estimate, or a reproduction of the paper's measured flip probabilities.
+The cohort was deliberately centered near a two-sided 0.05 threshold: its unperturbed normal-reference p-value is approximately 0.04910, so $$|z_0|$$ exceeds the critical value 1.95996 by only $$\delta\approx0.0078$$. Under this model the added errors shift $$z_k$$ by a centered Gaussian with standard deviation $$r$$, and a crossing has probability close to $$\Phi(-\delta/r)$$, which is already near one half at $$r=0.1$$. The [recorded run](/assets/examples/results/neuroimaging-variability.json), seed 20261008, crossed that decision threshold in 45.6%, 48.8%, and 51.8% of realizations at $$r=0.1$$, 0.3, and 0.6. The crossing fraction reflects the distance of the contrast from the threshold relative to the numerical noise, not the size of the noise alone. This fraction is conditional on the constructed contrast and simulation settings. It is not a clinical false-positive rate, a power estimate, or a reproduction of the paper's measured flip probabilities.
 
 ![Histogram of normal-reference p-values for a fixed synthetic cohort and the fraction of decision crossings across numerical-to-population standard-deviation ratios.](/assets/images/guides/neuroimaging-variability.svg)
 

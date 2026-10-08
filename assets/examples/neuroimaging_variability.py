@@ -21,14 +21,14 @@ def main():
     seed, n, repetitions = 20261008, 40, 500
     rng = random.Random(seed)
     control, case = cohort(rng, n, 0), cohort(rng, n, -0.44)
-    baseline_z = -0.44 / math.sqrt(2 / n)
-    baseline_p = math.erfc(abs(baseline_z) / math.sqrt(2))
+    # One test for the baseline and every realization: the known population variance.
+    # Holding the reference fixed attributes every crossing to the added errors alone.
+    se = math.sqrt(2 / n)
+    baseline_p = math.erfc(abs(-0.44 / se) / math.sqrt(2))
     results, pvalues = [], []
     for ratio in (0.0, 0.1, 0.3, 0.6):
         repeated = [[value + rng.gauss(0, ratio) for _ in range(repetitions)]
                     for value in control + case]
-        # The normal reference uses known model variance 1 + ratio**2.
-        se = math.sqrt(2 * (1 + ratio**2) / n)
         ps = []
         for k in range(repetitions):
             difference = statistics.mean(row[k] for row in repeated[n:]) - statistics.mean(row[k] for row in repeated[:n])
@@ -43,7 +43,7 @@ def main():
     result = {"model": "synthetic independent Gaussian errors; known population SD = 1",
               "seed": seed, "subjects_per_group": n, "repetitions": repetitions,
               "constructed_group_difference": -0.44, "baseline_p": baseline_p,
-              "test": "two-sided normal reference with known variance; threshold 0.05",
+              "test": "two-sided normal reference with known population variance, fixed across realizations; threshold 0.05",
               "scenarios": results}
     text = json.dumps(result, indent=2) + "\n"
     if args.output:

@@ -12,7 +12,7 @@ paper:
   identifier: OpenReview:0ogq232VGP
   journal: Transactions on Machine Learning Research
   authors:
-  - Inés Gonzalez-Pepe
+  - Inés Gonzalez Pepe
   - Hiba Akhaddar
   - Tristan Glatard
   - Yohan Chatelain
@@ -53,4 +53,4 @@ The reviewed repository targets Linux and requires a compiled instrumented envir
 - [Benchmark code and notebooks](https://github.com/big-data-lab-team/fuzzy-pytorch/tree/4670875252272ca3d7ef8fd12e5f7a039053bba7/experiments).
 - [Paper, author list, and citation on OpenReview](https://openreview.net/forum?id=0ogq232VGP).
 
-**Authors:** Inés Gonzalez-Pepe, Hiba Akhaddar, Tristan Glatard, and Yohan Chatelain. The authorship of the paper is separate from the authorship of this explanatory post.
+**Authors:** Inés Gonzalez Pepe, Hiba Akhaddar, Tristan Glatard, and Yohan Chatelain. The authorship of the paper is separate from the authorship of this explanatory post.

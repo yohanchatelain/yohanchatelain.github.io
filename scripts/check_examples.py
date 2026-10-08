@@ -2,10 +2,12 @@
 
 import json
 import math
+import re
 import subprocess
 import sys
 import tempfile
 import xml.etree.ElementTree as ET
+from importlib.metadata import version
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -32,7 +34,14 @@ def compare(actual, expected, location="result"):
         assert actual == expected, (location, actual, expected)
 
 
+def pinned_matplotlib():
+    requirements = (ROOT / "requirements-validation.txt").read_text()
+    return re.search(r"^matplotlib==(\S+)$", requirements, re.MULTILINE).group(1)
+
+
 def main():
+    # The committed SVGs are byte-reproducible under the pinned Matplotlib; other versions may render differently.
+    exact = version("matplotlib") == pinned_matplotlib()
     with tempfile.TemporaryDirectory() as temporary:
         destination = Path(temporary)
         for script, label in EXAMPLES:
@@ -44,11 +53,11 @@ def main():
             compare(json.loads(output.read_text()), expected)
             generated = ET.parse(figure).getroot()
             assert generated.tag.endswith("svg") and len(generated) > 0
-            # Compare identical environments exactly, while permitting rendering changes elsewhere.
             recorded = (ROOT / f"assets/images/guides/{label}.svg").read_text()
             equal = figure.read_text() == recorded
+            assert equal or not exact, f"{label}.svg does not match {script}; regenerate it with --plot"
             print(f"PASS: {script}: reported numbers verified; SVG regenerated "
-                  f"({'identical' if equal else 'valid, renderer differs'})", flush=True)
+                  f"({'identical' if equal else 'valid, unpinned Matplotlib renders differently'})", flush=True)
 
 
 if __name__ == "__main__":

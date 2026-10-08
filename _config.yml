@@ -31,6 +31,8 @@ description: >-
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yohanchatelain.github.io" # the base hostname & protocol for your site
+# Date-only front matter is serialized at midnight in this zone; UTC matches GitHub Pages.
+timezone: UTC
 github_username:  yohanchatelain
 linkedin_username: yohan-chatelain
 

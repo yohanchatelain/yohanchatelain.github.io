@@ -11,7 +11,7 @@ software:
   languages: [Python, C++, C]
 ---
 
-Fuzzy PyTorch combines an instrumented PyTorch build with Verificarlo and the PRISM backend to evaluate floating-point variability in deep-learning computations. I created the [PRISM library](https://github.com/verificarlo/prism), contributed to Fuzzy PyTorch, and coauthored the [TMLR paper](/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html) with Inés Gonzalez-Pepe, Hiba Akhaddar, and Tristan Glatard.
+Fuzzy PyTorch combines an instrumented PyTorch build with Verificarlo and the PRISM backend to evaluate floating-point variability in deep-learning computations. I created the [PRISM library](https://github.com/verificarlo/prism), contributed to Fuzzy PyTorch, and coauthored the [TMLR paper](/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html) with Inés Gonzalez Pepe, Hiba Akhaddar, and Tristan Glatard.
 
 ## Which uncertainty is being evaluated?
 

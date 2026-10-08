@@ -8,16 +8,6 @@ last_modified_at: "2026-10-08"
 ---
 
 
-## Research themes and selected findings
-
-My work connects floating-point analysis and instrumentation with the reproducibility of scientific software, AI, and neuroimaging pipelines.
-
-- [Fuzzy PyTorch: evaluating numerical variability in deep learning](/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html).
-- [Numerical variability in Parkinson’s structural MRI](/2026/07/27/parkinsons-mri-scientific-reports-acceptance.html).
-- [Numerical variability for results stability tests](/2024/10/01/New-paper-accepted.html).
-
-The [software pages](/projects) describe the associated tools. Technical guides cover [Python stability](/guides/numerical-instability-python/), [randomized arithmetic](/guides/monte-carlo-arithmetic-stochastic-rounding/), and [neuroimaging variance models](/guides/numerical-variability-neuroimaging/).
-
 ## Peer-reviewed publications in journals
 
 1. **[Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models](https://openreview.net/pdf?id=0ogq232VGP)** \\
@@ -35,7 +25,7 @@ Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *GigaScience 14 (2025): gia
 Andrzej Sokolowski, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Alexandru Hanganu, Oury Monchi, Brent McPherson, Michelle Wang, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard.
 *In PLOS ONE (2024)*
 7. **[Numerical Stability of DeepGOPlus Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10824456/)** \\
-Ines Gonzalez Pepe, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
+Inés Gonzalez Pepe, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 *In PLOS ONE (2024)*
 8. **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf).** \\
  **Yohan Chatelain**, Nigel Yong, Gregory Kiar, Tristan Glatard.
@@ -81,9 +71,9 @@ Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 1. **[Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2](https://arxiv.org/abs/2610.01889)** \\
 **Yohan Chatelain**, Pablo de Oliveira Castro. *arXiv preprint arXiv:2610.01889 (2026).*
 2. **[Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI](https://www.biorxiv.org/content/biorxiv/early/2026/06/10/2026.06.07.730652.full.pdf)** \\
-Arel Encin, Ines Gonzalez Pepe, **Yohan Chatelain**, Erin Dickie, Tristan Glatard. *bioRxiv (2026).* 
+Arel Encin, Inés Gonzalez Pepe, **Yohan Chatelain**, Erin Dickie, Tristan Glatard. *bioRxiv (2026).* 
 3. **[Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging](https://arxiv.org/pdf/2601.17180)** \\
-Inés Gonzalez-Pepe, Vinuyan Sivakolunthu, Jacob Fortin, Yohan Chatelain, Tristan Glatard. *arXiv preprint arXiv:2601.17180 (2026)*
+Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Jacob Fortin, Yohan Chatelain, Tristan Glatard. *arXiv preprint arXiv:2601.17180 (2026)*
 4. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
 Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025).*
 5. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)** \\
@@ -107,16 +97,3 @@ Gregory Kiar, **Yohan Chatelain**, Ali Salari, Eric Petit, Pablo de Oliveira Cas
 4. **[Towards Abinit on ExaScale supercomputers: the challenge for electronic structure physicists](https://ui.adsabs.harvard.edu/abs/2018APS..MARC34007B/abstract)** \\
 Jordan Bieder, Marc Torrent, and **Yohan Chatelain**.
 *APS Meeting Abstracts. 2018*
-
-## Communications
-1. ATPESC 2026: Argonne Training Program on Extreme-Scale Computing, invited lecture and tutorial *"[Verificarlo: Debugging and optimising floating-point calculations](https://docs.google.com/presentation/d/1CudyPJLy3CAvQ2MOzgMWqPbONmUNGX9gLfYSqt1096M/edit?usp=sharing)"*, Track 4b: Mixed Precision Computing, Q Center, St. Charles, IL, USA
-2. IXPUG 2019: Intel Extreme Performance Users Group, CERN, Geneva, Switzerland
-3. IXPUG 2018: Intel Extreme Performance Users Group, Intel Corporation, Hillsboro, OR, USA
-4. ESTN 2018: 8èmes École Thématique de Simulation Numérique, Cargèse, 2018
-5. RAIM 2017: 9èmes Rencontres «Arithmétique de l’Informatique Mathématique», Lyon, 2017
-6. ABIDEV 2017: The 8th ABINIT developer's workshop, Frejus, 2017
-
-## PhD Thesis
-
-2. **[Outils de débogage et d'optimisation des calculs flottants dans le contexte HPC (Tools for debugging and optimizing floating-point computations in HPC)](https://tel.archives-ouvertes.fr/tel-02614237/file/85561_CHATELAIN_2019_archivage.pdf)** \\
-Yohan Chatelain. *Université Paris-Saclay (2019).*

@@ -51,7 +51,7 @@ class Document(HTMLParser):
         self.feed(source)
 
     def handle_starttag(self, tag, attrs):
-        attrs = dict(attrs)
+        attrs = {name: value or "" for name, value in attrs}
         if attrs.get("id"):
             self.ids.add(attrs["id"])
         if tag == "title":
@@ -103,6 +103,8 @@ def resolve_path(site, path):
     """GitHub Pages resolves extensionless permalinks to their .html files."""
     path = unquote(path).lstrip("/")
     candidate = site / path
+    if not candidate.resolve().is_relative_to(site.resolve()):
+        return None
     if candidate.is_file():
         return candidate
     if (candidate / "index.html").is_file():
@@ -134,7 +136,7 @@ def main():
     documents = {}
     for file in sorted(site.rglob("*.html")):
         try:
-            documents[file] = Document(file.read_text())
+            documents[file] = Document(file.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, UnicodeDecodeError) as error:
             errors.append(f"{file.relative_to(site)}: invalid HTML/JSON-LD: {error}")
 
@@ -186,7 +188,7 @@ def main():
                 check(unquote(parsed.fragment) in documents[destination].ids,
                       f"{file.relative_to(site)}: missing anchor {target}")
 
-    baseline = json.loads((ROOT / "docs/baseline-urls.json").read_text())
+    baseline = json.loads((ROOT / "docs/baseline-urls.json").read_text(encoding="utf-8"))
     for page in baseline["pages"]:
         destination = resolve_path(site, urlsplit(page["url"]).path)
         check(destination in content, f"Previously public URL disappeared: {page['url']}")
@@ -196,10 +198,9 @@ def main():
             if page.get("datePublished"):
                 dates = [e.get("datePublished") for e in entities(content[destination].data)
                          if e.get("@type") == "BlogPosting"]
-                # Date-only front matter is serialized in the builder's timezone.
-                # Preserve the historical calendar date without inventing a publication time.
-                dates = [date.split("T", 1)[0] if date else None for date in dates]
-                check(dates == [page["datePublished"]], f"Publication date changed: {page['url']}")
+                # Date-only front matter is serialized at midnight in the pinned `timezone: UTC`.
+                check(dates == [f"{page['datePublished']}T00:00:00+00:00"],
+                      f"Publication date changed: {page['url']}")
 
     for path in NEW_PATHS + PAPER_PATHS:
         destination = resolve_path(site, path)
@@ -257,10 +258,10 @@ def main():
             check(metadata_date == modified, f"Sitemap date differs from metadata: {url}")
         if doc and "dateModified" in doc.times:
             check(modified == doc.times["dateModified"], f"Sitemap date differs from article: {url}")
-    robots = (site / "robots.txt").read_text()
-    check("User-agent: OAI-SearchBot\nAllow: /" in robots and f"Sitemap: {ORIGIN}/sitemap.xml" in robots,
+    robots = (site / "robots.txt").read_text(encoding="utf-8")
+    check("User-agent: *\nAllow: /" in robots and f"Sitemap: {ORIGIN}/sitemap.xml" in robots,
           "Search crawler permission or sitemap declaration missing")
-    llms = (site / "llms.txt").read_text()
+    llms = (site / "llms.txt").read_text(encoding="utf-8")
     check(all(ORIGIN + p in llms for p in NEW_PATHS + PAPER_PATHS), "Discovery document lacks new destinations")
     for utility in ["Gemfile", "Gemfile.lock", "vendor", "docs", "scripts", "README.md",
                     "requirements-validation.txt", ".github"]:

@@ -5,7 +5,7 @@
 
 /* Scientific content must fit the reading column in both themes. */
 .post-content {
-    overflow-wrap: anywhere;
+    overflow-wrap: break-word;
 
     table {
         display: block;

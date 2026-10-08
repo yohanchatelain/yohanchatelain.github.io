@@ -12,7 +12,7 @@ I am thrilled to announce the preprint **"[Uncertain but useful: Leveraging cnn 
 This work explores how variability in convolutional neural network inference can be turned into a useful signal for data augmentation, with the goal of improving model robustness and generalization.
 
 ## Authors
-- Ines Gonzalez-Pepe
+- Inés Gonzalez Pepe
 - Vinuyan Sivakolunthu
 - Yohan Chatelain
 - Tristan Glatard

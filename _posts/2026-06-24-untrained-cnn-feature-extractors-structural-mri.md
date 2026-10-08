@@ -13,7 +13,7 @@ This work shows that untrained CNN features extracted from structural MRI can ma
 
 ## Authors
 - Arel Encin
-- Ines Gonzalez Pepe
+- Inés Gonzalez Pepe
 - Yohan Chatelain
 - Erin Dickie
 - Tristan Glatard

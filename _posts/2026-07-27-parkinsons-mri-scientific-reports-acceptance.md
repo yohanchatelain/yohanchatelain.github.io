@@ -14,7 +14,7 @@ paper:
   journal: Scientific Reports
   authors:
   - Yohan Chatelain
-  - Andrzej Sokołowski
+  - Andrzej Sokolowski
   - Madeleine Sharp
   - Jean-Baptiste Poline
   - Tristan Glatard
@@ -57,4 +57,4 @@ The [neuroimaging guide](/guides/numerical-variability-neuroimaging/) develops a
 - [Processing, analysis code, and reproducibility artifacts](https://github.com/yohanchatelain/livingpark-numerical-variability).
 - [Numerical variability and neuroimaging reproducibility](/guides/numerical-variability-neuroimaging/).
 
-**Authors:** Yohan Chatelain, Andrzej Sokołowski, Madeleine Sharp, Jean-Baptiste Poline, and Tristan Glatard.
+**Authors:** Yohan Chatelain, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, and Tristan Glatard.
