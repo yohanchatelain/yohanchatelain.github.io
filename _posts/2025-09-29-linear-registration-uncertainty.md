@@ -8,6 +8,8 @@ last_modified_at: "2026-10-08"
 
 I am thrilled to announce that the paper titled **"[Numerical uncertainty in linear registration: An experimental study](https://arxiv.org/pdf/2508.00781)"** is available.
 
+<cite-o-meter arxiv="2508.00781" layout="badge" lazy="true"></cite-o-meter>
+
 ## Description
 This paper studies how numerical uncertainty propagates in linear registration and quantifies its impact on outcomes. The results inform how to interpret variability and improve reliability in neuroimaging registration workflows.
 

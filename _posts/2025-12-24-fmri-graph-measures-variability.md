@@ -8,6 +8,8 @@ last_modified_at: "2026-10-08"
 
 I am thrilled to announce the preprint **"[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.full.pdf)"** is available on bioRxiv.
 
+<cite-o-meter biorxiv="10.64898/2025.12.22.695524" layout="badge" lazy="true"></cite-o-meter>
+
 ## Description
 This preprint investigates how numerical variability affects graph measures derived from functional MRI, highlighting which metrics are most sensitive and what that implies for downstream analyses.
 

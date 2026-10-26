@@ -8,6 +8,8 @@ last_modified_at: "2026-10-08"
 
 I am thrilled to announce that the paper titled **"[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://dl.acm.org/doi/pdf/10.1145/3641525.3663626)"** has been awarded the Best Paper Award at [ACM REP 24](https://acm-rep.github.io/2024/).
 
+<cite-o-meter doi="10.1145/3641525.3663626" layout="badge" lazy="true"></cite-o-meter>
+
 
 ## Description
 The reproducibility of neuroimaging analyses across computational environments has gained significant attention over the last few years. While software containerization solutions such as Docker and Singularity have been deployed to mask the effects of software-induced variability, variations in hardware architectures still impact neuroimaging results in an unclear way.

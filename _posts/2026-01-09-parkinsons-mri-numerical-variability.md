@@ -8,6 +8,8 @@ last_modified_at: "2026-10-08"
 
 I am thrilled to announce the preprint **"[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://www.biorxiv.org/content/early/2026/01/09/2026.01.09.698203.full.pdf)"** is available on bioRxiv.
 
+<cite-o-meter doi="10.1038/s41598-026-64679-2" layout="badge" lazy="true"></cite-o-meter>
+
 ## Description
 This preprint quantifies numerical variability in structural MRI measures of Parkinson's disease by instrumenting FreeSurfer to simulate numerical differences across computational environments. It introduces the Numerical-Population Variability Ratio (NPVR) to assess how numerical noise can influence reported group differences and clinical associations.
 

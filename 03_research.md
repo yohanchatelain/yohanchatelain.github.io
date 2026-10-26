@@ -11,81 +11,108 @@ last_modified_at: "2026-10-08"
 ## Peer-reviewed publications in journals
 
 1. **[Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models](https://openreview.net/pdf?id=0ogq232VGP)** \\
-Inés Gonzalez Pepe, Hiba Akhaddar, Tristan Glatard, **Yohan Chatelain**. *Transactions on Machine Learning Research (2026)*.
+Inés Gonzalez Pepe, Hiba Akhaddar, Tristan Glatard, **Yohan Chatelain**. *Transactions on Machine Learning Research (2026)*. \\
+   <cite-o-meter arxiv="2605.25991" layout="badge" lazy="true"></cite-o-meter>
 2. **[The practical impact of numerical variability on structural MRI measures of Parkinson's disease](https://doi.org/10.1038/s41598-026-64679-2)** \\
-**Yohan Chatelain**, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard. *Scientific Reports (2026)*.
+**Yohan Chatelain**, Andrzej Sokolowski, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard. *Scientific Reports (2026)*. \\
+   <cite-o-meter doi="10.1038/s41598-026-64679-2" layout="badge" lazy="true"></cite-o-meter>
 3. **[Open-source platforms to investigate analytical flexibility in neuroimaging.](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.79/131499)** \\
-Sanz-Robinson, Jacob, Michelle Wang, Brent McPherson, **Yohan Chatelain**, David Kennedy, Tristan Glatard, and Jean-Baptiste Poline. *Imaging Neuroscience (2025)*.
+Sanz-Robinson, Jacob, Michelle Wang, Brent McPherson, **Yohan Chatelain**, David Kennedy, Tristan Glatard, and Jean-Baptiste Poline. *Imaging Neuroscience (2025)*. \\
+   <cite-o-meter doi="10.1162/imag.a.79" layout="badge" lazy="true"></cite-o-meter>
 4. **[An analysis of performance bottlenecks in MRI preprocessing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371)** \\
-Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *GigaScience 14 (2025): giae098.*.
+Mathieu Dugre, **Yohan Chatelain**, Tristan Glatard. *GigaScience 14 (2025): giae098.*. \\
+   <cite-o-meter doi="10.1093/gigascience/giae098" layout="badge" lazy="true"></cite-o-meter>
 5. **[A numerical variability approach to results stability tests and its application to neuroimaging](https://arxiv.org/pdf/2307.01373.pdf)** \\
 **Yohan Chatelain**,  Loïc Tetrel, Christopher J Markiewicz, Mathias Goncalves, Gregory Kiar, Oscar Esteban, Pierre Bellec, Tristan Glatard.
-*IEEE Transactions on Computers 74(1), 200–209 (January 2025; accepted in 2024).*
+*IEEE Transactions on Computers 74(1), 200–209 (January 2025; accepted in 2024).* \\
+   <cite-o-meter doi="10.1109/tc.2024.3475586" arxiv="2307.01373" layout="badge" lazy="true"></cite-o-meter>
 6. **[Longitudinal brain structure changes in Parkinson's disease: a replication study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295069)** \\
 Andrzej Sokolowski, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Alexandru Hanganu, Oury Monchi, Brent McPherson, Michelle Wang, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard.
-*In PLOS ONE (2024)*
+*In PLOS ONE (2024)* \\
+   <cite-o-meter doi="10.1371/journal.pone.0295069" ads="2024PLoSO..1995069S" layout="badge" lazy="true"></cite-o-meter>
 7. **[Numerical Stability of DeepGOPlus Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10824456/)** \\
 Inés Gonzalez Pepe, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
-*In PLOS ONE (2024)*
+*In PLOS ONE (2024)* \\
+   <cite-o-meter doi="10.1371/journal.pone.0296725" ads="2024PLoSO..1996725G" layout="badge" lazy="true"></cite-o-meter>
 8. **[PyTracer: Automatically profiling numerical instabilities in Python](https://arxiv.org/pdf/2112.11508.pdf).** \\
  **Yohan Chatelain**, Nigel Yong, Gregory Kiar, Tristan Glatard.
-*IEEE Transactions on Computers (IEEE TC) (2022)*
+*IEEE Transactions on Computers (IEEE TC) (2022)* \\
+   <cite-o-meter doi="10.1109/tc.2022.3224377" arxiv="2112.11508" layout="badge" lazy="true"></cite-o-meter>
 9. **[Numerical Uncertainty in Analytical Pipelines Lead to Impactful Variability in Brain Networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250755)**. \\
 Gregory Kiar, **Yohan Chatelain**, Pablo de Oliveira Castro, Eric Petit, Ariel Rokem, Gaël Varoquaux, Bratislav Misic, Alan C. Evans, Tristan Glatard.
-*In PLOS ONE (2021).*
+*In PLOS ONE (2021).* \\
+   <cite-o-meter doi="10.1371/journal.pone.0250755" layout="badge" lazy="true"></cite-o-meter>
 10. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
 Mihail Popov, Chadi Akel, **Yohan Chatelain**, William Jalby, and Pablo de Oliveira Castro.
-*Concurrency and Computation: Practice and Experience, vol. 29, Aug 2017.*
+*Concurrency and Computation: Practice and Experience, vol. 29, Aug 2017.* \\
+   <cite-o-meter doi="10.1002/cpe.4190" layout="badge" lazy="true"></cite-o-meter>
 
 ## Peer-reviewed publications in conferences
 
 1. **[Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation](https://openreview.net/forum?id=YbBUBBi9Co)** \\
 Inés Gonzalez Pepe, Vinuyan Sivakolunthu, **Yohan Chatelain**, Tristan Glatard.
-*International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2026). Poster.*
+*International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2026). Poster.* \\
+   <cite-o-meter arxiv="2509.05238" layout="badge" lazy="true"></cite-o-meter>
 2. **[Numerical uncertainty in linear registration: An experimental study](https://arxiv.org/abs/2508.00781)** \\
 Niusha Mirhakimi, **Yohan Chatelain**, Jean-Baptiste Poline, and Tristan Glatard.
-*International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (2025).*
+*International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (2025).* \\
+   <cite-o-meter arxiv="2508.00781" layout="badge" lazy="true"></cite-o-meter>
 3. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://dl.acm.org/doi/pdf/10.1145/3641525.3663626).** \\
 Vila, Gael, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michael Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
-*Proceedings of the 2nd ACM Conference on Reproducibility and Replicability* :sparkles: <span style="color:Chocolate"><strong>Best Paper Award</strong></span> :sparkles:
+*Proceedings of the 2nd ACM Conference on Reproducibility and Replicability* :sparkles: <span style="color:Chocolate"><strong>Best Paper Award</strong></span> :sparkles: \\
+   <cite-o-meter doi="10.1145/3641525.3663626" layout="badge" lazy="true"></cite-o-meter>
 4. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://link.springer.com/chapter/10.1007/978-3-031-44336-7_7).** \\
 Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, Tristan Glatard
-*Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2023)*
+*Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2023)* \\
+   <cite-o-meter doi="10.1007/978-3-031-44336-7_7" arxiv="2308.01939" layout="badge" lazy="true"></cite-o-meter>
 5. **[Reproducibility of tumor segmentation outcomes with a deep learning model](https://hal.science/hal-04006057/document).** \\
 Morgane Des Ligneris, Axel Bonnet, **Yohan Chatelain**, Tristan Glatard, Michaël Sdika, Gaël Vila, Valentine Wargnier-Dauchelle, Sorina Pop, Carole Frindel.
-*International Symposium on Biomedical Imaging (ISBI), 2023.*
+*International Symposium on Biomedical Imaging (ISBI), 2023.* \\
+   <cite-o-meter doi="10.1109/isbi53787.2023.10230482" layout="badge" lazy="true"></cite-o-meter>
 6. **[Reducing numerical precision preserves classification accuracy in Mondrian Forests](https://arxiv.org/pdf/2106.14340.pdf).** \\
 Marc Vicuna, Martin Khannouz, Gregory Kiar, **Yohan Chatelain**, Tristan Glatard.
-*6th Workshop on Real-time Stream Analytics, Stream Mining, CER/CEP & Stream Data Management In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2785-2790).*
+*6th Workshop on Real-time Stream Analytics, Stream Mining, CER/CEP & Stream Data Management In 2021 IEEE International Conference on Big Data (Big Data) (pp. 2785-2790).* \\
+   <cite-o-meter doi="10.1109/bigdata52589.2021.9671377" arxiv="2106.14340" layout="badge" lazy="true"></cite-o-meter>
 7. **[Accurate simulation of operating system updates in neuroimaging using Monte-Carlo arithmetic](https://arxiv.org/pdf/2108.03129.pdf).** \\
 Ali Salari, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
-*Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2021) pp. 14–23. Springer Publishing.*
+*Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2021) pp. 14–23. Springer Publishing.* \\
+   <cite-o-meter doi="10.1007/978-3-030-87735-4_2" arxiv="2108.03129" layout="badge" lazy="true"></cite-o-meter>
 8. **[Automatic exploration of reduced floating-point representations in iterative methods](https://hal.science/hal-02564972/file/dyn_adapt_precision19.pdf).** \\
 **Yohan Chatelain**, Eric Petit, Pablo de Oliveira Castro, Ghislain Lartigue, David Defour.
-*(2019, August). In the European Conference on Parallel Processing (Euro-Par) (pp. 481-494). Springer, Cham.*
+*(2019, August). In the European Conference on Parallel Processing (Euro-Par) (pp. 481-494). Springer, Cham.* \\
+   <cite-o-meter doi="10.1007/978-3-030-29400-7_34" layout="badge" lazy="true"></cite-o-meter>
 9. **[VeriTracer: Context-enriched tracer for floating-point arithmetic analysis](https://sifflez.org/publications/arith2018veritracer.pdf).** \\
 **Yohan Chatelain**, Pablo de Oliveira Castro, Eric Petit, David Defour, Jordan Bieder, and Marc Torrent.
-*In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE*
+*In 2018 IEEE 25th Symposium on Computer Arithmetic (ARITH) (pp. 61-68). IEEE* \\
+   <cite-o-meter doi="10.1109/arith.2018.8464687" layout="badge" lazy="true"></cite-o-meter>
 
 ## Preprints
 1. **[Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2](https://arxiv.org/abs/2610.01889)** \\
-**Yohan Chatelain**, Pablo de Oliveira Castro. *arXiv preprint arXiv:2610.01889 (2026).*
+**Yohan Chatelain**, Pablo de Oliveira Castro. *arXiv preprint arXiv:2610.01889 (2026).* \\
+   <cite-o-meter arxiv="2610.01889" ads="2026arXiv261001889C" layout="badge" lazy="true"></cite-o-meter>
 2. **[Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI](https://www.biorxiv.org/content/biorxiv/early/2026/06/10/2026.06.07.730652.full.pdf)** \\
-Arel Encin, Inés Gonzalez Pepe, **Yohan Chatelain**, Erin Dickie, Tristan Glatard. *bioRxiv (2026).* 
+Arel Encin, Inés Gonzalez Pepe, **Yohan Chatelain**, Erin Dickie, Tristan Glatard. *bioRxiv (2026).* \\
+   <cite-o-meter biorxiv="10.64898/2026.06.07.730652" layout="badge" lazy="true"></cite-o-meter>
 3. **[Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging](https://arxiv.org/pdf/2601.17180)** \\
-Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Jacob Fortin, Yohan Chatelain, Tristan Glatard. *arXiv preprint arXiv:2601.17180 (2026)*
+Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Jacob Fortin, Yohan Chatelain, Tristan Glatard. *arXiv preprint arXiv:2601.17180 (2026)* \\
+   <cite-o-meter arxiv="2601.17180" layout="badge" lazy="true"></cite-o-meter>
 4. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
-Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025).*
+Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025).* \\
+   <cite-o-meter biorxiv="10.64898/2025.12.22.695524" layout="badge" lazy="true"></cite-o-meter>
 5. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)** \\
-Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, **Yohan Chatelain**, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071*
+Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, **Yohan Chatelain**, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071* \\
+   <cite-o-meter biorxiv="10.1101/2024.11.11.623071" layout="badge" lazy="true"></cite-o-meter>
 6. **[Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis](https://arxiv.org/abs/2308.01939)** \\
-Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, Tristan Glatard. *arXiv e-prints arXiv:2308.01939 (2023).*
+Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, Tristan Glatard. *arXiv e-prints arXiv:2308.01939 (2023).* \\
+   <cite-o-meter arxiv="2308.01939" layout="badge" lazy="true"></cite-o-meter>
 7. **[Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study](https://www.biorxiv.org/content/10.1101/2023.05.05.539590v1.full.pdf)** \\
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
-*bioRxiv:2023.05.05.539590.*
+*bioRxiv:2023.05.05.539590.* \\
+   <cite-o-meter biorxiv="10.1101/2023.05.05.539590" layout="badge" lazy="true"></cite-o-meter>
 8. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://arxiv.org/abs/2109.09649)**. \\
 Gregory Kiar, **Yohan Chatelain**, Ali Salari, Alan C. Evans, Tristan Glatard.
-*arXiv preprint arXiv:2109.09649 (2021).*
+*arXiv preprint arXiv:2109.09649 (2021).* \\
+   <cite-o-meter arxiv="2109.09649" layout="badge" lazy="true"></cite-o-meter>
 
 ## Communications at international conferences (abstract)
 2. **[A numerical variability approach to results stability tests and its application to neuroimaging]()**. \\

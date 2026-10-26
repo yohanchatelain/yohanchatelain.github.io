@@ -20,6 +20,8 @@ paper:
 
 Fuzzy PyTorch evaluates arithmetic variability in deep-learning models by combining instrumented PyTorch with the Verificarlo compiler and PRISM probabilistic rounding. The paper appeared in *Transactions on Machine Learning Research* in January 2026; this post retains its original announcement date of February 18.
 
+<cite-o-meter arxiv="2605.25991" layout="badge" lazy="true"></cite-o-meter>
+
 ## Research question
 
 How can repeated stochastic-arithmetic executions be made practical for deep-learning workloads while preserving access to the numerical outputs that need to be analyzed? Model predictions can differ through arithmetic even when weights and inputs are fixed. Experiments therefore need to separate arithmetic variability from initialization, data order, and other application randomness.

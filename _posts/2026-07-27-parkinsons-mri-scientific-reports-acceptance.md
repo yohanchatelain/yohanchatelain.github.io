@@ -22,6 +22,8 @@ paper:
 
 This study evaluates how numerical variability in structural MRI processing can affect group comparisons and clinical associations in Parkinson's disease research. The original post announced acceptance on July 27, 2026. The [Scientific Reports article](https://doi.org/10.1038/s41598-026-64679-2) was published online on August 13, 2026. At this revision, the publisher identifies the available text as an unedited early-access manuscript.
 
+<cite-o-meter doi="10.1038/s41598-026-64679-2" layout="badge" lazy="true"></cite-o-meter>
+
 ## Research question
 
 Are the numerical differences produced by a processing pipeline small relative to the differences being interpreted statistically? An image can appear similar across executions while a regional measurement or inferential result changes. The relevant comparison therefore involves both numerical dispersion and the scale of the population measurements.

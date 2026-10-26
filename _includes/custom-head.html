@@ -25,3 +25,21 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
+
+<!-- Citeometer: live citation & readership badges (https://github.com/yohanchatelain/citeometer) -->
+<script src="https://cdn.jsdelivr.net/gh/yohanchatelain/citeometer@v1.1.1/dist/citeometer.min.js"
+        data-snapshot-url="{{ '/assets/citeometer-snapshot.json' | relative_url }}"
+        data-hide-zero="true" defer></script>
+<style>
+  cite-o-meter { display: block; margin: 2px 0 6px; }
+  :root { --pm-font: inherit; }
+</style>
+<script>
+  // Keep Citeometer badges in sync with the site's body.dark-theme toggle
+  document.addEventListener('DOMContentLoaded', () => {
+    const sync = () => document.documentElement.setAttribute(
+      'data-theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
+    sync();
+    new MutationObserver(sync).observe(document.body, { attributes: true, attributeFilter: ['class'] });
+  });
+</script>

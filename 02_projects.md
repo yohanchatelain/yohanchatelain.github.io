@@ -34,3 +34,7 @@ Verificarlo, Fuzzy PyTorch, and PyTracer have dedicated pages describing my cont
 ## Performance analysis
 
 - [CERE](https://benchmark-subsetting.github.io/cere/): Codelet Extractor and REplayer.
+
+## Scholarly metrics and web tools
+
+- [Citeometer](https://github.com/yohanchatelain/citeometer): an embeddable, zero-dependency web component for live citation, download, and readership metrics across OpenAlex, Semantic Scholar, Crossref, Europe PMC, NASA ADS, bioRxiv, PLOS, and Zenodo ([live demo](https://yohanchatelain.github.io/citeometer/)).

@@ -24,6 +24,8 @@ paper:
 
 This work uses a numerical reference distribution to test whether a candidate scientific pipeline result remains compatible with a reference implementation. The original post announced acceptance in October 2024. The journal article appears in *IEEE Transactions on Computers*, volume 74, issue 1, pages 200–209, January 2025, with DOI [10.1109/TC.2024.3475586](https://doi.org/10.1109/TC.2024.3475586).
 
+<cite-o-meter doi="10.1109/tc.2024.3475586" arxiv="2307.01373" layout="badge" lazy="true"></cite-o-meter>
+
 ## Research question
 
 How should a software test distinguish an expected numerical difference from a change in image-processing behavior? Requiring exact equality can reject harmless changes in arithmetic; a fixed tolerance can also be poorly calibrated to the data and operation being tested.

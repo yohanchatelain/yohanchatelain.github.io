@@ -1,0 +1,2569 @@
+{
+  "generatedAt": "2026-10-26T20:38:29.356Z",
+  "papers": {
+    "arxiv:2605.25991": {
+      "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+      "doi": null,
+      "arxiv": "2605.25991",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 3,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 310,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+          "citations": 3,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/8748521de020743bc41b2dfebe38aff855dedd57"
+        },
+        "openAlex": {
+          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2026,
+          "countsByYear": [],
+          "url": "https://doi.org/10.48550/arxiv.2605.25991"
+        },
+        "ads": {
+          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+          "recentReads": 310,
+          "citations": 0,
+          "bibcode": "2026arXiv260525991G",
+          "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260525991G/metrics"
+        },
+        "dataCite": {
+          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2605.25991"
+        }
+      }
+    },
+    "doi:10.1038/s41598-026-64679-2": {
+      "title": "The practical impact of numerical variability on structural MRI measures of Parkinson’s disease",
+      "doi": "10.1038/s41598-026-64679-2",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "gold",
+      "citations": 2,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": 0,
+      "dataCiteCitations": null,
+      "openCitationsCount": 0,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "The practical impact of numerical variability on structural MRI measures of Parkinson’s disease",
+          "citations": 2,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/db8adeaf1b1116e9b5bab2928ff4963304c6f0f7"
+        },
+        "openAlex": {
+          "title": "The practical impact of numerical variability on structural MRI measures of Parkinson’s disease",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "gold",
+          "year": 2026,
+          "countsByYear": [],
+          "url": "https://doi.org/10.1038/s41598-026-64679-2"
+        },
+        "crossref": {
+          "title": "The practical impact of numerical variability on structural MRI measures of Parkinson’s disease",
+          "citations": 0,
+          "referencesCount": 44,
+          "publisher": "Springer Science and Business Media LLC",
+          "url": "https://doi.org/10.1038/s41598-026-64679-2"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 0,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1038%2Fs41598-026-64679-2"
+        }
+      }
+    },
+    "doi:10.1162/imag.a.79": {
+      "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
+      "doi": "10.1162/imag.a.79",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "diamond",
+      "citations": 1,
+      "influentialCitations": 0,
+      "openAlexCitations": 1,
+      "crossrefCitations": 1,
+      "dataCiteCitations": null,
+      "openCitationsCount": 0,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
+          "citations": 1,
+          "influentialCitations": 0,
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/5bcb97459f2447c849f9682a9394b75e6f6b69c4"
+        },
+        "openAlex": {
+          "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
+          "citations": 1,
+          "isOa": true,
+          "oaStatus": "diamond",
+          "year": 2025,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1162/imag.a.79"
+        },
+        "crossref": {
+          "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
+          "citations": 1,
+          "referencesCount": 88,
+          "publisher": "MIT Press",
+          "url": "https://doi.org/10.1162/imag.a.79"
+        },
+        "europePmc": {
+          "title": "Open-source platforms to investigate analytical flexibility in neuroimaging.",
+          "citations": 1,
+          "pmcid": "PMC12330840",
+          "url": "https://europepmc.org/article/PMC/PMC12330840"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 0,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1162%2Fimag.a.79"
+        }
+      }
+    },
+    "doi:10.1093/gigascience/giae098": {
+      "title": "An analysis of performance bottlenecks in MRI preprocessing",
+      "doi": "10.1093/gigascience/giae098",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "gold",
+      "citations": 7,
+      "influentialCitations": 0,
+      "openAlexCitations": 4,
+      "crossrefCitations": 5,
+      "dataCiteCitations": null,
+      "openCitationsCount": 2,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "An analysis of performance bottlenecks in MRI preprocessing",
+          "citations": 7,
+          "influentialCitations": 0,
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/a488274db8430d8ba543e510672068e2d3abab9c"
+        },
+        "openAlex": {
+          "title": "An analysis of performance bottlenecks in MRI preprocessing",
+          "citations": 4,
+          "isOa": true,
+          "oaStatus": "gold",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1093/gigascience/giae098"
+        },
+        "crossref": {
+          "title": "An analysis of performance bottlenecks in MRI preprocessing",
+          "citations": 5,
+          "referencesCount": 22,
+          "publisher": "Oxford University Press (OUP)",
+          "url": "https://doi.org/10.1093/gigascience/giae098"
+        },
+        "europePmc": {
+          "title": "An analysis of performance bottlenecks in MRI preprocessing.",
+          "citations": 1,
+          "pmcid": "PMC11899568",
+          "url": "https://europepmc.org/article/PMC/PMC11899568"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 2,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1093%2Fgigascience%2Fgiae098"
+        }
+      }
+    },
+    "doi:10.1109/tc.2024.3475586": {
+      "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+      "doi": "10.1109/tc.2024.3475586",
+      "arxiv": "2307.01373",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 7,
+      "influentialCitations": 0,
+      "openAlexCitations": 7,
+      "crossrefCitations": 3,
+      "dataCiteCitations": null,
+      "openCitationsCount": 2,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "citations": 6,
+          "influentialCitations": 0,
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/cd7d366d2c91fd4bfdcf165827fc59f876fced4e"
+        },
+        "openAlex": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "citations": 7,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 3
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2024.3475586"
+        },
+        "crossref": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "citations": 3,
+          "referencesCount": 28,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2024.3475586"
+        },
+        "ads": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2025ITCmp..74..200C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2025ITCmp..74..200C/metrics"
+        },
+        "openCitations": {
+          "citations": 2,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2024.3475586"
+        }
+      }
+    },
+    "arxiv:2307.01373": {
+      "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+      "doi": "10.1109/tc.2024.3475586",
+      "arxiv": "2307.01373",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 7,
+      "influentialCitations": 0,
+      "openAlexCitations": 7,
+      "crossrefCitations": 3,
+      "dataCiteCitations": null,
+      "openCitationsCount": 2,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "citations": 6,
+          "influentialCitations": 0,
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/cd7d366d2c91fd4bfdcf165827fc59f876fced4e"
+        },
+        "openAlex": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "citations": 7,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 3
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2024.3475586"
+        },
+        "crossref": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "citations": 3,
+          "referencesCount": 28,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2024.3475586"
+        },
+        "ads": {
+          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2025ITCmp..74..200C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2025ITCmp..74..200C/metrics"
+        },
+        "openCitations": {
+          "citations": 2,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2024.3475586"
+        }
+      }
+    },
+    "doi:10.1371/journal.pone.0295069": {
+      "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+      "doi": "10.1371/journal.pone.0295069",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": "2024PLoSO..1995069S",
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "gold",
+      "citations": 9,
+      "influentialCitations": 0,
+      "openAlexCitations": 8,
+      "crossrefCitations": 9,
+      "dataCiteCitations": null,
+      "openCitationsCount": 6,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": 2282,
+      "plosPdfs": 1333,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/eafe98571ec6ec98e2eaf8a3feab819b7660c57e"
+        },
+        "openAlex": {
+          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+          "citations": 8,
+          "isOa": true,
+          "oaStatus": "gold",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 4
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1371/journal.pone.0295069"
+        },
+        "crossref": {
+          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+          "citations": 9,
+          "referencesCount": 25,
+          "publisher": "Public Library of Science (PLoS)",
+          "url": "https://doi.org/10.1371/journal.pone.0295069"
+        },
+        "europePmc": {
+          "title": "Longitudinal brain structure changes in Parkinson's disease: A replication study.",
+          "citations": 8,
+          "pmcid": "PMC10830012",
+          "url": "https://europepmc.org/article/PMC/PMC10830012"
+        },
+        "plos": {
+          "total": 2282,
+          "pdf": 1333,
+          "html": 716,
+          "xml": 233,
+          "url": "https://doi.org/10.1371/journal.pone.0295069"
+        },
+        "ads": {
+          "title": "Longitudinal brain structure changes in Parkinson's disease: A replication study",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2024PLoSO..1995069S",
+          "url": "https://ui.adsabs.harvard.edu/abs/2024PLoSO..1995069S/metrics"
+        },
+        "openCitations": {
+          "citations": 6,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1371%2Fjournal.pone.0295069"
+        }
+      }
+    },
+    "ads:2024PLoSO..1995069S": {
+      "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+      "doi": "10.1371/journal.pone.0295069",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": "2024PLoSO..1995069S",
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "gold",
+      "citations": 9,
+      "influentialCitations": 0,
+      "openAlexCitations": 8,
+      "crossrefCitations": 9,
+      "dataCiteCitations": null,
+      "openCitationsCount": 6,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": 2282,
+      "plosPdfs": 1333,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/eafe98571ec6ec98e2eaf8a3feab819b7660c57e"
+        },
+        "openAlex": {
+          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+          "citations": 8,
+          "isOa": true,
+          "oaStatus": "gold",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 4
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1371/journal.pone.0295069"
+        },
+        "crossref": {
+          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
+          "citations": 9,
+          "referencesCount": 25,
+          "publisher": "Public Library of Science (PLoS)",
+          "url": "https://doi.org/10.1371/journal.pone.0295069"
+        },
+        "europePmc": {
+          "title": "Longitudinal brain structure changes in Parkinson's disease: A replication study.",
+          "citations": 8,
+          "pmcid": "PMC10830012",
+          "url": "https://europepmc.org/article/PMC/PMC10830012"
+        },
+        "plos": {
+          "total": 2282,
+          "pdf": 1333,
+          "html": 716,
+          "xml": 233,
+          "url": "https://doi.org/10.1371/journal.pone.0295069"
+        },
+        "ads": {
+          "title": "Longitudinal brain structure changes in Parkinson's disease: A replication study",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2024PLoSO..1995069S",
+          "url": "https://ui.adsabs.harvard.edu/abs/2024PLoSO..1995069S/metrics"
+        },
+        "openCitations": {
+          "citations": 6,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1371%2Fjournal.pone.0295069"
+        }
+      }
+    },
+    "doi:10.1371/journal.pone.0296725": {
+      "title": "Numerical stability of DeepGOPlus inference",
+      "doi": "10.1371/journal.pone.0296725",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": "2024PLoSO..1996725G",
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "gold",
+      "citations": 4,
+      "influentialCitations": 0,
+      "openAlexCitations": 2,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 1,
+      "adsReads": 269,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": 1943,
+      "plosPdfs": 1314,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "citations": 4,
+          "influentialCitations": 0,
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/30d63561bc582cded3e6cd9c79491608ed0a7669"
+        },
+        "openAlex": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "citations": 2,
+          "isOa": true,
+          "oaStatus": "gold",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1371/journal.pone.0296725"
+        },
+        "crossref": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "citations": 2,
+          "referencesCount": 58,
+          "publisher": "Public Library of Science (PLoS)",
+          "url": "https://doi.org/10.1371/journal.pone.0296725"
+        },
+        "europePmc": {
+          "title": "Numerical stability of DeepGOPlus inference.",
+          "citations": 0,
+          "pmcid": "PMC10824456",
+          "url": "https://europepmc.org/article/PMC/PMC10824456"
+        },
+        "plos": {
+          "total": 1943,
+          "pdf": 1314,
+          "html": 351,
+          "xml": 278,
+          "url": "https://doi.org/10.1371/journal.pone.0296725"
+        },
+        "ads": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "recentReads": 269,
+          "citations": 2,
+          "bibcode": "2024PLoSO..1996725G",
+          "url": "https://ui.adsabs.harvard.edu/abs/2024PLoSO..1996725G/metrics"
+        },
+        "openCitations": {
+          "citations": 1,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1371%2Fjournal.pone.0296725"
+        }
+      }
+    },
+    "ads:2024PLoSO..1996725G": {
+      "title": "Numerical stability of DeepGOPlus inference",
+      "doi": "10.1371/journal.pone.0296725",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": "2024PLoSO..1996725G",
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "gold",
+      "citations": 4,
+      "influentialCitations": 0,
+      "openAlexCitations": 2,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 1,
+      "adsReads": 269,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": 1943,
+      "plosPdfs": 1314,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "citations": 4,
+          "influentialCitations": 0,
+          "year": 2022,
+          "url": "https://www.semanticscholar.org/paper/30d63561bc582cded3e6cd9c79491608ed0a7669"
+        },
+        "openAlex": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "citations": 2,
+          "isOa": true,
+          "oaStatus": "gold",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1371/journal.pone.0296725"
+        },
+        "crossref": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "citations": 2,
+          "referencesCount": 58,
+          "publisher": "Public Library of Science (PLoS)",
+          "url": "https://doi.org/10.1371/journal.pone.0296725"
+        },
+        "europePmc": {
+          "title": "Numerical stability of DeepGOPlus inference.",
+          "citations": 0,
+          "pmcid": "PMC10824456",
+          "url": "https://europepmc.org/article/PMC/PMC10824456"
+        },
+        "plos": {
+          "total": 1943,
+          "pdf": 1314,
+          "html": 351,
+          "xml": 278,
+          "url": "https://doi.org/10.1371/journal.pone.0296725"
+        },
+        "ads": {
+          "title": "Numerical stability of DeepGOPlus inference",
+          "recentReads": 269,
+          "citations": 2,
+          "bibcode": "2024PLoSO..1996725G",
+          "url": "https://ui.adsabs.harvard.edu/abs/2024PLoSO..1996725G/metrics"
+        },
+        "openCitations": {
+          "citations": 1,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1371%2Fjournal.pone.0296725"
+        }
+      }
+    },
+    "doi:10.1109/tc.2022.3224377": {
+      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+      "doi": "10.1109/tc.2022.3224377",
+      "arxiv": "2112.11508",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": null,
+      "openAlexCitations": 3,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 3,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2022,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "crossref": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 2,
+          "referencesCount": 43,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "ads": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2023ITCmp..72.1792C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
+        }
+      }
+    },
+    "arxiv:2112.11508": {
+      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+      "doi": "10.1109/tc.2022.3224377",
+      "arxiv": "2112.11508",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": null,
+      "openAlexCitations": 3,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 3,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2022,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "crossref": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 2,
+          "referencesCount": 43,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "ads": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2023ITCmp..72.1792C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
+        }
+      }
+    },
+    "doi:10.1371/journal.pone.0250755": {
+      "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
+      "doi": "10.1371/journal.pone.0250755",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "gold",
+      "citations": 19,
+      "influentialCitations": 0,
+      "openAlexCitations": 19,
+      "crossrefCitations": 13,
+      "dataCiteCitations": null,
+      "openCitationsCount": 11,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": 2257,
+      "plosPdfs": 1202,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
+          "citations": 15,
+          "influentialCitations": 0,
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/36f521633a27726771e4bebf23035bcf54b7ce67"
+        },
+        "openAlex": {
+          "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
+          "citations": 19,
+          "isOa": true,
+          "oaStatus": "gold",
+          "year": 2021,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 6
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1371/journal.pone.0250755"
+        },
+        "crossref": {
+          "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
+          "citations": 13,
+          "referencesCount": 44,
+          "publisher": "Public Library of Science (PLoS)",
+          "url": "https://doi.org/10.1371/journal.pone.0250755"
+        },
+        "europePmc": {
+          "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks.",
+          "citations": 5,
+          "pmcid": "PMC8559953",
+          "url": "https://europepmc.org/article/PMC/PMC8559953"
+        },
+        "plos": {
+          "total": 2257,
+          "pdf": 1202,
+          "html": 533,
+          "xml": 522,
+          "url": "https://doi.org/10.1371/journal.pone.0250755"
+        },
+        "ads": {
+          "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2021PLoSO..1650755K",
+          "url": "https://ui.adsabs.harvard.edu/abs/2021PLoSO..1650755K/metrics"
+        },
+        "openCitations": {
+          "citations": 11,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1371%2Fjournal.pone.0250755"
+        }
+      }
+    },
+    "doi:10.1002/cpe.4190": {
+      "title": "Piecewise holistic autotuning of parallel programs with CERE",
+      "doi": "10.1002/cpe.4190",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 9,
+      "influentialCitations": null,
+      "openAlexCitations": 9,
+      "crossrefCitations": 8,
+      "dataCiteCitations": null,
+      "openCitationsCount": 8,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Piecewise holistic autotuning of parallel programs with CERE",
+          "citations": 9,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2017,
+          "countsByYear": [
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2019,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2017,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1002/cpe.4190"
+        },
+        "crossref": {
+          "title": "Piecewise holistic autotuning of parallel programs with CERE",
+          "citations": 8,
+          "referencesCount": 41,
+          "publisher": "Wiley",
+          "url": "https://doi.org/10.1002/cpe.4190"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 8,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1002%2Fcpe.4190"
+        }
+      }
+    },
+    "arxiv:2509.05238": {
+      "title": "Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation",
+      "doi": null,
+      "arxiv": "2509.05238",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 1,
+      "influentialCitations": 0,
+      "openAlexCitations": 1,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 320,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation",
+          "citations": 0,
+          "influentialCitations": 0,
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/8b32b20abcb19862c09d478252f1bc07b8bf3673"
+        },
+        "openAlex": {
+          "title": "Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation",
+          "citations": 1,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2025,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.48550/arxiv.2509.05238"
+        },
+        "ads": {
+          "title": "Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation",
+          "recentReads": 320,
+          "citations": 0,
+          "bibcode": "2025arXiv250905238G",
+          "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250905238G/metrics"
+        },
+        "dataCite": {
+          "title": "Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2509.05238"
+        }
+      }
+    },
+    "arxiv:2508.00781": {
+      "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
+      "doi": null,
+      "arxiv": "2508.00781",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 2,
+      "influentialCitations": 0,
+      "openAlexCitations": 2,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 200,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
+          "citations": 2,
+          "influentialCitations": 0,
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/e02c3a490f13e90ae2c0417acb1b275fe1f8e5d4"
+        },
+        "openAlex": {
+          "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
+          "citations": 2,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2025,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1007/978-3-032-06593-3_6"
+        },
+        "ads": {
+          "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
+          "recentReads": 200,
+          "citations": 0,
+          "bibcode": "2025arXiv250800781M",
+          "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250800781M/metrics"
+        },
+        "dataCite": {
+          "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2508.00781"
+        }
+      }
+    },
+    "doi:10.1145/3641525.3663626": {
+      "title": "The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging",
+      "doi": "10.1145/3641525.3663626",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 9,
+      "influentialCitations": 0,
+      "openAlexCitations": 6,
+      "crossrefCitations": 6,
+      "dataCiteCitations": null,
+      "openCitationsCount": 6,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/d61a5dc5e222fc9d66b22102092d3cee7967a257"
+        },
+        "openAlex": {
+          "title": "The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging",
+          "citations": 6,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1145/3641525.3663626"
+        },
+        "crossref": {
+          "title": "The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging",
+          "citations": 6,
+          "referencesCount": 21,
+          "publisher": "ACM",
+          "url": "https://doi.org/10.1145/3641525.3663626"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 6,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1145%2F3641525.3663626"
+        }
+      }
+    },
+    "doi:10.1007/978-3-031-44336-7_7": {
+      "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+      "doi": "10.1007/978-3-031-44336-7_7",
+      "arxiv": "2308.01939",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 5,
+      "influentialCitations": null,
+      "openAlexCitations": 5,
+      "crossrefCitations": 4,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "citations": 5,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2023,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1007/978-3-031-44336-7_7"
+        },
+        "crossref": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "citations": 4,
+          "referencesCount": 37,
+          "publisher": "Springer Nature Switzerland",
+          "url": "https://doi.org/10.1007/978-3-031-44336-7_7"
+        },
+        "ads": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2023LNCS14291...64P",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023LNCS14291...64P/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1007%2F978-3-031-44336-7_7"
+        }
+      }
+    },
+    "arxiv:2308.01939": {
+      "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+      "doi": null,
+      "arxiv": "2308.01939",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 5,
+      "influentialCitations": null,
+      "openAlexCitations": 5,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 182,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "citations": 5,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2023,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1007/978-3-031-44336-7_7"
+        },
+        "ads": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "recentReads": 182,
+          "citations": 0,
+          "bibcode": "2023arXiv230801939G",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230801939G/metrics"
+        },
+        "dataCite": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2308.01939"
+        }
+      }
+    },
+    "doi:10.1109/isbi53787.2023.10230482": {
+      "title": "Reproducibility of Tumor Segmentation Outcomes with a Deep Learning Model",
+      "doi": "10.1109/isbi53787.2023.10230482",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": 0,
+      "openAlexCitations": 4,
+      "crossrefCitations": 4,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Reproducibility of Tumor Segmentation Outcomes with a Deep Learning Model",
+          "citations": 4,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2023,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1109/isbi53787.2023.10230482"
+        },
+        "crossref": {
+          "title": "Reproducibility of Tumor Segmentation Outcomes with a Deep Learning Model",
+          "citations": 4,
+          "referencesCount": 18,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/isbi53787.2023.10230482"
+        },
+        "ads": {
+          "title": "Reproducibility of Tumor Segmentation Outcomes with a Deep Learning Model",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2023isbi.conf..501L",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023isbi.conf..501L/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Fisbi53787.2023.10230482"
+        }
+      }
+    },
+    "doi:10.1109/bigdata52589.2021.9671377": {
+      "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+      "doi": "10.1109/bigdata52589.2021.9671377",
+      "arxiv": "2106.14340",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": 0,
+      "openAlexCitations": 1,
+      "crossrefCitations": 1,
+      "dataCiteCitations": null,
+      "openCitationsCount": 1,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 4,
+          "influentialCitations": 0,
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/7fe6aa58014e61d22c5b0e33e62c5d329f2dc8f3"
+        },
+        "openAlex": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 1,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [
+            {
+              "year": 2022,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1109/bigdata52589.2021.9671377"
+        },
+        "crossref": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 1,
+          "referencesCount": 22,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/bigdata52589.2021.9671377"
+        },
+        "ads": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2021bigd.conf..493V",
+          "url": "https://ui.adsabs.harvard.edu/abs/2021bigd.conf..493V/metrics"
+        },
+        "openCitations": {
+          "citations": 1,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Fbigdata52589.2021.9671377"
+        }
+      }
+    },
+    "arxiv:2106.14340": {
+      "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+      "doi": "10.1109/bigdata52589.2021.9671377",
+      "arxiv": "2106.14340",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": 0,
+      "openAlexCitations": 1,
+      "crossrefCitations": 1,
+      "dataCiteCitations": null,
+      "openCitationsCount": 1,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 4,
+          "influentialCitations": 0,
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/7fe6aa58014e61d22c5b0e33e62c5d329f2dc8f3"
+        },
+        "openAlex": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 1,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [
+            {
+              "year": 2022,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1109/bigdata52589.2021.9671377"
+        },
+        "crossref": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 1,
+          "referencesCount": 22,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/bigdata52589.2021.9671377"
+        },
+        "ads": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2021bigd.conf..493V",
+          "url": "https://ui.adsabs.harvard.edu/abs/2021bigd.conf..493V/metrics"
+        },
+        "openCitations": {
+          "citations": 1,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Fbigdata52589.2021.9671377"
+        }
+      }
+    },
+    "doi:10.1007/978-3-030-87735-4_2": {
+      "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+      "doi": "10.1007/978-3-030-87735-4_2",
+      "arxiv": "2108.03129",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 11,
+      "influentialCitations": 0,
+      "openAlexCitations": 8,
+      "crossrefCitations": 8,
+      "dataCiteCitations": null,
+      "openCitationsCount": 7,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "citations": 8,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1007/978-3-030-87735-4_2"
+        },
+        "crossref": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "citations": 8,
+          "referencesCount": 19,
+          "publisher": "Springer International Publishing",
+          "url": "https://doi.org/10.1007/978-3-030-87735-4_2"
+        },
+        "ads": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2021LNCS12959...14S",
+          "url": "https://ui.adsabs.harvard.edu/abs/2021LNCS12959...14S/metrics"
+        },
+        "openCitations": {
+          "citations": 7,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1007%2F978-3-030-87735-4_2"
+        }
+      }
+    },
+    "arxiv:2108.03129": {
+      "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+      "doi": "10.1007/978-3-030-87735-4_2",
+      "arxiv": "2108.03129",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 11,
+      "influentialCitations": 0,
+      "openAlexCitations": 8,
+      "crossrefCitations": 8,
+      "dataCiteCitations": null,
+      "openCitationsCount": 7,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "citations": 8,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1007/978-3-030-87735-4_2"
+        },
+        "crossref": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "citations": 8,
+          "referencesCount": 19,
+          "publisher": "Springer International Publishing",
+          "url": "https://doi.org/10.1007/978-3-030-87735-4_2"
+        },
+        "ads": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2021LNCS12959...14S",
+          "url": "https://ui.adsabs.harvard.edu/abs/2021LNCS12959...14S/metrics"
+        },
+        "openCitations": {
+          "citations": 7,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1007%2F978-3-030-87735-4_2"
+        }
+      }
+    },
+    "doi:10.1007/978-3-030-29400-7_34": {
+      "title": "Automatic Exploration of Reduced Floating-Point Representations in Iterative Methods",
+      "doi": "10.1007/978-3-030-29400-7_34",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 32,
+      "influentialCitations": null,
+      "openAlexCitations": 32,
+      "crossrefCitations": 27,
+      "dataCiteCitations": null,
+      "openCitationsCount": 28,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Automatic Exploration of Reduced Floating-Point Representations in Iterative Methods",
+          "citations": 32,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2019,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 4
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 5
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 6
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 8
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 4
+            },
+            {
+              "year": 2019,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1007/978-3-030-29400-7_34"
+        },
+        "crossref": {
+          "title": "Automatic Exploration of Reduced Floating-Point Representations in Iterative Methods",
+          "citations": 27,
+          "referencesCount": 38,
+          "publisher": "Springer International Publishing",
+          "url": "https://doi.org/10.1007/978-3-030-29400-7_34"
+        },
+        "ads": {
+          "title": "Automatic Exploration of Reduced Floating-Point Representations in Iterative Methods",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2019LNCS11725..481C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2019LNCS11725..481C/metrics"
+        },
+        "openCitations": {
+          "citations": 28,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1007%2F978-3-030-29400-7_34"
+        }
+      }
+    },
+    "doi:10.1109/arith.2018.8464687": {
+      "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+      "doi": "10.1109/arith.2018.8464687",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 9,
+      "influentialCitations": null,
+      "openAlexCitations": 9,
+      "crossrefCitations": 8,
+      "dataCiteCitations": null,
+      "openCitationsCount": 7,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "citations": 9,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2018,
+          "countsByYear": [
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2019,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1109/arith.2018.8464687"
+        },
+        "crossref": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "citations": 8,
+          "referencesCount": 26,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/arith.2018.8464687"
+        },
+        "ads": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2018arit.conf...10C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2018arit.conf...10C/metrics"
+        },
+        "openCitations": {
+          "citations": 7,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Farith.2018.8464687"
+        }
+      }
+    },
+    "arxiv:2610.01889": {
+      "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+      "doi": null,
+      "arxiv": "2610.01889",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": "2026arXiv261001889C",
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 0,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 831,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "citations": 0,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/0110396e7d85c64314ad096bfcdca36e02301b0a"
+        },
+        "openAlex": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2026,
+          "countsByYear": [],
+          "url": "https://doi.org/10.48550/arxiv.2610.01889"
+        },
+        "ads": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "recentReads": 831,
+          "citations": 0,
+          "bibcode": "2026arXiv261001889C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv261001889C/metrics"
+        },
+        "dataCite": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2610.01889"
+        }
+      }
+    },
+    "ads:2026arXiv261001889C": {
+      "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+      "doi": null,
+      "arxiv": "2610.01889",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": "2026arXiv261001889C",
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 0,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 831,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "citations": 0,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/0110396e7d85c64314ad096bfcdca36e02301b0a"
+        },
+        "openAlex": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2026,
+          "countsByYear": [],
+          "url": "https://doi.org/10.48550/arxiv.2610.01889"
+        },
+        "ads": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "recentReads": 831,
+          "citations": 0,
+          "bibcode": "2026arXiv261001889C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv261001889C/metrics"
+        },
+        "dataCite": {
+          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2610.01889"
+        }
+      }
+    },
+    "biorxiv:10.64898/2026.06.07.730652": {
+      "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": "10.64898/2026.06.07.730652",
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 0,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": 0,
+      "dataCiteCitations": null,
+      "openCitationsCount": 0,
+      "adsReads": null,
+      "biorxivPdfs": 236,
+      "biorxivViews": 240,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
+          "citations": 0,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/e00dc2636837914898957119f309d3f82a7dd215"
+        },
+        "openAlex": {
+          "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2026,
+          "countsByYear": [],
+          "url": "https://doi.org/10.64898/2026.06.07.730652"
+        },
+        "crossref": {
+          "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
+          "citations": 0,
+          "referencesCount": 0,
+          "publisher": "openRxiv",
+          "url": "https://doi.org/10.64898/2026.06.07.730652"
+        },
+        "europePmc": {
+          "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
+          "citations": 0,
+          "url": null
+        },
+        "biorxiv": {
+          "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
+          "pdfs": 236,
+          "views": 240,
+          "doi": "10.64898/2026.06.07.730652",
+          "publishedDoi": null,
+          "versions": 1,
+          "server": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.06.07.730652"
+        },
+        "openCitations": {
+          "citations": 0,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.64898%2F2026.06.07.730652"
+        }
+      }
+    },
+    "arxiv:2601.17180": {
+      "title": "Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging",
+      "doi": null,
+      "arxiv": "2601.17180",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 1,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 160,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging",
+          "citations": 1,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/e6a185ca1965b61b23d94584e35c0849678521f5"
+        },
+        "openAlex": {
+          "title": "Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2026,
+          "countsByYear": [],
+          "url": "https://doi.org/10.48550/arxiv.2601.17180"
+        },
+        "ads": {
+          "title": "Conservative &amp; Aggressive NaNs Accelerate U-Nets for Neuroimaging",
+          "recentReads": 160,
+          "citations": 1,
+          "bibcode": "2026arXiv260117180G",
+          "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260117180G/metrics"
+        },
+        "dataCite": {
+          "title": "Conservative &amp; Aggressive NaNs Accelerate U-Nets for Neuroimaging",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2601.17180"
+        }
+      }
+    },
+    "biorxiv:10.64898/2025.12.22.695524": {
+      "title": "Numerical Variability of functional MRI Graph Measures",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": "10.64898/2025.12.22.695524",
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 1,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": 0,
+      "dataCiteCitations": null,
+      "openCitationsCount": 0,
+      "adsReads": null,
+      "biorxivPdfs": 427,
+      "biorxivViews": 826,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Numerical Variability of functional MRI Graph Measures",
+          "citations": 1,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/07530b9bbfd8e98475347fd9f0b65f4d4162a9c0"
+        },
+        "openAlex": {
+          "title": "Numerical Variability of functional MRI Graph Measures",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2025,
+          "countsByYear": [],
+          "url": "https://doi.org/10.64898/2025.12.22.695524"
+        },
+        "crossref": {
+          "title": "Numerical Variability of functional MRI Graph Measures",
+          "citations": 0,
+          "referencesCount": 20,
+          "publisher": "openRxiv",
+          "url": "https://doi.org/10.64898/2025.12.22.695524"
+        },
+        "europePmc": {
+          "title": "Numerical Variability of functional MRI Graph Measures",
+          "citations": 0,
+          "url": null
+        },
+        "biorxiv": {
+          "title": "Numerical Variability of functional MRI Graph Measures",
+          "pdfs": 427,
+          "views": 826,
+          "doi": "10.64898/2025.12.22.695524",
+          "publishedDoi": null,
+          "versions": 3,
+          "server": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.64898/2025.12.22.695524"
+        },
+        "openCitations": {
+          "citations": 0,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.64898%2F2025.12.22.695524"
+        }
+      }
+    },
+    "biorxiv:10.1101/2024.11.11.623071": {
+      "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson’s disease",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": "10.1101/2024.11.11.623071",
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 5,
+      "influentialCitations": null,
+      "openAlexCitations": 4,
+      "crossrefCitations": 5,
+      "dataCiteCitations": null,
+      "openCitationsCount": 3,
+      "adsReads": null,
+      "biorxivPdfs": 770,
+      "biorxivViews": 1285,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson’s disease",
+          "citations": 4,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2024,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2025,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1101/2024.11.11.623071"
+        },
+        "crossref": {
+          "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson’s disease",
+          "citations": 5,
+          "referencesCount": 26,
+          "publisher": "openRxiv",
+          "url": "https://doi.org/10.1101/2024.11.11.623071"
+        },
+        "europePmc": {
+          "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson’s disease",
+          "citations": 1,
+          "url": null
+        },
+        "biorxiv": {
+          "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease",
+          "pdfs": 770,
+          "views": 1285,
+          "doi": "10.1101/2024.11.11.623071",
+          "publishedDoi": null,
+          "versions": 1,
+          "server": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/2024.11.11.623071"
+        },
+        "openCitations": {
+          "citations": 3,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1101%2F2024.11.11.623071"
+        }
+      }
+    },
+    "biorxiv:10.1101/2023.05.05.539590": {
+      "title": "Predicting Parkinson’s disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": "10.1101/2023.05.05.539590",
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 2,
+      "influentialCitations": 0,
+      "openAlexCitations": 2,
+      "crossrefCitations": 0,
+      "dataCiteCitations": null,
+      "openCitationsCount": 0,
+      "adsReads": null,
+      "biorxivPdfs": 788,
+      "biorxivViews": 2178,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Predicting Parkinson’s disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study",
+          "citations": 1,
+          "influentialCitations": 0,
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/f0cca394d5c5c9bbd3d2d3aea42c547cf6526a84"
+        },
+        "openAlex": {
+          "title": "Predicting Parkinson’s disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study",
+          "citations": 2,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2023,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1101/2023.05.05.539590"
+        },
+        "crossref": {
+          "title": "Predicting Parkinson’s disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study",
+          "citations": 0,
+          "referencesCount": 22,
+          "publisher": "openRxiv",
+          "url": "https://doi.org/10.1101/2023.05.05.539590"
+        },
+        "europePmc": {
+          "title": "Predicting Parkinson’s disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study",
+          "citations": 0,
+          "url": null
+        },
+        "biorxiv": {
+          "title": "Predicting Parkinson's disease progression using MRI-based white matter radiomic biomarker and machine learning: a reproducibility and replicability study",
+          "pdfs": 788,
+          "views": 2178,
+          "doi": "10.1101/2023.05.05.539590",
+          "publishedDoi": null,
+          "versions": 1,
+          "server": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/2023.05.05.539590"
+        },
+        "openCitations": {
+          "citations": 0,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1101%2F2023.05.05.539590"
+        }
+      }
+    },
+    "arxiv:2109.09649": {
+      "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
+      "doi": null,
+      "arxiv": "2109.09649",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 9,
+      "influentialCitations": 0,
+      "openAlexCitations": 1,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 201,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/58621b70e6a8bc1ff13c08eae8a8ade85b67bb77"
+        },
+        "openAlex": {
+          "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
+          "citations": 1,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [
+            {
+              "year": 2026,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.48550/arxiv.2109.09649"
+        },
+        "ads": {
+          "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
+          "recentReads": 201,
+          "citations": 2,
+          "bibcode": "2021arXiv210909649K",
+          "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210909649K/metrics"
+        },
+        "dataCite": {
+          "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2109.09649"
+        }
+      }
+    }
+  }
+}

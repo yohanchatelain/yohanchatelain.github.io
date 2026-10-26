@@ -26,8 +26,8 @@ PAPER_PATHS = [
     "/2026/07/27/parkinsons-mri-scientific-reports-acceptance.html",
 ]
 NAV_PATHS = ["/", "/about/", "/projects", "/research", "/cv", "/contact/"]
-# A separately published GitHub Pages project shares this hostname but not this build.
-EXTERNAL_PROJECT_PATHS = {"/floacon-firebase/"}
+# Separately published GitHub Pages projects share this hostname but not this build.
+EXTERNAL_PROJECT_PATHS = {"/floacon-firebase/", "/citeometer/"}
 
 
 class Document(HTMLParser):

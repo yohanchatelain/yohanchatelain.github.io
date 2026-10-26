@@ -8,6 +8,8 @@ last_modified_at: "2026-10-08"
 
 I am thrilled to announce that the paper titled **"[An analysis of performance bottlenecks in MRI preprocessing](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giae098/8063371?login=true)"** has been accepted at [GigaScience 25](https://academic.oup.com/gigascience).
 
+<cite-o-meter doi="10.1093/gigascience/giae098" layout="badge" lazy="true"></cite-o-meter>
+
 
 ## Description
 Magnetic resonance imaging (MRI) preprocessing is a critical step for neuroimaging analysis. However, the computational cost of MRI preprocessing pipelines is a major bottleneck for large cohort studies and some clinical applications. While high-performance computing and, more recently, deep learning have been adopted to accelerate the computations, these techniques require costly hardware and are not accessible to all researchers. Therefore, it is important to understand the performance bottlenecks of MRI preprocessing pipelines to improve their performance. 
