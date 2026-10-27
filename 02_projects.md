@@ -37,4 +37,4 @@ Verificarlo, Fuzzy PyTorch, and PyTracer have dedicated pages describing my cont
 
 ## Scholarly metrics and web tools
 
-- [Citeometer](https://github.com/yohanchatelain/citeometer): an embeddable, zero-dependency web component for live citation, download, and readership metrics across OpenAlex, Semantic Scholar, Crossref, Europe PMC, NASA ADS, bioRxiv, PLOS, and Zenodo ([live demo](https://yohanchatelain.github.io/citeometer/)).
+- [Citeometer](https://github.com/yohanchatelain/citeometer): an embeddable, zero-dependency web component for live citation, download, and readership metrics across OpenAlex, Semantic Scholar, Crossref, Europe PMC, NASA ADS, bioRxiv, PLOS, and Zenodo ([post](/projects/web/tools/2026/10/27/citeometer-scholarly-metrics-widget.html), [live demo](https://yohanchatelain.github.io/citeometer/), [npm](https://www.npmjs.com/package/citeometer)).
