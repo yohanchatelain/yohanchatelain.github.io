@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:38:29.356Z",
+  "generatedAt": "2026-10-27T06:20:17.302Z",
   "papers": {
     "arxiv:2605.25991": {
       "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
@@ -155,13 +155,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
-          "citations": 1,
-          "influentialCitations": 0,
-          "year": 2025,
-          "url": "https://www.semanticscholar.org/paper/5bcb97459f2447c849f9682a9394b75e6f6b69c4"
-        },
         "openAlex": {
           "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
           "citations": 1,
@@ -230,13 +223,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "An analysis of performance bottlenecks in MRI preprocessing",
-          "citations": 7,
-          "influentialCitations": 0,
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/a488274db8430d8ba543e510672068e2d3abab9c"
-        },
         "openAlex": {
           "title": "An analysis of performance bottlenecks in MRI preprocessing",
           "citations": 4,
@@ -313,13 +299,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
-          "citations": 6,
-          "influentialCitations": 0,
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/cd7d366d2c91fd4bfdcf165827fc59f876fced4e"
-        },
         "openAlex": {
           "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
           "citations": 7,
@@ -391,13 +370,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
-          "citations": 6,
-          "influentialCitations": 0,
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/cd7d366d2c91fd4bfdcf165827fc59f876fced4e"
-        },
         "openAlex": {
           "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
           "citations": 7,
@@ -451,17 +423,17 @@
       "publishedDoi": null,
       "isOa": true,
       "oaStatus": "gold",
-      "citations": 9,
+      "citations": 10,
       "influentialCitations": 0,
       "openAlexCitations": 8,
-      "crossrefCitations": 9,
+      "crossrefCitations": 10,
       "dataCiteCitations": null,
       "openCitationsCount": 6,
       "adsReads": 0,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 2282,
-      "plosPdfs": 1333,
+      "plosTotal": 2283,
+      "plosPdfs": 1334,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -500,7 +472,7 @@
         },
         "crossref": {
           "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
-          "citations": 9,
+          "citations": 10,
           "referencesCount": 25,
           "publisher": "Public Library of Science (PLoS)",
           "url": "https://doi.org/10.1371/journal.pone.0295069"
@@ -512,8 +484,8 @@
           "url": "https://europepmc.org/article/PMC/PMC10830012"
         },
         "plos": {
-          "total": 2282,
-          "pdf": 1333,
+          "total": 2283,
+          "pdf": 1334,
           "html": 716,
           "xml": 233,
           "url": "https://doi.org/10.1371/journal.pone.0295069"
@@ -542,17 +514,17 @@
       "publishedDoi": null,
       "isOa": true,
       "oaStatus": "gold",
-      "citations": 9,
+      "citations": 10,
       "influentialCitations": 0,
       "openAlexCitations": 8,
-      "crossrefCitations": 9,
+      "crossrefCitations": 10,
       "dataCiteCitations": null,
       "openCitationsCount": 6,
       "adsReads": 0,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 2282,
-      "plosPdfs": 1333,
+      "plosTotal": 2283,
+      "plosPdfs": 1334,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -591,7 +563,7 @@
         },
         "crossref": {
           "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
-          "citations": 9,
+          "citations": 10,
           "referencesCount": 25,
           "publisher": "Public Library of Science (PLoS)",
           "url": "https://doi.org/10.1371/journal.pone.0295069"
@@ -603,8 +575,8 @@
           "url": "https://europepmc.org/article/PMC/PMC10830012"
         },
         "plos": {
-          "total": 2282,
-          "pdf": 1333,
+          "total": 2283,
+          "pdf": 1334,
           "html": 716,
           "xml": 233,
           "url": "https://doi.org/10.1371/journal.pone.0295069"
@@ -944,14 +916,14 @@
       "citations": 19,
       "influentialCitations": 0,
       "openAlexCitations": 19,
-      "crossrefCitations": 13,
+      "crossrefCitations": 14,
       "dataCiteCitations": null,
       "openCitationsCount": 11,
       "adsReads": 0,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 2257,
-      "plosPdfs": 1202,
+      "plosTotal": 2260,
+      "plosPdfs": 1203,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -959,13 +931,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
-          "citations": 15,
-          "influentialCitations": 0,
-          "year": 2021,
-          "url": "https://www.semanticscholar.org/paper/36f521633a27726771e4bebf23035bcf54b7ce67"
-        },
         "openAlex": {
           "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
           "citations": 19,
@@ -1006,7 +971,7 @@
         },
         "crossref": {
           "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
-          "citations": 13,
+          "citations": 14,
           "referencesCount": 44,
           "publisher": "Public Library of Science (PLoS)",
           "url": "https://doi.org/10.1371/journal.pone.0250755"
@@ -1018,10 +983,10 @@
           "url": "https://europepmc.org/article/PMC/PMC8559953"
         },
         "plos": {
-          "total": 2257,
-          "pdf": 1202,
+          "total": 2260,
+          "pdf": 1203,
           "html": 533,
-          "xml": 522,
+          "xml": 524,
           "url": "https://doi.org/10.1371/journal.pone.0250755"
         },
         "ads": {
@@ -1049,7 +1014,7 @@
       "isOa": true,
       "oaStatus": "green",
       "citations": 9,
-      "influentialCitations": null,
+      "influentialCitations": 0,
       "openAlexCitations": 9,
       "crossrefCitations": 8,
       "dataCiteCitations": null,
@@ -1066,6 +1031,13 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Piecewise holistic autotuning of parallel programs with CERE",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2017,
+          "url": "https://www.semanticscholar.org/paper/f5cc5e82c0a64171b9d9be799fb28c3e7fedbeef"
+        },
         "openAlex": {
           "title": "Piecewise holistic autotuning of parallel programs with CERE",
           "citations": 9,
@@ -1214,13 +1186,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
-          "citations": 2,
-          "influentialCitations": 0,
-          "year": 2025,
-          "url": "https://www.semanticscholar.org/paper/e02c3a490f13e90ae2c0417acb1b275fe1f8e5d4"
-        },
         "openAlex": {
           "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
           "citations": 2,
@@ -1269,7 +1234,7 @@
       "citations": 9,
       "influentialCitations": 0,
       "openAlexCitations": 6,
-      "crossrefCitations": 6,
+      "crossrefCitations": 7,
       "dataCiteCitations": null,
       "openCitationsCount": 6,
       "adsReads": null,
@@ -1284,13 +1249,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging",
-          "citations": 9,
-          "influentialCitations": 0,
-          "year": 2024,
-          "url": "https://www.semanticscholar.org/paper/d61a5dc5e222fc9d66b22102092d3cee7967a257"
-        },
         "openAlex": {
           "title": "The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging",
           "citations": 6,
@@ -1315,7 +1273,7 @@
         },
         "crossref": {
           "title": "The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging",
-          "citations": 6,
+          "citations": 7,
           "referencesCount": 21,
           "publisher": "ACM",
           "url": "https://doi.org/10.1145/3641525.3663626"
@@ -1343,10 +1301,10 @@
       "publishedDoi": null,
       "isOa": true,
       "oaStatus": "green",
-      "citations": 5,
-      "influentialCitations": null,
+      "citations": 8,
+      "influentialCitations": 0,
       "openAlexCitations": 5,
-      "crossrefCitations": 4,
+      "crossrefCitations": 5,
       "dataCiteCitations": null,
       "openCitationsCount": 4,
       "adsReads": 0,
@@ -1361,6 +1319,13 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "citations": 8,
+          "influentialCitations": 0,
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/a159d33d6b19758d6613e487f9467a71c841a3f6"
+        },
         "openAlex": {
           "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
           "citations": 5,
@@ -1385,7 +1350,7 @@
         },
         "crossref": {
           "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
-          "citations": 4,
+          "citations": 5,
           "referencesCount": 37,
           "publisher": "Springer Nature Switzerland",
           "url": "https://doi.org/10.1007/978-3-031-44336-7_7"
@@ -1481,10 +1446,10 @@
       "publishedDoi": null,
       "isOa": true,
       "oaStatus": "green",
-      "citations": 4,
+      "citations": 5,
       "influentialCitations": 0,
       "openAlexCitations": 4,
-      "crossrefCitations": 4,
+      "crossrefCitations": 5,
       "dataCiteCitations": null,
       "openCitationsCount": 4,
       "adsReads": 0,
@@ -1523,7 +1488,7 @@
         },
         "crossref": {
           "title": "Reproducibility of Tumor Segmentation Outcomes with a Deep Learning Model",
-          "citations": 4,
+          "citations": 5,
           "referencesCount": 18,
           "publisher": "IEEE",
           "url": "https://doi.org/10.1109/isbi53787.2023.10230482"
@@ -1570,13 +1535,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
-          "citations": 4,
-          "influentialCitations": 0,
-          "year": 2021,
-          "url": "https://www.semanticscholar.org/paper/7fe6aa58014e61d22c5b0e33e62c5d329f2dc8f3"
-        },
         "openAlex": {
           "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
           "citations": 1,
@@ -1640,13 +1598,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
-          "citations": 4,
-          "influentialCitations": 0,
-          "year": 2021,
-          "url": "https://www.semanticscholar.org/paper/7fe6aa58014e61d22c5b0e33e62c5d329f2dc8f3"
-        },
         "openAlex": {
           "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
           "citations": 1,
@@ -1695,7 +1646,7 @@
       "citations": 11,
       "influentialCitations": 0,
       "openAlexCitations": 8,
-      "crossrefCitations": 8,
+      "crossrefCitations": 9,
       "dataCiteCitations": null,
       "openCitationsCount": 7,
       "adsReads": 0,
@@ -1710,6 +1661,13 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "citations": 11,
+          "influentialCitations": 0,
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/4940d2a96d8bf2275f327230bfd86c87bb986343"
+        },
         "openAlex": {
           "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
           "citations": 8,
@@ -1742,7 +1700,7 @@
         },
         "crossref": {
           "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
-          "citations": 8,
+          "citations": 9,
           "referencesCount": 19,
           "publisher": "Springer International Publishing",
           "url": "https://doi.org/10.1007/978-3-030-87735-4_2"
@@ -1774,7 +1732,7 @@
       "citations": 11,
       "influentialCitations": 0,
       "openAlexCitations": 8,
-      "crossrefCitations": 8,
+      "crossrefCitations": 9,
       "dataCiteCitations": null,
       "openCitationsCount": 7,
       "adsReads": 0,
@@ -1789,6 +1747,13 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
+          "citations": 11,
+          "influentialCitations": 0,
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/4940d2a96d8bf2275f327230bfd86c87bb986343"
+        },
         "openAlex": {
           "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
           "citations": 8,
@@ -1821,7 +1786,7 @@
         },
         "crossref": {
           "title": "Accurate Simulation of Operating System Updates in Neuroimaging Using Monte-Carlo Arithmetic",
-          "citations": 8,
+          "citations": 9,
           "referencesCount": 19,
           "publisher": "Springer International Publishing",
           "url": "https://doi.org/10.1007/978-3-030-87735-4_2"
@@ -1942,7 +1907,7 @@
       "isOa": true,
       "oaStatus": "green",
       "citations": 9,
-      "influentialCitations": null,
+      "influentialCitations": 0,
       "openAlexCitations": 9,
       "crossrefCitations": 8,
       "dataCiteCitations": null,
@@ -1959,6 +1924,13 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/33d80012a12f780f03471d0fcc37104dcb8f97a8"
+        },
         "openAlex": {
           "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
           "citations": 9,
@@ -2042,13 +2014,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
-          "citations": 0,
-          "influentialCitations": 0,
-          "year": 2026,
-          "url": "https://www.semanticscholar.org/paper/0110396e7d85c64314ad096bfcdca36e02301b0a"
-        },
         "openAlex": {
           "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
           "citations": 0,
@@ -2103,13 +2068,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
-          "citations": 0,
-          "influentialCitations": 0,
-          "year": 2026,
-          "url": "https://www.semanticscholar.org/paper/0110396e7d85c64314ad096bfcdca36e02301b0a"
-        },
         "openAlex": {
           "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
           "citations": 0,
@@ -2237,13 +2195,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging",
-          "citations": 1,
-          "influentialCitations": 0,
-          "year": 2026,
-          "url": "https://www.semanticscholar.org/paper/e6a185ca1965b61b23d94584e35c0849678521f5"
-        },
         "openAlex": {
           "title": "Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging",
           "citations": 0,
@@ -2287,8 +2238,8 @@
       "dataCiteCitations": null,
       "openCitationsCount": 0,
       "adsReads": null,
-      "biorxivPdfs": 427,
-      "biorxivViews": 826,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
       "plosTotal": null,
       "plosPdfs": null,
       "zenodoDownloads": null,
@@ -2298,13 +2249,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Numerical Variability of functional MRI Graph Measures",
-          "citations": 1,
-          "influentialCitations": 0,
-          "year": 2026,
-          "url": "https://www.semanticscholar.org/paper/07530b9bbfd8e98475347fd9f0b65f4d4162a9c0"
-        },
         "openAlex": {
           "title": "Numerical Variability of functional MRI Graph Measures",
           "citations": 0,
@@ -2328,8 +2272,8 @@
         },
         "biorxiv": {
           "title": "Numerical Variability of functional MRI Graph Measures",
-          "pdfs": 427,
-          "views": 826,
+          "pdfs": null,
+          "views": null,
           "doi": "10.64898/2025.12.22.695524",
           "publishedDoi": null,
           "versions": 3,
@@ -2353,10 +2297,10 @@
       "publishedDoi": null,
       "isOa": true,
       "oaStatus": "green",
-      "citations": 5,
+      "citations": 6,
       "influentialCitations": null,
       "openAlexCitations": 4,
-      "crossrefCitations": 5,
+      "crossrefCitations": 6,
       "dataCiteCitations": null,
       "openCitationsCount": 3,
       "adsReads": null,
@@ -2391,7 +2335,7 @@
         },
         "crossref": {
           "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson’s disease",
-          "citations": 5,
+          "citations": 6,
           "referencesCount": 26,
           "publisher": "openRxiv",
           "url": "https://doi.org/10.1101/2024.11.11.623071"
@@ -2528,13 +2472,6 @@
       "githubStars": null,
       "githubDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
-          "citations": 9,
-          "influentialCitations": 0,
-          "year": 2020,
-          "url": "https://www.semanticscholar.org/paper/58621b70e6a8bc1ff13c08eae8a8ade85b67bb77"
-        },
         "openAlex": {
           "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
           "citations": 1,
