@@ -15,15 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-        with:
-          repository: yohanchatelain/citeometer
-          ref: v1.1.1
-          path: .citeometer
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node .citeometer/scripts/fetch-snapshot.js --input 03_research.md _posts --output assets/citeometer-snapshot.json
+      - run: npx --yes citeometer@1.1.1 --input 03_research.md _posts --output assets/citeometer-snapshot.json
         env:
           S2_API_KEY: ${{ secrets.S2_API_KEY }}  # optional; avoids Semantic Scholar throttling
       - run: |
