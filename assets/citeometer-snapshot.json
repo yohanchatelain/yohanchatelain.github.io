@@ -1,13 +1,903 @@
 {
-  "generatedAt": "2026-10-27T06:20:17.302Z",
+  "generatedAt": "2026-10-27T14:52:43.751Z",
   "papers": {
+    "doi:10.1109/arith.2016.31": {
+      "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+      "doi": "10.1109/arith.2016.31",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/verificarlo",
+      "docker": "verificarlo/verificarlo",
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 72,
+      "influentialCitations": null,
+      "openAlexCitations": 6,
+      "crossrefCitations": 72,
+      "dataCiteCitations": null,
+      "openCitationsCount": 61,
+      "adsReads": 296,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 104,
+      "githubForks": 29,
+      "githubDownloads": 49,
+      "githubClones": 979,
+      "githubUniqueClones": 254,
+      "githubViews": 89,
+      "githubUniqueViews": 65,
+      "githubRepos": null,
+      "dockerPulls": 5184,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "citations": 6,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2016,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1109/arith.2016.31"
+        },
+        "crossref": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "citations": 72,
+          "referencesCount": 27,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/arith.2016.31"
+        },
+        "ads": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "recentReads": 296,
+          "citations": 12,
+          "bibcode": "2016arit.conf...17D",
+          "url": "https://ui.adsabs.harvard.edu/abs/2016arit.conf...17D/metrics"
+        },
+        "openCitations": {
+          "citations": 61,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Farith.2016.31"
+        },
+        "github": {
+          "title": "verificarlo/verificarlo",
+          "description": "A tool for debugging and assessing floating point precision and reproducibility.",
+          "stars": 104,
+          "forks": 29,
+          "downloads": 49,
+          "clones": 979,
+          "uniqueClones": 254,
+          "views": 89,
+          "uniqueViews": 65,
+          "url": "https://github.com/verificarlo/verificarlo"
+        },
+        "docker": {
+          "title": "verificarlo/verificarlo",
+          "pulls": 5184,
+          "stars": 1,
+          "url": "https://hub.docker.com/r/verificarlo/verificarlo"
+        }
+      }
+    },
+    "github:verificarlo/verificarlo": {
+      "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+      "doi": "10.1109/arith.2016.31",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/verificarlo",
+      "docker": "verificarlo/verificarlo",
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 72,
+      "influentialCitations": null,
+      "openAlexCitations": 6,
+      "crossrefCitations": 72,
+      "dataCiteCitations": null,
+      "openCitationsCount": 61,
+      "adsReads": 296,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 104,
+      "githubForks": 29,
+      "githubDownloads": 49,
+      "githubClones": 979,
+      "githubUniqueClones": 254,
+      "githubViews": 89,
+      "githubUniqueViews": 65,
+      "githubRepos": null,
+      "dockerPulls": 5184,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "citations": 6,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2016,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1109/arith.2016.31"
+        },
+        "crossref": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "citations": 72,
+          "referencesCount": 27,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/arith.2016.31"
+        },
+        "ads": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "recentReads": 296,
+          "citations": 12,
+          "bibcode": "2016arit.conf...17D",
+          "url": "https://ui.adsabs.harvard.edu/abs/2016arit.conf...17D/metrics"
+        },
+        "openCitations": {
+          "citations": 61,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Farith.2016.31"
+        },
+        "github": {
+          "title": "verificarlo/verificarlo",
+          "description": "A tool for debugging and assessing floating point precision and reproducibility.",
+          "stars": 104,
+          "forks": 29,
+          "downloads": 49,
+          "clones": 979,
+          "uniqueClones": 254,
+          "views": 89,
+          "uniqueViews": 65,
+          "url": "https://github.com/verificarlo/verificarlo"
+        },
+        "docker": {
+          "title": "verificarlo/verificarlo",
+          "pulls": 5184,
+          "stars": 1,
+          "url": "https://hub.docker.com/r/verificarlo/verificarlo"
+        }
+      }
+    },
+    "docker:verificarlo/verificarlo": {
+      "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+      "doi": "10.1109/arith.2016.31",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/verificarlo",
+      "docker": "verificarlo/verificarlo",
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 72,
+      "influentialCitations": null,
+      "openAlexCitations": 6,
+      "crossrefCitations": 72,
+      "dataCiteCitations": null,
+      "openCitationsCount": 61,
+      "adsReads": 296,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 104,
+      "githubForks": 29,
+      "githubDownloads": 49,
+      "githubClones": 979,
+      "githubUniqueClones": 254,
+      "githubViews": 89,
+      "githubUniqueViews": 65,
+      "githubRepos": null,
+      "dockerPulls": 5184,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "citations": 6,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2016,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1109/arith.2016.31"
+        },
+        "crossref": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "citations": 72,
+          "referencesCount": 27,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/arith.2016.31"
+        },
+        "ads": {
+          "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
+          "recentReads": 296,
+          "citations": 12,
+          "bibcode": "2016arit.conf...17D",
+          "url": "https://ui.adsabs.harvard.edu/abs/2016arit.conf...17D/metrics"
+        },
+        "openCitations": {
+          "citations": 61,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Farith.2016.31"
+        },
+        "github": {
+          "title": "verificarlo/verificarlo",
+          "description": "A tool for debugging and assessing floating point precision and reproducibility.",
+          "stars": 104,
+          "forks": 29,
+          "downloads": 49,
+          "clones": 979,
+          "uniqueClones": 254,
+          "views": 89,
+          "uniqueViews": 65,
+          "url": "https://github.com/verificarlo/verificarlo"
+        },
+        "docker": {
+          "title": "verificarlo/verificarlo",
+          "pulls": 5184,
+          "stars": 1,
+          "url": "https://hub.docker.com/r/verificarlo/verificarlo"
+        }
+      }
+    },
+    "github:verificarlo/prism": {
+      "title": "verificarlo/prism",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/prism",
+      "docker": null,
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 3,
+      "githubForks": 2,
+      "githubDownloads": 2,
+      "githubClones": 138,
+      "githubUniqueClones": 128,
+      "githubViews": 1,
+      "githubUniqueViews": 1,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "verificarlo/prism",
+          "description": "Probabilistic Rounding with Instruction Set Management",
+          "stars": 3,
+          "forks": 2,
+          "downloads": 2,
+          "clones": 138,
+          "uniqueClones": 128,
+          "views": 1,
+          "uniqueViews": 1,
+          "url": "https://github.com/verificarlo/prism"
+        }
+      }
+    },
+    "github:interflop": {
+      "title": "interflop",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "interflop",
+      "docker": null,
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 7,
+      "githubForks": 13,
+      "githubDownloads": null,
+      "githubClones": 84,
+      "githubUniqueClones": 79,
+      "githubViews": 21,
+      "githubUniqueViews": 20,
+      "githubRepos": 20,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "interflop",
+          "isOrg": true,
+          "repos": 20,
+          "stars": 7,
+          "forks": 13,
+          "downloads": 0,
+          "clones": 84,
+          "uniqueClones": 79,
+          "views": 21,
+          "uniqueViews": 20,
+          "url": "https://github.com/interflop"
+        }
+      }
+    },
+    "doi:10.1145/3432184": {
+      "title": "Confidence Intervals for Stochastic Arithmetic",
+      "doi": "10.1145/3432184",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/significantdigits",
+      "docker": null,
+      "pypi": "significantdigits",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 16,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": 6,
+      "dataCiteCitations": null,
+      "openCitationsCount": 6,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 4,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 120,
+      "githubUniqueClones": 46,
+      "githubViews": 7,
+      "githubUniqueViews": 7,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": 1809,
+      "pypiMonthly": 164,
+      "npmDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 16,
+          "influentialCitations": 0,
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/c8efd33055d96cfd07ce92c838bda11a249c54fe"
+        },
+        "openAlex": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [],
+          "url": "https://doi.org/10.1145/3432184"
+        },
+        "crossref": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 6,
+          "referencesCount": 45,
+          "publisher": "Association for Computing Machinery (ACM)",
+          "url": "https://doi.org/10.1145/3432184"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 6,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1145%2F3432184"
+        },
+        "github": {
+          "title": "verificarlo/significantdigits",
+          "description": "Solid statistical analysis of Stochastic Arithmetic.",
+          "stars": 4,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 120,
+          "uniqueClones": 46,
+          "views": 7,
+          "uniqueViews": 7,
+          "url": "https://github.com/verificarlo/significantdigits"
+        },
+        "pypi": {
+          "title": "significantdigits",
+          "downloads": 1809,
+          "monthlyDownloads": 164,
+          "url": "https://pypi.org/project/significantdigits/"
+        }
+      }
+    },
+    "github:verificarlo/significantdigits": {
+      "title": "Confidence Intervals for Stochastic Arithmetic",
+      "doi": "10.1145/3432184",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/significantdigits",
+      "docker": null,
+      "pypi": "significantdigits",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 16,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": 6,
+      "dataCiteCitations": null,
+      "openCitationsCount": 6,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 4,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 120,
+      "githubUniqueClones": 46,
+      "githubViews": 7,
+      "githubUniqueViews": 7,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": 1809,
+      "pypiMonthly": 164,
+      "npmDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 16,
+          "influentialCitations": 0,
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/c8efd33055d96cfd07ce92c838bda11a249c54fe"
+        },
+        "openAlex": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [],
+          "url": "https://doi.org/10.1145/3432184"
+        },
+        "crossref": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 6,
+          "referencesCount": 45,
+          "publisher": "Association for Computing Machinery (ACM)",
+          "url": "https://doi.org/10.1145/3432184"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 6,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1145%2F3432184"
+        },
+        "github": {
+          "title": "verificarlo/significantdigits",
+          "description": "Solid statistical analysis of Stochastic Arithmetic.",
+          "stars": 4,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 120,
+          "uniqueClones": 46,
+          "views": 7,
+          "uniqueViews": 7,
+          "url": "https://github.com/verificarlo/significantdigits"
+        },
+        "pypi": {
+          "title": "significantdigits",
+          "downloads": 1809,
+          "monthlyDownloads": 164,
+          "url": "https://pypi.org/project/significantdigits/"
+        }
+      }
+    },
+    "pypi:significantdigits": {
+      "title": "Confidence Intervals for Stochastic Arithmetic",
+      "doi": "10.1145/3432184",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/significantdigits",
+      "docker": null,
+      "pypi": "significantdigits",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 16,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": 6,
+      "dataCiteCitations": null,
+      "openCitationsCount": 6,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 4,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 120,
+      "githubUniqueClones": 46,
+      "githubViews": 7,
+      "githubUniqueViews": 7,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": 1809,
+      "pypiMonthly": 164,
+      "npmDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 16,
+          "influentialCitations": 0,
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/c8efd33055d96cfd07ce92c838bda11a249c54fe"
+        },
+        "openAlex": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2021,
+          "countsByYear": [],
+          "url": "https://doi.org/10.1145/3432184"
+        },
+        "crossref": {
+          "title": "Confidence Intervals for Stochastic Arithmetic",
+          "citations": 6,
+          "referencesCount": 45,
+          "publisher": "Association for Computing Machinery (ACM)",
+          "url": "https://doi.org/10.1145/3432184"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 6,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1145%2F3432184"
+        },
+        "github": {
+          "title": "verificarlo/significantdigits",
+          "description": "Solid statistical analysis of Stochastic Arithmetic.",
+          "stars": 4,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 120,
+          "uniqueClones": 46,
+          "views": 7,
+          "uniqueViews": 7,
+          "url": "https://github.com/verificarlo/significantdigits"
+        },
+        "pypi": {
+          "title": "significantdigits",
+          "downloads": 1809,
+          "monthlyDownloads": 164,
+          "url": "https://pypi.org/project/significantdigits/"
+        }
+      }
+    },
+    "doi:10.1109/arith.2018.8464687": {
+      "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+      "doi": "10.1109/arith.2018.8464687",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": null,
+      "docker": null,
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 9,
+      "influentialCitations": 0,
+      "openAlexCitations": 9,
+      "crossrefCitations": 8,
+      "dataCiteCitations": null,
+      "openCitationsCount": 7,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": null,
+      "githubForks": null,
+      "githubDownloads": null,
+      "githubClones": null,
+      "githubUniqueClones": null,
+      "githubViews": null,
+      "githubUniqueViews": null,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "semanticScholar": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2018,
+          "url": "https://www.semanticscholar.org/paper/33d80012a12f780f03471d0fcc37104dcb8f97a8"
+        },
+        "openAlex": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "citations": 9,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2018,
+          "countsByYear": [
+            {
+              "year": 2024,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2023,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2019,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1109/arith.2018.8464687"
+        },
+        "crossref": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "citations": 8,
+          "referencesCount": 26,
+          "publisher": "IEEE",
+          "url": "https://doi.org/10.1109/arith.2018.8464687"
+        },
+        "ads": {
+          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
+          "recentReads": 0,
+          "citations": 0,
+          "bibcode": "2018arit.conf...10C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2018arit.conf...10C/metrics"
+        },
+        "openCitations": {
+          "citations": 7,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Farith.2018.8464687"
+        }
+      }
+    },
+    "github:yohanchatelain/floacon-firebase": {
+      "title": "yohanchatelain/floacon-firebase",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "yohanchatelain/floacon-firebase",
+      "docker": null,
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 0,
+      "githubForks": 0,
+      "githubDownloads": null,
+      "githubClones": 4,
+      "githubUniqueClones": 3,
+      "githubViews": 0,
+      "githubUniqueViews": 0,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "yohanchatelain/floacon-firebase",
+          "description": "Floating-point converter (firebase)",
+          "stars": 0,
+          "forks": 0,
+          "downloads": 0,
+          "clones": 4,
+          "uniqueClones": 3,
+          "views": 0,
+          "uniqueViews": 0,
+          "url": "https://github.com/yohanchatelain/floacon-firebase"
+        }
+      }
+    },
     "arxiv:2605.25991": {
       "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
       "doi": null,
       "arxiv": "2605.25991",
       "biorxiv": null,
       "zenodo": null,
-      "github": null,
+      "github": "big-data-lab-team/fuzzy-pytorch",
+      "docker": null,
+      "pypi": null,
+      "npm": null,
       "adsBibcode": null,
       "publishedDoi": null,
       "isOa": true,
@@ -18,7 +908,7 @@
       "crossrefCitations": null,
       "dataCiteCitations": 0,
       "openCitationsCount": null,
-      "adsReads": 310,
+      "adsReads": 309,
       "biorxivPdfs": null,
       "biorxivViews": null,
       "plosTotal": null,
@@ -27,16 +917,19 @@
       "zenodoViews": null,
       "dataCiteDownloads": null,
       "dataCiteViews": null,
-      "githubStars": null,
+      "githubStars": 1,
+      "githubForks": 3,
       "githubDownloads": null,
+      "githubClones": 54,
+      "githubUniqueClones": 35,
+      "githubViews": 2,
+      "githubUniqueViews": 2,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
-          "citations": 3,
-          "influentialCitations": 0,
-          "year": 2026,
-          "url": "https://www.semanticscholar.org/paper/8748521de020743bc41b2dfebe38aff855dedd57"
-        },
         "openAlex": {
           "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
           "citations": 0,
@@ -48,7 +941,7 @@
         },
         "ads": {
           "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
-          "recentReads": 310,
+          "recentReads": 309,
           "citations": 0,
           "bibcode": "2026arXiv260525991G",
           "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260525991G/metrics"
@@ -59,6 +952,1097 @@
           "views": 0,
           "downloads": 0,
           "url": "https://arxiv.org/abs/2605.25991"
+        },
+        "github": {
+          "title": "big-data-lab-team/fuzzy-pytorch",
+          "description": null,
+          "stars": 1,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 54,
+          "uniqueClones": 35,
+          "views": 2,
+          "uniqueViews": 2,
+          "url": "https://github.com/big-data-lab-team/fuzzy-pytorch"
+        }
+      }
+    },
+    "github:big-data-lab-team/fuzzy-pytorch": {
+      "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+      "doi": null,
+      "arxiv": "2605.25991",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "big-data-lab-team/fuzzy-pytorch",
+      "docker": null,
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 3,
+      "influentialCitations": 0,
+      "openAlexCitations": 0,
+      "crossrefCitations": null,
+      "dataCiteCitations": 0,
+      "openCitationsCount": null,
+      "adsReads": 309,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 1,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 54,
+      "githubUniqueClones": 35,
+      "githubViews": 2,
+      "githubUniqueViews": 2,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+          "citations": 0,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2026,
+          "countsByYear": [],
+          "url": "https://doi.org/10.48550/arxiv.2605.25991"
+        },
+        "ads": {
+          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+          "recentReads": 309,
+          "citations": 0,
+          "bibcode": "2026arXiv260525991G",
+          "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260525991G/metrics"
+        },
+        "dataCite": {
+          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+          "citations": 0,
+          "views": 0,
+          "downloads": 0,
+          "url": "https://arxiv.org/abs/2605.25991"
+        },
+        "github": {
+          "title": "big-data-lab-team/fuzzy-pytorch",
+          "description": null,
+          "stars": 1,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 54,
+          "uniqueClones": 35,
+          "views": 2,
+          "uniqueViews": 2,
+          "url": "https://github.com/big-data-lab-team/fuzzy-pytorch"
+        }
+      }
+    },
+    "doi:10.1109/tc.2022.3224377": {
+      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+      "doi": "10.1109/tc.2022.3224377",
+      "arxiv": "2112.11508",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "yohanchatelain/pytracer",
+      "docker": null,
+      "pypi": "pytracer",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": null,
+      "openAlexCitations": 3,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 9,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 103,
+      "githubUniqueClones": 42,
+      "githubViews": 39,
+      "githubUniqueViews": 5,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": 278,
+      "pypiMonthly": 28,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 3,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2022,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "crossref": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 2,
+          "referencesCount": 43,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "ads": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2023ITCmp..72.1792C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
+        },
+        "github": {
+          "title": "yohanchatelain/pytracer",
+          "description": "Pytracer: Automatic python code instrumentation.",
+          "stars": 9,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 103,
+          "uniqueClones": 42,
+          "views": 39,
+          "uniqueViews": 5,
+          "url": "https://github.com/yohanchatelain/pytracer"
+        },
+        "pypi": {
+          "title": "pytracer",
+          "downloads": 278,
+          "monthlyDownloads": 28,
+          "url": "https://pypi.org/project/pytracer/"
+        }
+      }
+    },
+    "arxiv:2112.11508": {
+      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+      "doi": "10.1109/tc.2022.3224377",
+      "arxiv": "2112.11508",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "yohanchatelain/pytracer",
+      "docker": null,
+      "pypi": "pytracer",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": null,
+      "openAlexCitations": 3,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 9,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 103,
+      "githubUniqueClones": 42,
+      "githubViews": 39,
+      "githubUniqueViews": 5,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": 278,
+      "pypiMonthly": 28,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 3,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2022,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "crossref": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 2,
+          "referencesCount": 43,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "ads": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2023ITCmp..72.1792C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
+        },
+        "github": {
+          "title": "yohanchatelain/pytracer",
+          "description": "Pytracer: Automatic python code instrumentation.",
+          "stars": 9,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 103,
+          "uniqueClones": 42,
+          "views": 39,
+          "uniqueViews": 5,
+          "url": "https://github.com/yohanchatelain/pytracer"
+        },
+        "pypi": {
+          "title": "pytracer",
+          "downloads": 278,
+          "monthlyDownloads": 28,
+          "url": "https://pypi.org/project/pytracer/"
+        }
+      }
+    },
+    "github:yohanchatelain/pytracer": {
+      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+      "doi": "10.1109/tc.2022.3224377",
+      "arxiv": "2112.11508",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "yohanchatelain/pytracer",
+      "docker": null,
+      "pypi": "pytracer",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": null,
+      "openAlexCitations": 3,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 9,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 103,
+      "githubUniqueClones": 42,
+      "githubViews": 39,
+      "githubUniqueViews": 5,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": 278,
+      "pypiMonthly": 28,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 3,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2022,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "crossref": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 2,
+          "referencesCount": 43,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "ads": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2023ITCmp..72.1792C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
+        },
+        "github": {
+          "title": "yohanchatelain/pytracer",
+          "description": "Pytracer: Automatic python code instrumentation.",
+          "stars": 9,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 103,
+          "uniqueClones": 42,
+          "views": 39,
+          "uniqueViews": 5,
+          "url": "https://github.com/yohanchatelain/pytracer"
+        },
+        "pypi": {
+          "title": "pytracer",
+          "downloads": 278,
+          "monthlyDownloads": 28,
+          "url": "https://pypi.org/project/pytracer/"
+        }
+      }
+    },
+    "pypi:pytracer": {
+      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+      "doi": "10.1109/tc.2022.3224377",
+      "arxiv": "2112.11508",
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "yohanchatelain/pytracer",
+      "docker": null,
+      "pypi": "pytracer",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": true,
+      "oaStatus": "green",
+      "citations": 4,
+      "influentialCitations": null,
+      "openAlexCitations": 3,
+      "crossrefCitations": 2,
+      "dataCiteCitations": null,
+      "openCitationsCount": 4,
+      "adsReads": 0,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 9,
+      "githubForks": 3,
+      "githubDownloads": null,
+      "githubClones": 103,
+      "githubUniqueClones": 42,
+      "githubViews": 39,
+      "githubUniqueViews": 5,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": 278,
+      "pypiMonthly": 28,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 3,
+          "isOa": true,
+          "oaStatus": "green",
+          "year": 2022,
+          "countsByYear": [
+            {
+              "year": 2025,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2024,
+              "cited_by_count": 2
+            }
+          ],
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "crossref": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "citations": 2,
+          "referencesCount": 43,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "url": "https://doi.org/10.1109/tc.2022.3224377"
+        },
+        "ads": {
+          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
+          "recentReads": 0,
+          "citations": 1,
+          "bibcode": "2023ITCmp..72.1792C",
+          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
+        },
+        "openCitations": {
+          "citations": 4,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
+        },
+        "github": {
+          "title": "yohanchatelain/pytracer",
+          "description": "Pytracer: Automatic python code instrumentation.",
+          "stars": 9,
+          "forks": 3,
+          "downloads": 0,
+          "clones": 103,
+          "uniqueClones": 42,
+          "views": 39,
+          "uniqueViews": 5,
+          "url": "https://github.com/yohanchatelain/pytracer"
+        },
+        "pypi": {
+          "title": "pytracer",
+          "downloads": 278,
+          "monthlyDownloads": 28,
+          "url": "https://pypi.org/project/pytracer/"
+        }
+      }
+    },
+    "github:verificarlo/fuzzy": {
+      "title": "verificarlo/fuzzy",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/fuzzy",
+      "docker": "verificarlo/fuzzy",
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 17,
+      "githubForks": 16,
+      "githubDownloads": null,
+      "githubClones": 119,
+      "githubUniqueClones": 43,
+      "githubViews": 12,
+      "githubUniqueViews": 8,
+      "githubRepos": null,
+      "dockerPulls": 5296,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "verificarlo/fuzzy",
+          "description": "A fuzzy ecosystem for evaluating the stability of your computational tools.",
+          "stars": 17,
+          "forks": 16,
+          "downloads": 0,
+          "clones": 119,
+          "uniqueClones": 43,
+          "views": 12,
+          "uniqueViews": 8,
+          "url": "https://github.com/verificarlo/fuzzy"
+        },
+        "docker": {
+          "title": "verificarlo/fuzzy",
+          "pulls": 5296,
+          "stars": 0,
+          "url": "https://hub.docker.com/r/verificarlo/fuzzy"
+        }
+      }
+    },
+    "docker:verificarlo/fuzzy": {
+      "title": "verificarlo/fuzzy",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "verificarlo/fuzzy",
+      "docker": "verificarlo/fuzzy",
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 17,
+      "githubForks": 16,
+      "githubDownloads": null,
+      "githubClones": 119,
+      "githubUniqueClones": 43,
+      "githubViews": 12,
+      "githubUniqueViews": 8,
+      "githubRepos": null,
+      "dockerPulls": 5296,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "verificarlo/fuzzy",
+          "description": "A fuzzy ecosystem for evaluating the stability of your computational tools.",
+          "stars": 17,
+          "forks": 16,
+          "downloads": 0,
+          "clones": 119,
+          "uniqueClones": 43,
+          "views": 12,
+          "uniqueViews": 8,
+          "url": "https://github.com/verificarlo/fuzzy"
+        },
+        "docker": {
+          "title": "verificarlo/fuzzy",
+          "pulls": 5296,
+          "stars": 0,
+          "url": "https://hub.docker.com/r/verificarlo/fuzzy"
+        }
+      }
+    },
+    "github:LivingPark-MRI": {
+      "title": "LivingPark-MRI",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "LivingPark-MRI",
+      "docker": null,
+      "pypi": "livingpark-utils",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 21,
+      "githubForks": 57,
+      "githubDownloads": null,
+      "githubClones": 55,
+      "githubUniqueClones": 34,
+      "githubViews": 9,
+      "githubUniqueViews": 9,
+      "githubRepos": 19,
+      "dockerPulls": null,
+      "pypiDownloads": 338,
+      "pypiMonthly": 22,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "LivingPark-MRI",
+          "isOrg": true,
+          "repos": 19,
+          "stars": 21,
+          "forks": 57,
+          "downloads": 0,
+          "clones": 55,
+          "uniqueClones": 34,
+          "views": 9,
+          "uniqueViews": 9,
+          "url": "https://github.com/LivingPark-MRI"
+        },
+        "pypi": {
+          "title": "livingpark-utils",
+          "downloads": 338,
+          "monthlyDownloads": 22,
+          "url": "https://pypi.org/project/livingpark-utils/"
+        }
+      }
+    },
+    "pypi:livingpark-utils": {
+      "title": "LivingPark-MRI",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "LivingPark-MRI",
+      "docker": null,
+      "pypi": "livingpark-utils",
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 21,
+      "githubForks": 57,
+      "githubDownloads": null,
+      "githubClones": 55,
+      "githubUniqueClones": 34,
+      "githubViews": 9,
+      "githubUniqueViews": 9,
+      "githubRepos": 19,
+      "dockerPulls": null,
+      "pypiDownloads": 338,
+      "pypiMonthly": 22,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "LivingPark-MRI",
+          "isOrg": true,
+          "repos": 19,
+          "stars": 21,
+          "forks": 57,
+          "downloads": 0,
+          "clones": 55,
+          "uniqueClones": 34,
+          "views": 9,
+          "uniqueViews": 9,
+          "url": "https://github.com/LivingPark-MRI"
+        },
+        "pypi": {
+          "title": "livingpark-utils",
+          "downloads": 338,
+          "monthlyDownloads": 22,
+          "url": "https://pypi.org/project/livingpark-utils/"
+        }
+      }
+    },
+    "doi:10.1145/2700312": {
+      "title": "On the Trade-Offs among Performance, Energy, and Endurance in a Versatile Hybrid Drive",
+      "doi": "10.1145/2700312",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "benchmark-subsetting/cere",
+      "docker": null,
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": "closed",
+      "citations": 17,
+      "influentialCitations": null,
+      "openAlexCitations": 17,
+      "crossrefCitations": 11,
+      "dataCiteCitations": null,
+      "openCitationsCount": 10,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 40,
+      "githubForks": 21,
+      "githubDownloads": null,
+      "githubClones": null,
+      "githubUniqueClones": null,
+      "githubViews": null,
+      "githubUniqueViews": null,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "On the Trade-Offs among Performance, Energy, and Endurance in a Versatile Hybrid Drive",
+          "citations": 17,
+          "isOa": false,
+          "oaStatus": "closed",
+          "year": 2015,
+          "countsByYear": [
+            {
+              "year": 2023,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2019,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2017,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2016,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2015,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2014,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1145/2700312"
+        },
+        "crossref": {
+          "title": "On the Trade-Offs among Performance, Energy, and Endurance in a Versatile Hybrid Drive",
+          "citations": 11,
+          "referencesCount": 65,
+          "publisher": "Association for Computing Machinery (ACM)",
+          "url": "https://doi.org/10.1145/2700312"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 10,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1145%2F2700312"
+        },
+        "github": {
+          "title": "benchmark-subsetting/cere",
+          "description": "CERE: Codelet Extractor and REplayer",
+          "stars": 40,
+          "forks": 21,
+          "downloads": 0,
+          "clones": null,
+          "uniqueClones": null,
+          "views": null,
+          "uniqueViews": null,
+          "url": "https://github.com/benchmark-subsetting/cere"
+        }
+      }
+    },
+    "github:benchmark-subsetting/cere": {
+      "title": "On the Trade-Offs among Performance, Energy, and Endurance in a Versatile Hybrid Drive",
+      "doi": "10.1145/2700312",
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "benchmark-subsetting/cere",
+      "docker": null,
+      "pypi": null,
+      "npm": null,
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": "closed",
+      "citations": 17,
+      "influentialCitations": null,
+      "openAlexCitations": 17,
+      "crossrefCitations": 11,
+      "dataCiteCitations": null,
+      "openCitationsCount": 10,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 40,
+      "githubForks": 21,
+      "githubDownloads": null,
+      "githubClones": null,
+      "githubUniqueClones": null,
+      "githubViews": null,
+      "githubUniqueViews": null,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "openAlex": {
+          "title": "On the Trade-Offs among Performance, Energy, and Endurance in a Versatile Hybrid Drive",
+          "citations": 17,
+          "isOa": false,
+          "oaStatus": "closed",
+          "year": 2015,
+          "countsByYear": [
+            {
+              "year": 2023,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2022,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2021,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2020,
+              "cited_by_count": 2
+            },
+            {
+              "year": 2019,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2018,
+              "cited_by_count": 3
+            },
+            {
+              "year": 2017,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2016,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2015,
+              "cited_by_count": 1
+            },
+            {
+              "year": 2014,
+              "cited_by_count": 1
+            }
+          ],
+          "url": "https://doi.org/10.1145/2700312"
+        },
+        "crossref": {
+          "title": "On the Trade-Offs among Performance, Energy, and Endurance in a Versatile Hybrid Drive",
+          "citations": 11,
+          "referencesCount": 65,
+          "publisher": "Association for Computing Machinery (ACM)",
+          "url": "https://doi.org/10.1145/2700312"
+        },
+        "ads": {
+          "recentReads": null,
+          "citations": null,
+          "bibcode": null,
+          "url": null
+        },
+        "openCitations": {
+          "citations": 10,
+          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1145%2F2700312"
+        },
+        "github": {
+          "title": "benchmark-subsetting/cere",
+          "description": "CERE: Codelet Extractor and REplayer",
+          "stars": 40,
+          "forks": 21,
+          "downloads": 0,
+          "clones": null,
+          "uniqueClones": null,
+          "views": null,
+          "uniqueViews": null,
+          "url": "https://github.com/benchmark-subsetting/cere"
+        }
+      }
+    },
+    "github:yohanchatelain/citeometer": {
+      "title": "yohanchatelain/citeometer",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "yohanchatelain/citeometer",
+      "docker": null,
+      "pypi": null,
+      "npm": "citeometer",
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 0,
+      "githubForks": 0,
+      "githubDownloads": null,
+      "githubClones": 30,
+      "githubUniqueClones": 13,
+      "githubViews": 0,
+      "githubUniqueViews": 0,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "yohanchatelain/citeometer",
+          "description": "Live citation, reads & download metrics for your papers — a zero-dependency web component for academic websites",
+          "stars": 0,
+          "forks": 0,
+          "downloads": 0,
+          "clones": 30,
+          "uniqueClones": 13,
+          "views": 0,
+          "uniqueViews": 0,
+          "url": "https://github.com/yohanchatelain/citeometer"
+        }
+      }
+    },
+    "npm:citeometer": {
+      "title": "yohanchatelain/citeometer",
+      "doi": null,
+      "arxiv": null,
+      "biorxiv": null,
+      "zenodo": null,
+      "github": "yohanchatelain/citeometer",
+      "docker": null,
+      "pypi": null,
+      "npm": "citeometer",
+      "adsBibcode": null,
+      "publishedDoi": null,
+      "isOa": false,
+      "oaStatus": null,
+      "citations": null,
+      "influentialCitations": null,
+      "openAlexCitations": null,
+      "crossrefCitations": null,
+      "dataCiteCitations": null,
+      "openCitationsCount": null,
+      "adsReads": null,
+      "biorxivPdfs": null,
+      "biorxivViews": null,
+      "plosTotal": null,
+      "plosPdfs": null,
+      "zenodoDownloads": null,
+      "zenodoViews": null,
+      "dataCiteDownloads": null,
+      "dataCiteViews": null,
+      "githubStars": 0,
+      "githubForks": 0,
+      "githubDownloads": null,
+      "githubClones": 30,
+      "githubUniqueClones": 13,
+      "githubViews": 0,
+      "githubUniqueViews": 0,
+      "githubRepos": null,
+      "dockerPulls": null,
+      "pypiDownloads": null,
+      "pypiMonthly": null,
+      "npmDownloads": null,
+      "sources": {
+        "github": {
+          "title": "yohanchatelain/citeometer",
+          "description": "Live citation, reads & download metrics for your papers — a zero-dependency web component for academic websites",
+          "stars": 0,
+          "forks": 0,
+          "downloads": 0,
+          "clones": 30,
+          "uniqueClones": 13,
+          "views": 0,
+          "uniqueViews": 0,
+          "url": "https://github.com/yohanchatelain/citeometer"
         }
       }
     },
@@ -765,140 +2749,6 @@
         "openCitations": {
           "citations": 1,
           "url": "https://opencitations.net/index/api/v2/citations/doi:10.1371%2Fjournal.pone.0296725"
-        }
-      }
-    },
-    "doi:10.1109/tc.2022.3224377": {
-      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-      "doi": "10.1109/tc.2022.3224377",
-      "arxiv": "2112.11508",
-      "biorxiv": null,
-      "zenodo": null,
-      "github": null,
-      "adsBibcode": null,
-      "publishedDoi": null,
-      "isOa": true,
-      "oaStatus": "green",
-      "citations": 4,
-      "influentialCitations": null,
-      "openAlexCitations": 3,
-      "crossrefCitations": 2,
-      "dataCiteCitations": null,
-      "openCitationsCount": 4,
-      "adsReads": 0,
-      "biorxivPdfs": null,
-      "biorxivViews": null,
-      "plosTotal": null,
-      "plosPdfs": null,
-      "zenodoDownloads": null,
-      "zenodoViews": null,
-      "dataCiteDownloads": null,
-      "dataCiteViews": null,
-      "githubStars": null,
-      "githubDownloads": null,
-      "sources": {
-        "openAlex": {
-          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-          "citations": 3,
-          "isOa": true,
-          "oaStatus": "green",
-          "year": 2022,
-          "countsByYear": [
-            {
-              "year": 2025,
-              "cited_by_count": 1
-            },
-            {
-              "year": 2024,
-              "cited_by_count": 2
-            }
-          ],
-          "url": "https://doi.org/10.1109/tc.2022.3224377"
-        },
-        "crossref": {
-          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-          "citations": 2,
-          "referencesCount": 43,
-          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-          "url": "https://doi.org/10.1109/tc.2022.3224377"
-        },
-        "ads": {
-          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-          "recentReads": 0,
-          "citations": 1,
-          "bibcode": "2023ITCmp..72.1792C",
-          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
-        },
-        "openCitations": {
-          "citations": 4,
-          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
-        }
-      }
-    },
-    "arxiv:2112.11508": {
-      "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-      "doi": "10.1109/tc.2022.3224377",
-      "arxiv": "2112.11508",
-      "biorxiv": null,
-      "zenodo": null,
-      "github": null,
-      "adsBibcode": null,
-      "publishedDoi": null,
-      "isOa": true,
-      "oaStatus": "green",
-      "citations": 4,
-      "influentialCitations": null,
-      "openAlexCitations": 3,
-      "crossrefCitations": 2,
-      "dataCiteCitations": null,
-      "openCitationsCount": 4,
-      "adsReads": 0,
-      "biorxivPdfs": null,
-      "biorxivViews": null,
-      "plosTotal": null,
-      "plosPdfs": null,
-      "zenodoDownloads": null,
-      "zenodoViews": null,
-      "dataCiteDownloads": null,
-      "dataCiteViews": null,
-      "githubStars": null,
-      "githubDownloads": null,
-      "sources": {
-        "openAlex": {
-          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-          "citations": 3,
-          "isOa": true,
-          "oaStatus": "green",
-          "year": 2022,
-          "countsByYear": [
-            {
-              "year": 2025,
-              "cited_by_count": 1
-            },
-            {
-              "year": 2024,
-              "cited_by_count": 2
-            }
-          ],
-          "url": "https://doi.org/10.1109/tc.2022.3224377"
-        },
-        "crossref": {
-          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-          "citations": 2,
-          "referencesCount": 43,
-          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-          "url": "https://doi.org/10.1109/tc.2022.3224377"
-        },
-        "ads": {
-          "title": "PyTracer: Automatically Profiling Numerical Instabilities in Python",
-          "recentReads": 0,
-          "citations": 1,
-          "bibcode": "2023ITCmp..72.1792C",
-          "url": "https://ui.adsabs.harvard.edu/abs/2023ITCmp..72.1792C/metrics"
-        },
-        "openCitations": {
-          "citations": 4,
-          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Ftc.2022.3224377"
         }
       }
     },
@@ -1892,96 +3742,6 @@
         "openCitations": {
           "citations": 28,
           "url": "https://opencitations.net/index/api/v2/citations/doi:10.1007%2F978-3-030-29400-7_34"
-        }
-      }
-    },
-    "doi:10.1109/arith.2018.8464687": {
-      "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
-      "doi": "10.1109/arith.2018.8464687",
-      "arxiv": null,
-      "biorxiv": null,
-      "zenodo": null,
-      "github": null,
-      "adsBibcode": null,
-      "publishedDoi": null,
-      "isOa": true,
-      "oaStatus": "green",
-      "citations": 9,
-      "influentialCitations": 0,
-      "openAlexCitations": 9,
-      "crossrefCitations": 8,
-      "dataCiteCitations": null,
-      "openCitationsCount": 7,
-      "adsReads": 0,
-      "biorxivPdfs": null,
-      "biorxivViews": null,
-      "plosTotal": null,
-      "plosPdfs": null,
-      "zenodoDownloads": null,
-      "zenodoViews": null,
-      "dataCiteDownloads": null,
-      "dataCiteViews": null,
-      "githubStars": null,
-      "githubDownloads": null,
-      "sources": {
-        "semanticScholar": {
-          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
-          "citations": 9,
-          "influentialCitations": 0,
-          "year": 2018,
-          "url": "https://www.semanticscholar.org/paper/33d80012a12f780f03471d0fcc37104dcb8f97a8"
-        },
-        "openAlex": {
-          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
-          "citations": 9,
-          "isOa": true,
-          "oaStatus": "green",
-          "year": 2018,
-          "countsByYear": [
-            {
-              "year": 2024,
-              "cited_by_count": 1
-            },
-            {
-              "year": 2023,
-              "cited_by_count": 1
-            },
-            {
-              "year": 2021,
-              "cited_by_count": 2
-            },
-            {
-              "year": 2020,
-              "cited_by_count": 1
-            },
-            {
-              "year": 2019,
-              "cited_by_count": 3
-            },
-            {
-              "year": 2018,
-              "cited_by_count": 1
-            }
-          ],
-          "url": "https://doi.org/10.1109/arith.2018.8464687"
-        },
-        "crossref": {
-          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
-          "citations": 8,
-          "referencesCount": 26,
-          "publisher": "IEEE",
-          "url": "https://doi.org/10.1109/arith.2018.8464687"
-        },
-        "ads": {
-          "title": "VeriTracer: Context-enriched tracer for floating-point arithmetic analysis",
-          "recentReads": 0,
-          "citations": 0,
-          "bibcode": "2018arit.conf...10C",
-          "url": "https://ui.adsabs.harvard.edu/abs/2018arit.conf...10C/metrics"
-        },
-        "openCitations": {
-          "citations": 7,
-          "url": "https://opencitations.net/index/api/v2/citations/doi:10.1109%2Farith.2018.8464687"
         }
       }
     },

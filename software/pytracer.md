@@ -13,6 +13,8 @@ software:
 
 PyTracer records and compares repeated executions of Python scientific workloads to locate functions associated with numerical variability. I developed PyTracer and coauthored its original study with Nigel Yong, Gregory Kiar, and Tristan Glatard. The [current repository](https://github.com/yohanchatelain/pytracer) documents PyTracer 2, a rewrite for modern Python; the original paper describes the earlier system.
 
+<cite-o-meter github="yohanchatelain/pytracer" pypi="pytracer" doi="10.1109/tc.2022.3224377" arxiv="2112.11508" layout="badge"></cite-o-meter>
+
 ## From output disagreement to attribution
 
 An end-to-end output distribution shows that a result varies, but does not identify the functions that amplify the variation. PyTracer captures function inputs and outputs and aligns corresponding events across executions. This supports inspection of variability at intermediate program boundaries.

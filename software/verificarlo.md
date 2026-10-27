@@ -13,6 +13,8 @@ software:
 
 Verificarlo instruments floating-point computations during compilation and delegates their execution to configurable arithmetic backends. It supports experiments on rounding sensitivity, reduced precision, and the numerical reproducibility of scientific programs. I contribute to its numerical-analysis and instrumentation tools; my doctoral work included Verificarlo, VeriTracer, and VPREC.
 
+<cite-o-meter github="verificarlo/verificarlo" docker="verificarlo/verificarlo" doi="10.1109/arith.2016.31" layout="badge"></cite-o-meter>
+
 ## Scientific problem and instrumentation model
 
 A floating-point program computes an approximation to a real-arithmetic expression. Changing an instruction sequence, compiler optimization, library implementation, or parallel reduction order can change that approximation. Bitwise disagreement alone does not establish whether the difference matters for a scientific conclusion.

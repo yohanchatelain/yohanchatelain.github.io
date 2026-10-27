@@ -13,6 +13,8 @@ software:
 
 Fuzzy PyTorch combines an instrumented PyTorch build with Verificarlo and the PRISM backend to evaluate floating-point variability in deep-learning computations. I created the [PRISM library](https://github.com/verificarlo/prism), contributed to Fuzzy PyTorch, and coauthored the [TMLR paper](/2026/02/18/fuzzy-pytorch-numerical-variability-deep-learning.html) with Inés Gonzalez Pepe, Hiba Akhaddar, and Tristan Glatard.
 
+<cite-o-meter github="big-data-lab-team/fuzzy-pytorch" arxiv="2605.25991" layout="badge"></cite-o-meter>
+
 ## Which uncertainty is being evaluated?
 
 For a fixed model $$f_\theta$$ and input $$x$$, write an instrumented inference result as $$Y_r=f_\theta(x;\omega_r)$$. Here $$\omega_r$$ changes arithmetic realizations; it does not denote a new set of learned weights. Hold the checkpoint, preprocessing, dropout configuration, and application-level random seeds fixed when isolating arithmetic sensitivity.
