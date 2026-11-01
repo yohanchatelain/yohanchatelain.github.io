@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:15:59.097Z",
+  "generatedAt": "2026-11-01T06:16:52.212Z",
   "papers": {
     "doi:10.1109/arith.2016.31": {
       "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
@@ -21,7 +21,7 @@
       "crossrefCitations": 72,
       "dataCiteCitations": null,
       "openCitationsCount": 61,
-      "adsReads": 296,
+      "adsReads": 295,
       "biorxivPdfs": null,
       "biorxivViews": null,
       "plosTotal": null,
@@ -33,12 +33,12 @@
       "githubStars": 104,
       "githubForks": 29,
       "githubDownloads": 49,
-      "githubClones": 847,
-      "githubUniqueClones": 209,
-      "githubViews": 105,
-      "githubUniqueViews": 79,
+      "githubClones": 846,
+      "githubUniqueClones": 208,
+      "githubViews": 108,
+      "githubUniqueViews": 80,
       "githubRepos": null,
-      "dockerPulls": 5304,
+      "dockerPulls": 5318,
       "pypiDownloads": null,
       "pypiMonthly": null,
       "npmDownloads": null,
@@ -89,7 +89,7 @@
         },
         "ads": {
           "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
-          "recentReads": 296,
+          "recentReads": 295,
           "citations": 13,
           "bibcode": "2016arit.conf...17D",
           "url": "https://ui.adsabs.harvard.edu/abs/2016arit.conf...17D/metrics"
@@ -104,15 +104,15 @@
           "stars": 104,
           "forks": 29,
           "downloads": 49,
-          "clones": 847,
-          "uniqueClones": 209,
-          "views": 105,
-          "uniqueViews": 79,
+          "clones": 846,
+          "uniqueClones": 208,
+          "views": 108,
+          "uniqueViews": 80,
           "url": "https://github.com/verificarlo/verificarlo"
         },
         "docker": {
           "title": "verificarlo/verificarlo",
-          "pulls": 5304,
+          "pulls": 5318,
           "stars": 1,
           "url": "https://hub.docker.com/r/verificarlo/verificarlo"
         }
@@ -138,7 +138,7 @@
       "crossrefCitations": 72,
       "dataCiteCitations": null,
       "openCitationsCount": 61,
-      "adsReads": 296,
+      "adsReads": 295,
       "biorxivPdfs": null,
       "biorxivViews": null,
       "plosTotal": null,
@@ -150,12 +150,12 @@
       "githubStars": 104,
       "githubForks": 29,
       "githubDownloads": 49,
-      "githubClones": 847,
-      "githubUniqueClones": 209,
-      "githubViews": 105,
-      "githubUniqueViews": 79,
+      "githubClones": 846,
+      "githubUniqueClones": 208,
+      "githubViews": 108,
+      "githubUniqueViews": 80,
       "githubRepos": null,
-      "dockerPulls": 5304,
+      "dockerPulls": 5318,
       "pypiDownloads": null,
       "pypiMonthly": null,
       "npmDownloads": null,
@@ -206,7 +206,7 @@
         },
         "ads": {
           "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
-          "recentReads": 296,
+          "recentReads": 295,
           "citations": 13,
           "bibcode": "2016arit.conf...17D",
           "url": "https://ui.adsabs.harvard.edu/abs/2016arit.conf...17D/metrics"
@@ -221,15 +221,15 @@
           "stars": 104,
           "forks": 29,
           "downloads": 49,
-          "clones": 847,
-          "uniqueClones": 209,
-          "views": 105,
-          "uniqueViews": 79,
+          "clones": 846,
+          "uniqueClones": 208,
+          "views": 108,
+          "uniqueViews": 80,
           "url": "https://github.com/verificarlo/verificarlo"
         },
         "docker": {
           "title": "verificarlo/verificarlo",
-          "pulls": 5304,
+          "pulls": 5318,
           "stars": 1,
           "url": "https://hub.docker.com/r/verificarlo/verificarlo"
         }
@@ -255,7 +255,7 @@
       "crossrefCitations": 72,
       "dataCiteCitations": null,
       "openCitationsCount": 61,
-      "adsReads": 296,
+      "adsReads": 295,
       "biorxivPdfs": null,
       "biorxivViews": null,
       "plosTotal": null,
@@ -267,12 +267,12 @@
       "githubStars": 104,
       "githubForks": 29,
       "githubDownloads": 49,
-      "githubClones": 847,
-      "githubUniqueClones": 209,
-      "githubViews": 105,
-      "githubUniqueViews": 79,
+      "githubClones": 846,
+      "githubUniqueClones": 208,
+      "githubViews": 108,
+      "githubUniqueViews": 80,
       "githubRepos": null,
-      "dockerPulls": 5304,
+      "dockerPulls": 5318,
       "pypiDownloads": null,
       "pypiMonthly": null,
       "npmDownloads": null,
@@ -323,7 +323,7 @@
         },
         "ads": {
           "title": "Verificarlo: Checking Floating Point Accuracy through Monte Carlo Arithmetic",
-          "recentReads": 296,
+          "recentReads": 295,
           "citations": 13,
           "bibcode": "2016arit.conf...17D",
           "url": "https://ui.adsabs.harvard.edu/abs/2016arit.conf...17D/metrics"
@@ -338,15 +338,15 @@
           "stars": 104,
           "forks": 29,
           "downloads": 49,
-          "clones": 847,
-          "uniqueClones": 209,
-          "views": 105,
-          "uniqueViews": 79,
+          "clones": 846,
+          "uniqueClones": 208,
+          "views": 108,
+          "uniqueViews": 80,
           "url": "https://github.com/verificarlo/verificarlo"
         },
         "docker": {
           "title": "verificarlo/verificarlo",
-          "pulls": 5304,
+          "pulls": 5318,
           "stars": 1,
           "url": "https://hub.docker.com/r/verificarlo/verificarlo"
         }
@@ -384,8 +384,8 @@
       "githubStars": 3,
       "githubForks": 2,
       "githubDownloads": 2,
-      "githubClones": 114,
-      "githubUniqueClones": 107,
+      "githubClones": 112,
+      "githubUniqueClones": 106,
       "githubViews": 3,
       "githubUniqueViews": 3,
       "githubRepos": null,
@@ -400,8 +400,8 @@
           "stars": 3,
           "forks": 2,
           "downloads": 2,
-          "clones": 114,
-          "uniqueClones": 107,
+          "clones": 112,
+          "uniqueClones": 106,
           "views": 3,
           "uniqueViews": 3,
           "url": "https://github.com/verificarlo/prism"
@@ -440,8 +440,8 @@
       "githubStars": 7,
       "githubForks": 13,
       "githubDownloads": null,
-      "githubClones": 99,
-      "githubUniqueClones": 85,
+      "githubClones": 108,
+      "githubUniqueClones": 92,
       "githubViews": 30,
       "githubUniqueViews": 29,
       "githubRepos": 20,
@@ -457,8 +457,8 @@
           "stars": 7,
           "forks": 13,
           "downloads": 0,
-          "clones": 99,
-          "uniqueClones": 85,
+          "clones": 108,
+          "uniqueClones": 92,
           "views": 30,
           "uniqueViews": 29,
           "url": "https://github.com/interflop"
@@ -497,13 +497,13 @@
       "githubStars": 4,
       "githubForks": 3,
       "githubDownloads": null,
-      "githubClones": 169,
-      "githubUniqueClones": 54,
+      "githubClones": 168,
+      "githubUniqueClones": 53,
       "githubViews": 17,
       "githubUniqueViews": 14,
       "githubRepos": null,
       "dockerPulls": null,
-      "pypiDownloads": 1833,
+      "pypiDownloads": 1838,
       "pypiMonthly": 164,
       "npmDownloads": null,
       "sources": {
@@ -539,15 +539,15 @@
           "stars": 4,
           "forks": 3,
           "downloads": 0,
-          "clones": 169,
-          "uniqueClones": 54,
+          "clones": 168,
+          "uniqueClones": 53,
           "views": 17,
           "uniqueViews": 14,
           "url": "https://github.com/verificarlo/significantdigits"
         },
         "pypi": {
           "title": "significantdigits",
-          "downloads": 1833,
+          "downloads": 1838,
           "monthlyDownloads": 164,
           "url": "https://pypi.org/project/significantdigits/"
         }
@@ -585,13 +585,13 @@
       "githubStars": 4,
       "githubForks": 3,
       "githubDownloads": null,
-      "githubClones": 169,
-      "githubUniqueClones": 54,
+      "githubClones": 168,
+      "githubUniqueClones": 53,
       "githubViews": 17,
       "githubUniqueViews": 14,
       "githubRepos": null,
       "dockerPulls": null,
-      "pypiDownloads": 1833,
+      "pypiDownloads": 1838,
       "pypiMonthly": 164,
       "npmDownloads": null,
       "sources": {
@@ -627,15 +627,15 @@
           "stars": 4,
           "forks": 3,
           "downloads": 0,
-          "clones": 169,
-          "uniqueClones": 54,
+          "clones": 168,
+          "uniqueClones": 53,
           "views": 17,
           "uniqueViews": 14,
           "url": "https://github.com/verificarlo/significantdigits"
         },
         "pypi": {
           "title": "significantdigits",
-          "downloads": 1833,
+          "downloads": 1838,
           "monthlyDownloads": 164,
           "url": "https://pypi.org/project/significantdigits/"
         }
@@ -673,13 +673,13 @@
       "githubStars": 4,
       "githubForks": 3,
       "githubDownloads": null,
-      "githubClones": 169,
-      "githubUniqueClones": 54,
+      "githubClones": 168,
+      "githubUniqueClones": 53,
       "githubViews": 17,
       "githubUniqueViews": 14,
       "githubRepos": null,
       "dockerPulls": null,
-      "pypiDownloads": 1833,
+      "pypiDownloads": 1838,
       "pypiMonthly": 164,
       "npmDownloads": null,
       "sources": {
@@ -715,15 +715,15 @@
           "stars": 4,
           "forks": 3,
           "downloads": 0,
-          "clones": 169,
-          "uniqueClones": 54,
+          "clones": 168,
+          "uniqueClones": 53,
           "views": 17,
           "uniqueViews": 14,
           "url": "https://github.com/verificarlo/significantdigits"
         },
         "pypi": {
           "title": "significantdigits",
-          "downloads": 1833,
+          "downloads": 1838,
           "monthlyDownloads": 164,
           "url": "https://pypi.org/project/significantdigits/"
         }
@@ -930,13 +930,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
-          "citations": 3,
-          "influentialCitations": 0,
-          "year": 2026,
-          "url": "https://www.semanticscholar.org/paper/8748521de020743bc41b2dfebe38aff855dedd57"
-        },
         "openAlex": {
           "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
           "citations": 0,
@@ -994,8 +987,8 @@
       "githubStars": 1,
       "githubForks": 3,
       "githubDownloads": null,
-      "githubClones": 57,
-      "githubUniqueClones": 37,
+      "githubClones": 56,
+      "githubUniqueClones": 36,
       "githubViews": 6,
       "githubUniqueViews": 6,
       "githubRepos": null,
@@ -1040,8 +1033,8 @@
           "stars": 1,
           "forks": 3,
           "downloads": 0,
-          "clones": 57,
-          "uniqueClones": 37,
+          "clones": 56,
+          "uniqueClones": 36,
           "views": 6,
           "uniqueViews": 6,
           "url": "https://github.com/big-data-lab-team/fuzzy-pytorch"
@@ -1254,8 +1247,8 @@
       "githubStars": 9,
       "githubForks": 3,
       "githubDownloads": null,
-      "githubClones": 105,
-      "githubUniqueClones": 44,
+      "githubClones": 103,
+      "githubUniqueClones": 42,
       "githubViews": 45,
       "githubUniqueViews": 11,
       "githubRepos": null,
@@ -1313,8 +1306,8 @@
           "stars": 9,
           "forks": 3,
           "downloads": 0,
-          "clones": 105,
-          "uniqueClones": 44,
+          "clones": 103,
+          "uniqueClones": 42,
           "views": 45,
           "uniqueViews": 11,
           "url": "https://github.com/yohanchatelain/pytracer"
@@ -1359,8 +1352,8 @@
       "githubStars": 9,
       "githubForks": 3,
       "githubDownloads": null,
-      "githubClones": 105,
-      "githubUniqueClones": 44,
+      "githubClones": 103,
+      "githubUniqueClones": 42,
       "githubViews": 45,
       "githubUniqueViews": 11,
       "githubRepos": null,
@@ -1418,8 +1411,8 @@
           "stars": 9,
           "forks": 3,
           "downloads": 0,
-          "clones": 105,
-          "uniqueClones": 44,
+          "clones": 103,
+          "uniqueClones": 42,
           "views": 45,
           "uniqueViews": 11,
           "url": "https://github.com/yohanchatelain/pytracer"
@@ -1469,7 +1462,7 @@
       "githubViews": 17,
       "githubUniqueViews": 13,
       "githubRepos": null,
-      "dockerPulls": 5323,
+      "dockerPulls": 5324,
       "pypiDownloads": null,
       "pypiMonthly": null,
       "npmDownloads": null,
@@ -1488,7 +1481,7 @@
         },
         "docker": {
           "title": "verificarlo/fuzzy",
-          "pulls": 5323,
+          "pulls": 5324,
           "stars": 0,
           "url": "https://hub.docker.com/r/verificarlo/fuzzy"
         }
@@ -1531,7 +1524,7 @@
       "githubViews": 17,
       "githubUniqueViews": 13,
       "githubRepos": null,
-      "dockerPulls": 5323,
+      "dockerPulls": 5324,
       "pypiDownloads": null,
       "pypiMonthly": null,
       "npmDownloads": null,
@@ -1550,7 +1543,7 @@
         },
         "docker": {
           "title": "verificarlo/fuzzy",
-          "pulls": 5323,
+          "pulls": 5324,
           "stars": 0,
           "url": "https://hub.docker.com/r/verificarlo/fuzzy"
         }
@@ -1588,13 +1581,13 @@
       "githubStars": 21,
       "githubForks": 57,
       "githubDownloads": null,
-      "githubClones": 65,
-      "githubUniqueClones": 49,
-      "githubViews": 10,
+      "githubClones": 63,
+      "githubUniqueClones": 47,
+      "githubViews": 13,
       "githubUniqueViews": 10,
       "githubRepos": 19,
       "dockerPulls": null,
-      "pypiDownloads": 344,
+      "pypiDownloads": 345,
       "pypiMonthly": 22,
       "npmDownloads": null,
       "sources": {
@@ -1605,15 +1598,15 @@
           "stars": 21,
           "forks": 57,
           "downloads": 0,
-          "clones": 65,
-          "uniqueClones": 49,
-          "views": 10,
+          "clones": 63,
+          "uniqueClones": 47,
+          "views": 13,
           "uniqueViews": 10,
           "url": "https://github.com/LivingPark-MRI"
         },
         "pypi": {
           "title": "livingpark-utils",
-          "downloads": 344,
+          "downloads": 345,
           "monthlyDownloads": 22,
           "url": "https://pypi.org/project/livingpark-utils/"
         }
@@ -1651,13 +1644,13 @@
       "githubStars": 21,
       "githubForks": 57,
       "githubDownloads": null,
-      "githubClones": 65,
-      "githubUniqueClones": 49,
-      "githubViews": 10,
+      "githubClones": 63,
+      "githubUniqueClones": 47,
+      "githubViews": 13,
       "githubUniqueViews": 10,
       "githubRepos": 19,
       "dockerPulls": null,
-      "pypiDownloads": 344,
+      "pypiDownloads": 345,
       "pypiMonthly": 22,
       "npmDownloads": null,
       "sources": {
@@ -1668,15 +1661,15 @@
           "stars": 21,
           "forks": 57,
           "downloads": 0,
-          "clones": 65,
-          "uniqueClones": 49,
-          "views": 10,
+          "clones": 63,
+          "uniqueClones": 47,
+          "views": 13,
           "uniqueViews": 10,
           "url": "https://github.com/LivingPark-MRI"
         },
         "pypi": {
           "title": "livingpark-utils",
-          "downloads": 344,
+          "downloads": 345,
           "monthlyDownloads": 22,
           "url": "https://pypi.org/project/livingpark-utils/"
         }
@@ -1974,8 +1967,8 @@
       "githubStars": 0,
       "githubForks": 0,
       "githubDownloads": null,
-      "githubClones": 164,
-      "githubUniqueClones": 71,
+      "githubClones": 213,
+      "githubUniqueClones": 95,
       "githubViews": 3,
       "githubUniqueViews": 1,
       "githubRepos": null,
@@ -1990,8 +1983,8 @@
           "stars": 0,
           "forks": 0,
           "downloads": 0,
-          "clones": 164,
-          "uniqueClones": 71,
+          "clones": 213,
+          "uniqueClones": 95,
           "views": 3,
           "uniqueViews": 1,
           "url": "https://github.com/yohanchatelain/citeometer"
@@ -2035,8 +2028,8 @@
       "githubStars": 0,
       "githubForks": 0,
       "githubDownloads": null,
-      "githubClones": 164,
-      "githubUniqueClones": 71,
+      "githubClones": 213,
+      "githubUniqueClones": 95,
       "githubViews": 3,
       "githubUniqueViews": 1,
       "githubRepos": null,
@@ -2051,8 +2044,8 @@
           "stars": 0,
           "forks": 0,
           "downloads": 0,
-          "clones": 164,
-          "uniqueClones": 71,
+          "clones": 213,
+          "uniqueClones": 95,
           "views": 3,
           "uniqueViews": 1,
           "url": "https://github.com/yohanchatelain/citeometer"
@@ -2183,6 +2176,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
+          "citations": 1,
+          "influentialCitations": 0,
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/5bcb97459f2447c849f9682a9394b75e6f6b69c4"
+        },
         "openAlex": {
           "title": "Open-source platforms to investigate analytical flexibility in neuroimaging",
           "citations": 1,
@@ -2264,6 +2264,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "An analysis of performance bottlenecks in MRI preprocessing",
+          "citations": 7,
+          "influentialCitations": 0,
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/a488274db8430d8ba543e510672068e2d3abab9c"
+        },
         "openAlex": {
           "title": "An analysis of performance bottlenecks in MRI preprocessing",
           "citations": 4,
@@ -2353,13 +2360,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
-          "citations": 6,
-          "influentialCitations": 0,
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/cd7d366d2c91fd4bfdcf165827fc59f876fced4e"
-        },
         "openAlex": {
           "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
           "citations": 7,
@@ -2444,13 +2444,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
-          "citations": 6,
-          "influentialCitations": 0,
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/cd7d366d2c91fd4bfdcf165827fc59f876fced4e"
-        },
         "openAlex": {
           "title": "A Numerical Variability Approach to Results Stability Tests and Its Application to Neuroimaging",
           "citations": 7,
@@ -2516,8 +2509,8 @@
       "adsReads": 0,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 2295,
-      "plosPdfs": 1340,
+      "plosTotal": 2296,
+      "plosPdfs": 1341,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -2535,13 +2528,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
-          "citations": 10,
-          "influentialCitations": 0,
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/eafe98571ec6ec98e2eaf8a3feab819b7660c57e"
-        },
         "openAlex": {
           "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
           "citations": 9,
@@ -2578,8 +2564,8 @@
           "url": "https://europepmc.org/article/PMC/PMC10830012"
         },
         "plos": {
-          "total": 2295,
-          "pdf": 1340,
+          "total": 2296,
+          "pdf": 1341,
           "html": 720,
           "xml": 235,
           "url": "https://doi.org/10.1371/journal.pone.0295069"
@@ -2620,8 +2606,8 @@
       "adsReads": 0,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 2295,
-      "plosPdfs": 1340,
+      "plosTotal": 2296,
+      "plosPdfs": 1341,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -2639,13 +2625,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
-          "citations": 10,
-          "influentialCitations": 0,
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/eafe98571ec6ec98e2eaf8a3feab819b7660c57e"
-        },
         "openAlex": {
           "title": "Longitudinal brain structure changes in Parkinson’s disease: A replication study",
           "citations": 9,
@@ -2682,8 +2661,8 @@
           "url": "https://europepmc.org/article/PMC/PMC10830012"
         },
         "plos": {
-          "total": 2295,
-          "pdf": 1340,
+          "total": 2296,
+          "pdf": 1341,
           "html": 720,
           "xml": 235,
           "url": "https://doi.org/10.1371/journal.pone.0295069"
@@ -2724,8 +2703,8 @@
       "adsReads": 281,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 1950,
-      "plosPdfs": 1319,
+      "plosTotal": 1952,
+      "plosPdfs": 1320,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -2782,10 +2761,10 @@
           "url": "https://europepmc.org/article/PMC/PMC10824456"
         },
         "plos": {
-          "total": 1950,
-          "pdf": 1319,
+          "total": 1952,
+          "pdf": 1320,
           "html": 352,
-          "xml": 279,
+          "xml": 280,
           "url": "https://doi.org/10.1371/journal.pone.0296725"
         },
         "ads": {
@@ -2824,8 +2803,8 @@
       "adsReads": 281,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 1950,
-      "plosPdfs": 1319,
+      "plosTotal": 1952,
+      "plosPdfs": 1320,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -2882,10 +2861,10 @@
           "url": "https://europepmc.org/article/PMC/PMC10824456"
         },
         "plos": {
-          "total": 1950,
-          "pdf": 1319,
+          "total": 1952,
+          "pdf": 1320,
           "html": 352,
-          "xml": 279,
+          "xml": 280,
           "url": "https://doi.org/10.1371/journal.pone.0296725"
         },
         "ads": {
@@ -2924,8 +2903,8 @@
       "adsReads": 0,
       "biorxivPdfs": null,
       "biorxivViews": null,
-      "plosTotal": 2282,
-      "plosPdfs": 1215,
+      "plosTotal": 2286,
+      "plosPdfs": 1217,
       "zenodoDownloads": null,
       "zenodoViews": null,
       "dataCiteDownloads": null,
@@ -2943,13 +2922,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
-          "citations": 15,
-          "influentialCitations": 0,
-          "year": 2021,
-          "url": "https://www.semanticscholar.org/paper/36f521633a27726771e4bebf23035bcf54b7ce67"
-        },
         "openAlex": {
           "title": "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks",
           "citations": 19,
@@ -3002,10 +2974,10 @@
           "url": "https://europepmc.org/article/PMC/PMC8559953"
         },
         "plos": {
-          "total": 2282,
-          "pdf": 1215,
+          "total": 2286,
+          "pdf": 1217,
           "html": 533,
-          "xml": 534,
+          "xml": 536,
           "url": "https://doi.org/10.1371/journal.pone.0250755"
         },
         "ads": {
@@ -3063,13 +3035,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Piecewise holistic autotuning of parallel programs with CERE",
-          "citations": 9,
-          "influentialCitations": 0,
-          "year": 2017,
-          "url": "https://www.semanticscholar.org/paper/f5cc5e82c0a64171b9d9be799fb28c3e7fedbeef"
-        },
         "openAlex": {
           "title": "Piecewise holistic autotuning of parallel programs with CERE",
           "citations": 9,
@@ -3165,6 +3130,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation",
+          "citations": 0,
+          "influentialCitations": 0,
+          "year": 2025,
+          "url": "https://www.semanticscholar.org/paper/8b32b20abcb19862c09d478252f1bc07b8bf3673"
+        },
         "openAlex": {
           "title": "Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation",
           "citations": 1,
@@ -3237,13 +3209,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
-          "citations": 2,
-          "influentialCitations": 0,
-          "year": 2025,
-          "url": "https://www.semanticscholar.org/paper/e02c3a490f13e90ae2c0417acb1b275fe1f8e5d4"
-        },
         "openAlex": {
           "title": "Numerical Uncertainty in Linear Registration: An Experimental Study",
           "citations": 2,
@@ -3410,6 +3375,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
+          "citations": 8,
+          "influentialCitations": 0,
+          "year": 2023,
+          "url": "https://www.semanticscholar.org/paper/a159d33d6b19758d6613e487f9467a71c841a3f6"
+        },
         "openAlex": {
           "title": "Numerical Uncertainty of Convolutional Neural Networks Inference for Structural Brain MRI Analysis",
           "citations": 5,
@@ -3581,13 +3553,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Reproducibility of Tumor Segmentation Outcomes with a Deep Learning Model",
-          "citations": 3,
-          "influentialCitations": 0,
-          "year": 2023,
-          "url": "https://www.semanticscholar.org/paper/412546ac41fd0ff01c6a5eead5251a787d72b54a"
-        },
         "openAlex": {
           "title": "Reproducibility of Tumor Segmentation Outcomes with a Deep Learning Model",
           "citations": 4,
@@ -3672,6 +3637,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 4,
+          "influentialCitations": 0,
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/7fe6aa58014e61d22c5b0e33e62c5d329f2dc8f3"
+        },
         "openAlex": {
           "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
           "citations": 1,
@@ -3748,6 +3720,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
+          "citations": 4,
+          "influentialCitations": 0,
+          "year": 2021,
+          "url": "https://www.semanticscholar.org/paper/7fe6aa58014e61d22c5b0e33e62c5d329f2dc8f3"
+        },
         "openAlex": {
           "title": "Reducing numerical precision preserves classification accuracy in Mondrian Forests",
           "citations": 1,
@@ -4008,13 +3987,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Automatic Exploration of Reduced Floating-Point Representations in Iterative Methods",
-          "citations": 30,
-          "influentialCitations": 2,
-          "year": 2019,
-          "url": "https://www.semanticscholar.org/paper/0590bab91aaeb9cb4a06a36373276e508539199f"
-        },
         "openAlex": {
           "title": "Automatic Exploration of Reduced Floating-Point Representations in Iterative Methods",
           "citations": 32,
@@ -4253,6 +4225,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
+          "citations": 0,
+          "influentialCitations": 0,
+          "year": 2026,
+          "url": "https://www.semanticscholar.org/paper/e00dc2636837914898957119f309d3f82a7dd215"
+        },
         "openAlex": {
           "title": "Untrained Convolutional Neural Networks as Feature Extractors for Structural MRI",
           "citations": 0,
@@ -4332,13 +4311,6 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
-        "semanticScholar": {
-          "title": "Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging",
-          "citations": 1,
-          "influentialCitations": 0,
-          "year": 2026,
-          "url": "https://www.semanticscholar.org/paper/e6a185ca1965b61b23d94584e35c0849678521f5"
-        },
         "openAlex": {
           "title": "Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging",
           "citations": 0,
@@ -4385,8 +4357,8 @@
       "dataCiteCitations": null,
       "openCitationsCount": 0,
       "adsReads": null,
-      "biorxivPdfs": 427,
-      "biorxivViews": 827,
+      "biorxivPdfs": 428,
+      "biorxivViews": 830,
       "plosTotal": null,
       "plosPdfs": null,
       "zenodoDownloads": null,
@@ -4429,8 +4401,8 @@
         },
         "biorxiv": {
           "title": "Numerical Variability of functional MRI Graph Measures",
-          "pdfs": null,
-          "views": null,
+          "pdfs": 428,
+          "views": 830,
           "doi": "10.64898/2025.12.22.695524",
           "publishedDoi": null,
           "versions": 3,
@@ -4485,6 +4457,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson’s disease",
+          "citations": 2,
+          "influentialCitations": 0,
+          "year": 2024,
+          "url": "https://www.semanticscholar.org/paper/f79e1c365fe573cf93b365611ac2a866e96c2473"
+        },
         "openAlex": {
           "title": "The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson’s disease",
           "citations": 4,
@@ -4668,6 +4647,13 @@
       "pypiMonthly": null,
       "npmDownloads": null,
       "sources": {
+        "semanticScholar": {
+          "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
+          "citations": 9,
+          "influentialCitations": 0,
+          "year": 2020,
+          "url": "https://www.semanticscholar.org/paper/58621b70e6a8bc1ff13c08eae8a8ade85b67bb77"
+        },
         "openAlex": {
           "title": "Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics",
           "citations": 1,
