@@ -4,7 +4,7 @@ permalink: /research
 layout: page
 nav_title: "Research"
 description: "Publications by Yohan Chatelain on numerical variability, floating-point analysis, deep learning, and reproducible neuroimaging."
-last_modified_at: "2026-10-08"
+last_modified_at: "2026-11-24"
 ---
 
 
@@ -42,21 +42,25 @@ Inés Gonzalez Pepe, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard.
 Gregory Kiar, **Yohan Chatelain**, Pablo de Oliveira Castro, Eric Petit, Ariel Rokem, Gaël Varoquaux, Bratislav Misic, Alan C. Evans, Tristan Glatard.
 *In PLOS ONE (2021).* \\
    <cite-o-meter doi="10.1371/journal.pone.0250755" layout="badge" lazy="true"></cite-o-meter>
-10. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
+10. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://doi.org/10.51628/001c.28328)**. \\
+Gregory Kiar, **Yohan Chatelain**, Ali Salari, Alan C. Evans, Tristan Glatard.
+*Neurons, Behavior, Data Analysis, and Theory 1 (2021), pp. 1–20.* \\
+   <cite-o-meter doi="10.51628/001c.28328" arxiv="2109.09649" layout="badge" lazy="true"></cite-o-meter>
+11. **[Piecewise holistic autotuning of parallel programs with CERE](https://hal.uvsq.fr/hal-01542912/file/2017_CERE_tuning_Concurrency_and_Computation__Practice_and_Experience%20%281%29.pdf)**. \\
 Mihail Popov, Chadi Akel, **Yohan Chatelain**, William Jalby, and Pablo de Oliveira Castro.
 *Concurrency and Computation: Practice and Experience, vol. 29, Aug 2017.* \\
    <cite-o-meter doi="10.1002/cpe.4190" layout="badge" lazy="true"></cite-o-meter>
 
 ## Peer-reviewed publications in conferences
 
-1. **[Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation](https://openreview.net/forum?id=YbBUBBi9Co)** \\
+1. **[Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation](https://papers.miccai.org/miccai-2026-sat/UNSURE2026_029.html)** \\
 Inés Gonzalez Pepe, Vinuyan Sivakolunthu, **Yohan Chatelain**, Tristan Glatard.
-*International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2026). Poster.* \\
+*International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE, MICCAI) (2026). Poster.* [Supplementary material](https://papers.miccai.org/miccai-2026-sat/supp/UNSURE2026_029_supp.pdf). \\
    <cite-o-meter arxiv="2509.05238" layout="badge" lazy="true"></cite-o-meter>
-2. **[Numerical uncertainty in linear registration: An experimental study](https://arxiv.org/abs/2508.00781)** \\
+2. **[Numerical Uncertainty in Linear Registration: An Experimental Study](https://doi.org/10.1007/978-3-032-06593-3_6)** \\
 Niusha Mirhakimi, **Yohan Chatelain**, Jean-Baptiste Poline, and Tristan Glatard.
-*International Workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (2025).* \\
-   <cite-o-meter arxiv="2508.00781" layout="badge" lazy="true"></cite-o-meter>
+*UNSURE 2025 proceedings, Lecture Notes in Computer Science 16166, pp. 56–66.* \\
+   <cite-o-meter doi="10.1007/978-3-032-06593-3_6" arxiv="2508.00781" layout="badge" lazy="true"></cite-o-meter>
 3. **[The Impact of Hardware Variability on Applications Packaged with Docker and Guix: a Case Study in Neuroimaging](https://dl.acm.org/doi/pdf/10.1145/3641525.3663626).** \\
 Vila, Gael, Emmanuel Medernach, Inés Gonzalez, Axel Bonnet, **Yohan Chatelain**, Michael Sdika, Tristan Glatard, and Sorina Camarasu-Pop.
 *Proceedings of the 2nd ACM Conference on Reproducibility and Replicability* :sparkles: <span style="color:Chocolate"><strong>Best Paper Award</strong></span> :sparkles: \\
@@ -96,8 +100,8 @@ Arel Encin, Inés Gonzalez Pepe, **Yohan Chatelain**, Erin Dickie, Tristan Glata
 3. **[Conservative & Aggressive NaNs Accelerate U-Nets for Neuroimaging](https://arxiv.org/pdf/2601.17180)** \\
 Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Jacob Fortin, Yohan Chatelain, Tristan Glatard. *arXiv preprint arXiv:2601.17180 (2026)* \\
    <cite-o-meter arxiv="2601.17180" layout="badge" lazy="true"></cite-o-meter>
-4. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v1.abstract)** \\
-Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025).* \\
+4. **[Numerical Variability of functional MRI Graph Measures](https://www.biorxiv.org/content/10.64898/2025.12.22.695524v3.abstract)** \\
+Mina Alizadeh, **Yohan Chatelain**, Gregory Kiar, Tristan Glatard. *bioRxiv (2025, revised February 11, 2026).* \\
    <cite-o-meter biorxiv="10.64898/2025.12.22.695524" layout="badge" lazy="true"></cite-o-meter>
 5. **[The impact of FreeSurfer versions on structural neuroimaging analyses of Parkinson's disease](https://www.biorxiv.org/content/biorxiv/early/2024/11/14/2024.11.11.623071.full.pdf)** \\
 Andrzej Sokolowski, Nikhil Bhagwat, Dimitrios Kirbizakis, **Yohan Chatelain**, Mathieu Dugre, Jean-Baptiste Poline, Madeleine Sharp, Tristan Glatard. *bioRxiv:2024.11.11.623071* \\
@@ -109,10 +113,6 @@ Inés Gonzalez Pepe, Vinuyan Sivakolunthu, Hae Lang Park, **Yohan Chatelain**, T
 Mohanad Arafe, Nikhil Bhagwat, **Yohan Chatelain**, Mathieu Dugre, Andrzej Sokolowski, Michelle Wang, Yiming Xiao, Madeleine Sharp, Jean-Baptiste Poline, Tristan Glatard.
 *bioRxiv:2023.05.05.539590.* \\
    <cite-o-meter biorxiv="10.1101/2023.05.05.539590" layout="badge" lazy="true"></cite-o-meter>
-8. **[Data Augmentation Through Monte Carlo Arithmetic Leads to More Generalizable Classification in Connectomics](https://arxiv.org/abs/2109.09649)**. \\
-Gregory Kiar, **Yohan Chatelain**, Ali Salari, Alan C. Evans, Tristan Glatard.
-*arXiv preprint arXiv:2109.09649 (2021).* \\
-   <cite-o-meter arxiv="2109.09649" layout="badge" lazy="true"></cite-o-meter>
 
 ## Communications at international conferences (abstract)
 2. **[A numerical variability approach to results stability tests and its application to neuroimaging]()**. \\
